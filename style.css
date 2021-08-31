@@ -76,7 +76,7 @@ main {
 .wrapper .pre-item {
     min-width: 30rem;
     max-width: 30rem;
-    <!-- margin-right: 2.5rem; -->
+    margin-right: 2.5rem;
     background: none;
 }
 
