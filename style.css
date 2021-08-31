@@ -70,12 +70,12 @@ main {
     display: flex;
     overflow-x: auto;
     overscroll-behavior-x: contain;
-    padding-left: 3.125rem;
+    padding-left: 1.25rem;
 }
   
 .wrapper .pre-item {
-    min-width: 30rem;
-    max-width: 30rem;
+    min-width: 25rem;
+    max-width: 25rem;
     margin-right: 2.5rem;
     background: none;
 }
@@ -93,12 +93,12 @@ main {
 }
 
 .type_titlecontent {
-    font-family: 'Mulish';
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 600;
-    font-size: 2.70rem;
+    font-size: 2.50rem;
     line-height: 3.5rem;
-    letter-spacing: -0.045rem;
+    letter-spacing: -0.05rem;
     color: #373F41;
     padding-top: 0.938rem;
 }
@@ -116,8 +116,8 @@ main {
 
 
 .wrapper .item {
-    min-width: 30rem;
-    max-width: 30rem;
+    min-width: 27rem;
+    max-width: 27rem;
     margin-right: 2.5rem;
     background: #FFFFFF;
     box-shadow: 0.625rem 0.625rem 3.125 rgba(0, 0, 0, 0.1);
@@ -255,7 +255,7 @@ section::after {
     text-transform: uppercase;
     letter-spacing: 0.094rem;
     font-weight: 500;
-    color: black
+    color: black;
     background-color: none;
     border: none;
     transition: all 0.3s ease 0s;
@@ -268,6 +268,13 @@ section::after {
     box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.1);
     color: #fff;
     transform: translateY(-2px);
+}
+
+.contactus2:hover {
+    background-color: none;
+    box-shadow: 0px 15px 20px none;
+    color: black;
+    transform: translateX(20px);
 }
 
 .type_milestoneinfo {
@@ -289,16 +296,16 @@ section::after {
     margin-left: auto; 
     margin-right: auto;
     text-align: center;
-    padding-top: 2.5rem;
-    padding-bottom: 2.5rem;
+    padding-top: 1.875rem;
+    padding-bottom: 1.875rem;
 }
   
 .btn1-1 {
-    margin-right: 10px;
-    width: 12.5rem;
-    height: 4.375rem;
+    margin-right: 1.25rem;
+    width: 9.438rem;
+    height: 3.313rem;
     font-family: 'Roboto', sans-serif;
-    font-size: 1.125rem;
+    font-size: 0.75rem;
     text-transform: uppercase;
     letter-spacing: 0.078rem;
     font-weight: 500;
@@ -313,11 +320,11 @@ section::after {
 }
 
 .btn1-2 {
-    margin-right: 10px;
-    width: 12.5rem;
-    height: 4.375rem;
+    margin-right: 1.25rem;
+    width: 9.438rem;
+    height: 3.313rem;
     font-family: 'Roboto', sans-serif;
-    font-size: 1.125rem;
+    font-size: 0.75rem;
     text-transform: uppercase;
     letter-spacing: 0.078rem;
     font-weight: 500;
@@ -372,4 +379,3 @@ footer {
     vertical-align: middle;
     padding: 0.938rem;
 }
-
