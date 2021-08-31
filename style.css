@@ -70,7 +70,7 @@ main {
     display: flex;
     overflow-x: auto;
     overscroll-behavior-x: contain;
-    padding-left: 4.375rem;
+    padding-left: 3.125rem;
 }
   
 .wrapper .pre-item {
