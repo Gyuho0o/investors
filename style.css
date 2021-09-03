@@ -36,7 +36,17 @@ header {
     min-height: 5.5rem;
     background-color: #FFFFFF;
     border-bottom: solid 0.006rem black;
-    display: flex;
+}
+
+.headerlogo {
+    float: left;
+}
+
+.headercontact {
+    float: right;
+    display:inline-block;
+    padding-top: 1.313rem;
+    padding-right: 4.375rem;
 }
 
 .logo {
@@ -53,6 +63,7 @@ header {
 /* main part */
 main {
     width: 100vw;
+    /* width: 100%; */
     height: calc(100vh-9rem);
     background: #EFF0F2;
 }
@@ -64,8 +75,8 @@ main {
   
 .wrapper {
     border: none;
-    /* padding-top: 11rem;
-    padding-bottom: 11rem; */
+    /* padding-top: 7.5rem;
+    padding-bottom: 7.5rem; */
     padding-top: 0.75rem;
     padding-bottom: 0.75rem;
     display: flex;
@@ -286,6 +297,7 @@ section::after {
     top: 20.625px;
     font-family: Roboto;
     font-size: 9px;
+    font-weight: 600;
     align-items: center;
     text-align: center;
     color: #838383;
