@@ -280,12 +280,12 @@ section::after {
 }
 
 .mouseinfo {
-    width: 173px;
-    height: 21px;
-    left: 143px;
-    top: 330px;
+    width: 10.813rem;
+    height: 1.313rem;
+    left: 8.938rem;
+    top: 20.625px;
     font-family: Roboto;
-    font-size: 0.563rem;
+    font-size: 9px;
     align-items: center;
     text-align: center;
     color: #838383;
