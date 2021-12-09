@@ -1197,7 +1197,7 @@
   width: 80px;
   height: 12px;
   flex-grow: 0;
-  margin: 0 20px 0 0;
+  margin: 0 11px 0 0;
   font-family: Roboto;
   font-size: 12px;
   font-weight: 300;
@@ -1267,7 +1267,7 @@
   flex-grow: 0;
   margin: 24px 16px 42.7px 0;
   font-family: Roboto;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 300;
   font-stretch: normal;
   font-style: normal;
@@ -1423,7 +1423,7 @@
 
 ._Actions1-mobile {
   width: 260px;
-  height: 30px;
+  height: 35px;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -1577,3 +1577,4 @@ input {
   transform: translateY(-2px);
   transition: all ease 0.1s 0s;
 }
+
