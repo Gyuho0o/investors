@@ -1,0 +1,102 @@
+:root {
+  --alabaster: #fafafa;
+  --black: #000000;
+  --cape-cod: #373f41;
+  --masala: #403e3e;
+  --mine-shaft: #2f2f2fcc;
+  --nobel: #b2b2b2;
+  --rolling-stone: #737b7d;
+  --royal-blue: #3d6deb;
+  --white: #ffffff;
+
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-s: 15px;
+  --font-size-xl: 35px;
+  --font-size-xs: 14px;
+  --font-size-xxs: 12px;
+  --font-size-xxxs: 10px;
+
+  --font-family-font_awesome_5_free-solid: "Font Awesome 5 Free-Solid", Helvetica;
+  --font-family-mulish: "Mulish", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.roboto-bold-masala-15px {
+  color: var(--masala);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  /* font-size: 16px; */
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-light-masala-14px {
+  color: var(--masala);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.fontawesome5free-solid-normal-nobel-20px {
+  color: var(--nobel);
+  font-family: var(--font-family-font_awesome_5_free-solid);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-medium-mine-shaft-10px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.roboto-bold-white-18px {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-royal-blue-18px {
+  color: var(--royal-blue);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-normal-rolling-stone-12px {
+  color: var(--rolling-stone);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mulish-semi-bold-royal-blue-35px {
+  color: var(--royal-blue);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.mulish-semi-bold-cape-cod-35px {
+  color: var(--cape-cod);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+}
