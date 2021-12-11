@@ -49,18 +49,18 @@
       },
       {
         id : 3,
-        TeamName_Under10 : '노팅(세샤트)',
-        TeamInfo_Under10 : '디지털로 학습하는 z세대를 위한, 교재 e-book 플랫폼',
-        TeamDate_Under10 : '2020년 6월 25일',
-        TeamCEO_Under10 : '이윤지',
-        TeamEmail_Under10 : 'yoonjilee@noteing.com',
-        TeamWebsite_Under10 : 'https://www.noteing.com/',
-        TeamFundingCondition_Under10 : '6억원(post 60억원 희망)',
-        TeamPriorvalue_Under10 : 'post 5.5억원',
-        TeamPurpose1_Under10 : '정산, 판매 안내, 책 등록 페이지 개발',
-        TeamPurpose2_Under10 : '필기 품질 충족, 필기 공유 기능 개발 고도화',
-        TeamPurpose3_Under10 : '출판사 영업 확대, 온라인 마케팅',
-        TeamSector_Under10 : 'Education',
+        TeamName_Under10 : '다이나메딕',
+        TeamInfo_Under10 : '의료용 전동 핸드피스 전문기업',
+        TeamDate_Under10 : '2018년 10월 4일',
+        TeamCEO_Under10 : '최형섭',
+        TeamEmail_Under10 : 'isidore@dynamedic.co.kr',
+        TeamWebsite_Under10 : 'http://www.dynamedic.co.kr/',
+        TeamFundingCondition_Under10 : '5억원(post 50억원 희망)',
+        TeamPriorvalue_Under10 : '(미팅 시 공개)',
+        TeamPurpose1_Under10 : '원자재 구입',
+        TeamPurpose2_Under10 : '전동 수술도구 및 소모품 생산 시설 구비',
+        TeamPurpose3_Under10 : '재사용 라지본 파워툴 인증',
+        TeamSector_Under10 : 'Hardware',
         TeamIR_Under10 : '',
       },
       {
@@ -129,18 +129,18 @@
       },
       {
         id : 8,
-        TeamName_Under10 : '다이나메딕',
-        TeamInfo_Under10 : '의료용 전동 핸드피스 전문기업',
-        TeamDate_Under10 : '2018년 10월 4일',
-        TeamCEO_Under10 : '최형섭',
-        TeamEmail_Under10 : 'isidore@dynamedic.co.kr',
-        TeamWebsite_Under10 : 'http://www.dynamedic.co.kr/',
-        TeamFundingCondition_Under10 : '5억원(post 50억원 희망)',
-        TeamPriorvalue_Under10 : '(미팅 시 공개)',
-        TeamPurpose1_Under10 : '원자재 구입',
-        TeamPurpose2_Under10 : '전동 수술도구 및 소모품 생산 시설 구비',
-        TeamPurpose3_Under10 : '재사용 라지본 파워툴 인증',
-        TeamSector_Under10 : 'Hardware',
+        TeamName_Under10 : '',
+        TeamInfo_Under10 : '',
+        TeamDate_Under10 : '',
+        TeamCEO_Under10 : '',
+        TeamEmail_Under10 : '',
+        TeamWebsite_Under10 : '',
+        TeamFundingCondition_Under10 : '',
+        TeamPriorvalue_Under10 : '',
+        TeamPurpose1_Under10 : '',
+        TeamPurpose2_Under10 : '',
+        TeamPurpose3_Under10 : '',
+        TeamSector_Under10 : '',
         TeamIR_Under10 : '',
       },
       {
@@ -261,19 +261,19 @@
       },
       {
         id : 5,
-        TeamName_Under50 : '',
-        TeamInfo_Under50 : '',
-        TeamDate_Under50 : '',
-        TeamCEO_Under50 : '',
-        TeamEmail_Under50 : '',
-        TeamWebsite_Under50 : '',
-        TeamFundingCondition_Under50 : '',
-        TeamPriorvalue_Under50 : '',
-        TeamPurpose1_Under50 : '',
-        TeamPurpose2_Under50 : '',
-        TeamPurpose3_Under50 : '',
-        TeamSector_Under50 : '',
-        TeamIR_Under50 : '',
+        TeamName_Under50 : '뚜누(아트라미)',
+        TeamInfo_Under50 : '시각예술 독립 아티스트 커머스 플랫폼',
+        TeamDate_Under50 : '2018년 5월 5일',
+        TeamCEO_Under50 : '김현태',
+        TeamEmail_Under50 : 'hyeontaekim@tounou.co.kr',
+        TeamWebsite_Under50 : 'https://www.tounou.co.kr/',
+        TeamFundingCondition_Under50 : '25억원(post 억원 희망)',
+        TeamPriorvalue_Under50 : 'post 25억원',
+        TeamPurpose1_Under50 : '소프트웨어 개발 및 업데이트',
+        TeamPurpose2_Under50 : '브랜딩 및 마케팅',
+        TeamPurpose3_Under50 : '설비 확장',
+        TeamSector_Under50 : 'E-Commerce & Logistics',
+        TeamIR_Under50 : 'https://bit.ly/3IFARoH',
       },
       {
         id : 6,
@@ -887,7 +887,7 @@
 
     $('#modal-open-Under10-4').click(function(){
         모달창열기_Under10(3);
-        $('.TeamIR').attr("href", "https://tinyurl.com/noteing"); //노팅 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/dynamedic"); //다이나메딕 자료
     });
 
     $('#modal-open-Under10-5').click(function(){
@@ -912,7 +912,7 @@
 
     $('#modal-open-Under10-9').click(function(){
         모달창열기_Under10(8);
-        $('.TeamIR').attr("href", "https://tinyurl.com/dynamedic"); //다이나메딕 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-10').click(function(){
@@ -963,7 +963,7 @@
 
     $('#modal-open-Under50-6').click(function(){
         모달창열기_Under50(5);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://bit.ly/3IFARoH"); //아트라미 자료
     });
 
     $('#modal-open-Under50-7').click(function(){
@@ -1166,7 +1166,7 @@
 
     $('#modal-open-Under10-4-mobile').click(function(){
         Mobile모달창열기_Under10(3);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/noteing"); //노팅 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/dynamedic"); //다이나메딕 자료
     });
 
     $('#modal-open-Under10-5-mobile').click(function(){
@@ -1191,7 +1191,7 @@
 
     $('#modal-open-Under10-9-mobile').click(function(){
         Mobile모달창열기_Under10(8);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/dynamedic"); //다이나메딕 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-10-mobile').click(function(){
@@ -1244,7 +1244,7 @@
 
     $('#modal-open-Under50-6-mobile').click(function(){
         Mobile모달창열기_Under50(5);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://bit.ly/3IFARoH"); //아트라미 자료
     });
 
     $('#modal-open-Under50-7-mobile').click(function(){
