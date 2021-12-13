@@ -267,7 +267,7 @@
         TeamCEO_Under50 : '김현태',
         TeamEmail_Under50 : 'hyeontaekim@tounou.co.kr',
         TeamWebsite_Under50 : 'https://www.tounou.co.kr/',
-        TeamFundingCondition_Under50 : '25억원(post 억원 희망)',
+        TeamFundingCondition_Under50 : '25억원(post 100억원 희망)',
         TeamPriorvalue_Under50 : 'post 25억원',
         TeamPurpose1_Under50 : '소프트웨어 개발 및 업데이트',
         TeamPurpose2_Under50 : '브랜딩 및 마케팅',
