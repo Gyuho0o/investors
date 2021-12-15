@@ -273,7 +273,7 @@
         TeamPurpose2_Under50 : '브랜딩 및 마케팅',
         TeamPurpose3_Under50 : '설비 확장',
         TeamSector_Under50 : 'E-Commerce & Logistics',
-        TeamIR_Under50 : 'https://bit.ly/3IFARoH',
+        TeamIR_Under50 : 'https://tinyurl.com/tounou211215',
       },
       {
         id : 6,
@@ -963,7 +963,7 @@
 
     $('#modal-open-Under50-6').click(function(){
         모달창열기_Under50(5);
-        $('.TeamIR').attr("href", "https://tinyurl.com/tounou"); //아트라미 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/tounou211215"); //아트라미 자료
     });
 
     $('#modal-open-Under50-7').click(function(){
@@ -1244,7 +1244,7 @@
 
     $('#modal-open-Under50-6-mobile').click(function(){
         Mobile모달창열기_Under50(5);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou"); //아트라미 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou211215"); //아트라미 자료
     });
 
     $('#modal-open-Under50-7-mobile').click(function(){
