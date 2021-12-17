@@ -726,7 +726,7 @@
         TeamCEO_Complete : '최재영',
         TeamEmail_Complete : 'tim@fitco.style',
         TeamWebsite_Complete : 'https://fitcobox.com/',
-        TeamFundingCondition_Complete : '(펀딩 종료)',
+        TeamFundingCondition_Complete : '(펀딩 완료)',
         TeamPriorvalue_Complete : 'post 100억원',
         TeamPurpose1_Complete : '브랜드 정식 입점을 위한 거래량 증가',
         TeamPurpose2_Complete : '거래량 증가 후 브랜드 정식 입점',
@@ -736,18 +736,18 @@
         },
         {
          id : 1,
-         TeamName_Complete : '',
-         TeamInfo_Complete : '',
-         TeamDate_Complete : '',
-         TeamCEO_Complete : '',
-         TeamEmail_Complete : '',
-         TeamWebsite_Complete : '',
-         TeamFundingCondition_Complete : '',
-         TeamPriorvalue_Complete : '',
-         TeamPurpose1_Complete : '',
-         TeamPurpose2_Complete : '',
-         TeamPurpose3_Complete : '',
-         TeamSector_Complete : '',
+         TeamName_Complete : '노팅(세샤트)',
+         TeamInfo_Complete : '디지털로 학습하는 z세대를 위한, 교재 e-book 플랫폼',
+         TeamDate_Complete : '2020년 6월 25일',
+         TeamCEO_Complete : '이윤지',
+         TeamEmail_Complete : 'yoonjilee@noteing.com',
+         TeamWebsite_Complete : 'https://www.noteing.com/',
+         TeamFundingCondition_Complete : '(펀딩 완료)',
+         TeamPriorvalue_Complete : 'post 60억원',
+         TeamPurpose1_Complete : '정산, 판매 안내, 책 등록 페이지 개발',
+         TeamPurpose2_Complete : '필기 품질 충족, 필기 공유 기능 개발 고도화',
+         TeamPurpose3_Complete : '출판사 영업 확대, 온라인 마케팅',
+         TeamSector_Complete : 'Education',
          TeamIR_Complete : '',
         },
         {
@@ -1107,12 +1107,12 @@
 
     $('#modal-open-Under10-7').click(function(){
         모달창열기_Under10(6);
-        $('.TeamIR').attr("href", "https://tinyurl.com/fitcoir"); //투모런스 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/koodon"); //쿠돈 자료
     });
 
     $('#modal-open-Under10-8').click(function(){
         모달창열기_Under10(7);
-        $('.TeamIR').attr("href", "https://tinyurl.com/koodon"); //쿠돈 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-9').click(function(){
@@ -1351,12 +1351,12 @@
     $('#modal-open-Complete-1').click(function(){
         // e.preventDefault(); //안열리게하는 기능
         모달창열기_Complete(0);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/fitcoir"); //투모런스 자료
     });
 
     $('#modal-open-Complete-2').click(function(){
         모달창열기_Complete(1);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/noteing"); //세샤트 자료
     });
 
     $('#modal-open-Complete-3').click(function(){
@@ -1460,12 +1460,12 @@
 
     $('#modal-open-Under10-7-mobile').click(function(){
         Mobile모달창열기_Under10(6);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/fitcoir"); //투모런스 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/koodon"); //쿠돈 자료
     });
 
     $('#modal-open-Under10-8-mobile').click(function(){
         Mobile모달창열기_Under10(7);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/koodon"); //쿠돈 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-9-mobile').click(function(){
@@ -1566,32 +1566,32 @@
     $('#modal-open-Under100-1-mobile').click(function(){
         e.preventDefault(); //안열리게하는 기능
         Mobile모달창열기_Under100(0);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/aialice"); //슈퍼패스트브로스 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under100-2-mobile').click(function(){
         Mobile모달창열기_Under100(1);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/thecheatir"); //더치트 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under100-3-mobile').click(function(){
         Mobile모달창열기_Under100(2);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/sandbankir"); //디에이그라운드 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under100-4-mobile').click(function(){
         Mobile모달창열기_Under100(3);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/lyclecompany"); //라이클컴퍼니 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under100-5-mobile').click(function(){
         Mobile모달창열기_Under100(4);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/evetusir"); //이벤터스 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under100-6-mobile').click(function(){
         Mobile모달창열기_Under100(5);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou211215"); //아트라미 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under100-7-mobile').click(function(){
@@ -1633,32 +1633,32 @@
     $('#modal-open-Over100-1-mobile').click(function(){
         e.preventDefault(); //안열리게하는 기능
         Mobile모달창열기_Over100(0);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/aialice"); //슈퍼패스트브로스 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Over100-2-mobile').click(function(){
         Mobile모달창열기_Over100(1);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/thecheatir"); //더치트 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Over100-3-mobile').click(function(){
         Mobile모달창열기_Over100(2);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/sandbankir"); //디에이그라운드 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Over100-4-mobile').click(function(){
         Mobile모달창열기_Over100(3);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/lyclecompany"); //라이클컴퍼니 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Over100-5-mobile').click(function(){
         Mobile모달창열기_Over100(4);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/evetusir"); //이벤터스 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Over100-6-mobile').click(function(){
         Mobile모달창열기_Over100(5);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou211215"); //아트라미 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Over100-7-mobile').click(function(){
@@ -1700,32 +1700,32 @@
 
     $('#modal-open-Complete-1-mobile').click(function(){
         Mobile모달창열기_Complete(0);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/aialice"); //슈퍼패스트브로스 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/fitcoir"); //투모런스 자료
     });
 
     $('#modal-open-Complete-2-mobile').click(function(){
         Mobile모달창열기_Complete(1);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/thecheatir"); //더치트 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/noteing"); //세샤트 자료
     });
 
     $('#modal-open-Complete-3-mobile').click(function(){
         Mobile모달창열기_Complete(2);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/sandbankir"); //디에이그라운드 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-4-mobile').click(function(){
         Mobile모달창열기_Complete(3);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/lyclecompany"); //라이클컴퍼니 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-5-mobile').click(function(){
         Mobile모달창열기_Complete(4);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/evetusir"); //이벤터스 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-6-mobile').click(function(){
         Mobile모달창열기_Complete(5);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou211215"); //아트라미 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-7-mobile').click(function(){
