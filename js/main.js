@@ -719,20 +719,20 @@
 
     var PrimerClub_Complete = [
         {
-        id : 0,
-        TeamName_Complete : '핏코(투모런스)',
-        TeamInfo_Complete : '바쁜 현대인을 위한 옷 쇼핑 대행 서비스',
-        TeamDate_Complete : '2018년 7월',
-        TeamCEO_Complete : '최재영',
-        TeamEmail_Complete : 'tim@fitco.style',
-        TeamWebsite_Complete : 'https://fitcobox.com/',
-        TeamFundingCondition_Complete : '(펀딩 완료)',
-        TeamPriorvalue_Complete : 'post 100억원',
-        TeamPurpose1_Complete : '브랜드 정식 입점을 위한 거래량 증가',
-        TeamPurpose2_Complete : '거래량 증가 후 브랜드 정식 입점',
-        TeamPurpose3_Complete : '거래량 증가로 인한 판매 수수료 인상',
-        TeamSector_Complete : 'Fashion & Beauty',
-        TeamIR_Complete : '',
+         id : 0,
+         TeamName_Complete : '핏코(투모런스)',
+         TeamInfo_Complete : '바쁜 현대인을 위한 옷 쇼핑 대행 서비스',
+         TeamDate_Complete : '2018년 7월',
+         TeamCEO_Complete : '최재영',
+         TeamEmail_Complete : 'tim@fitco.style',
+         TeamWebsite_Complete : 'https://fitcobox.com/',
+         TeamFundingCondition_Complete : '(펀딩 완료)',
+         TeamPriorvalue_Complete : 'post 100억원',
+         TeamPurpose1_Complete : '브랜드 정식 입점을 위한 거래량 증가',
+         TeamPurpose2_Complete : '거래량 증가 후 브랜드 정식 입점',
+         TeamPurpose3_Complete : '거래량 증가로 인한 판매 수수료 인상',
+         TeamSector_Complete : 'Fashion & Beauty',
+         TeamIR_Complete : '',
         },
         {
          id : 1,
@@ -1349,7 +1349,6 @@
     };
 
     $('#modal-open-Complete-1').click(function(){
-        // e.preventDefault(); //안열리게하는 기능
         모달창열기_Complete(0);
         $('.TeamIR').attr("href", "https://tinyurl.com/fitcoir"); //투모런스 자료
     });
@@ -1748,13 +1747,7 @@
         $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
-
-
-
-
-
-
-
+    // Mobile Modal Open
 
 
     $('#modal-close-mobile').click(function(){
