@@ -97,22 +97,6 @@
       },
       {
         id : 6,
-        TeamName_Under10 : '핏코(투모런스)',
-        TeamInfo_Under10 : '바쁜 현대인을 위한 옷 쇼핑 대행 서비스',
-        TeamDate_Under10 : '2018년 7월',
-        TeamCEO_Under10 : '최재영',
-        TeamEmail_Under10 : 'tim@fitco.style',
-        TeamWebsite_Under10 : 'https://fitcobox.com/',
-        TeamFundingCondition_Under10 : '10억원(post 100억원 희망)',
-        TeamPriorvalue_Under10 : '(미팅 시 공개)',
-        TeamPurpose1_Under10 : '브랜드 정식 입점을 위한 거래량 증가',
-        TeamPurpose2_Under10 : '거래량 증가 후 브랜드 정식 입점',
-        TeamPurpose3_Under10 : '거래량 증가로 인한 판매 수수료 인상',
-        TeamSector_Under10 : 'Fashion & Beauty',
-        TeamIR_Under10 : '',
-      },
-      {
-        id : 7,
         TeamName_Under10 : '쿠돈',
         TeamInfo_Under10 : '모바일 중고 명품 거래 서비스',
         TeamDate_Under10 : '2018년 6월 11일',
@@ -125,6 +109,22 @@
         TeamPurpose2_Under10 : '상품 선 사입 활성화로 인한 마진율 개선',
         TeamPurpose3_Under10 : 'BEP 달성 및 월거래액 15억원 달성',
         TeamSector_Under10 : 'Fashion & Beauty',
+        TeamIR_Under10 : '',
+      },
+      {
+        id : 7,
+        TeamName_Under10 : '',
+        TeamInfo_Under10 : '',
+        TeamDate_Under10 : '',
+        TeamCEO_Under10 : '',
+        TeamEmail_Under10 : '',
+        TeamWebsite_Under10 : '',
+        TeamFundingCondition_Under10 : '',
+        TeamPriorvalue_Under10 : '',
+        TeamPurpose1_Under10 : '',
+        TeamPurpose2_Under10 : '',
+        TeamPurpose3_Under10 : '',
+        TeamSector_Under10 : '',
         TeamIR_Under10 : '',
       },
       {
@@ -717,6 +717,185 @@
         },
     ];
 
+    var PrimerClub_Complete = [
+        {
+        id : 0,
+        TeamName_Complete : '핏코(투모런스)',
+        TeamInfo_Complete : '바쁜 현대인을 위한 옷 쇼핑 대행 서비스',
+        TeamDate_Complete : '2018년 7월',
+        TeamCEO_Complete : '최재영',
+        TeamEmail_Complete : 'tim@fitco.style',
+        TeamWebsite_Complete : 'https://fitcobox.com/',
+        TeamFundingCondition_Complete : '(펀딩 종료)',
+        TeamPriorvalue_Complete : 'post 100억원',
+        TeamPurpose1_Complete : '브랜드 정식 입점을 위한 거래량 증가',
+        TeamPurpose2_Complete : '거래량 증가 후 브랜드 정식 입점',
+        TeamPurpose3_Complete : '거래량 증가로 인한 판매 수수료 인상',
+        TeamSector_Complete : 'Fashion & Beauty',
+        TeamIR_Complete : '',
+        },
+        {
+         id : 1,
+         TeamName_Complete : '',
+         TeamInfo_Complete : '',
+         TeamDate_Complete : '',
+         TeamCEO_Complete : '',
+         TeamEmail_Complete : '',
+         TeamWebsite_Complete : '',
+         TeamFundingCondition_Complete : '',
+         TeamPriorvalue_Complete : '',
+         TeamPurpose1_Complete : '',
+         TeamPurpose2_Complete : '',
+         TeamPurpose3_Complete : '',
+         TeamSector_Complete : '',
+         TeamIR_Complete : '',
+        },
+        {
+         id : 2,
+         TeamName_Complete : '',
+         TeamInfo_Complete : '',
+         TeamDate_Complete : '',
+         TeamCEO_Complete : '',
+         TeamEmail_Complete : '',
+         TeamWebsite_Complete : '',
+         TeamFundingCondition_Complete : '',
+         TeamPriorvalue_Complete : '',
+         TeamPurpose1_Complete : '',
+         TeamPurpose2_Complete : '',
+         TeamPurpose3_Complete : '',
+         TeamSector_Complete : '',
+         TeamIR_Complete : '',
+        },
+        {
+         id : 3,
+         TeamName_Complete : '',
+         TeamInfo_Complete : '',
+         TeamDate_Complete : '',
+         TeamCEO_Complete : '',
+         TeamEmail_Complete : '',
+         TeamWebsite_Complete : '',
+         TeamFundingCondition_Complete : '',
+         TeamPriorvalue_Complete : '',
+         TeamPurpose1_Complete : '',
+         TeamPurpose2_Complete : '',
+         TeamPurpose3_Complete : '',
+         TeamSector_Complete : '',
+         TeamIR_Complete : '',
+        },
+        {
+         id : 4,
+         TeamName_Complete : '',
+         TeamInfo_Complete : '',
+         TeamDate_Complete : '',
+         TeamCEO_Complete : '',
+         TeamEmail_Complete : '',
+         TeamWebsite_Complete : '',
+         TeamFundingCondition_Complete : '',
+         TeamPriorvalue_Complete : '',
+         TeamPurpose1_Complete : '',
+         TeamPurpose2_Complete : '',
+         TeamPurpose3_Complete : '',
+         TeamSector_Complete : '',
+         TeamIR_Complete : '',
+        },
+        {
+         id : 5,
+         TeamName_Complete : '',
+         TeamInfo_Complete : '',
+         TeamDate_Complete : '',
+         TeamCEO_Complete : '',
+         TeamEmail_Complete : '',
+         TeamWebsite_Complete : '',
+         TeamFundingCondition_Complete : '',
+         TeamPriorvalue_Complete : '',
+         TeamPurpose1_Complete : '',
+         TeamPurpose2_Complete : '',
+         TeamPurpose3_Complete : '',
+         TeamSector_Complete : '',
+         TeamIR_Complete : '',
+        },
+        {
+         id : 6,
+         TeamName_Complete : '',
+         TeamInfo_Complete : '',
+         TeamDate_Complete : '',
+         TeamCEO_Complete : '',
+         TeamEmail_Complete : '',
+         TeamWebsite_Complete : '',
+         TeamFundingCondition_Complete : '',
+         TeamPriorvalue_Complete : '',
+         TeamPurpose1_Complete : '',
+         TeamPurpose2_Complete : '',
+         TeamPurpose3_Complete : '',
+         TeamSector_Complete : '',
+         TeamIR_Complete : '',
+        },
+        {
+         id : 7,
+         TeamName_Complete : '',
+         TeamInfo_Complete : '',
+         TeamDate_Complete : '',
+         TeamCEO_Complete : '',
+         TeamEmail_Complete : '',
+         TeamWebsite_Complete : '',
+         TeamFundingCondition_Complete : '',
+         TeamPriorvalue_Complete : '',
+         TeamPurpose1_Complete : '',
+         TeamPurpose2_Complete : '',
+         TeamPurpose3_Complete : '',
+         TeamSector_Complete : '',
+         TeamIR_Complete : '',
+        },
+        {
+         id : 8,
+         TeamName_Complete : '',
+         TeamInfo_Complete : '',
+         TeamDate_Complete : '',
+         TeamCEO_Complete : '',
+         TeamEmail_Complete : '',
+         TeamWebsite_Complete : '',
+         TeamFundingCondition_Complete : '',
+         TeamPriorvalue_Complete : '',
+         TeamPurpose1_Complete : '',
+         TeamPurpose2_Complete : '',
+         TeamPurpose3_Complete : '',
+         TeamSector_Complete : '',
+         TeamIR_Complete : '',
+        },
+        {
+         id : 9,
+         TeamName_Complete : '',
+         TeamInfo_Complete : '',
+         TeamDate_Complete : '',
+         TeamCEO_Complete : '',
+         TeamEmail_Complete : '',
+         TeamWebsite_Complete : '',
+         TeamFundingCondition_Complete : '',
+         TeamPriorvalue_Complete : '',
+         TeamPurpose1_Complete : '',
+         TeamPurpose2_Complete : '',
+         TeamPurpose3_Complete : '',
+         TeamSector_Complete : '',
+         TeamIR_Complete : '',
+        },
+        {
+         id : 10,
+         TeamName_Complete : '',
+         TeamInfo_Complete : '',
+         TeamDate_Complete : '',
+         TeamCEO_Complete : '',
+         TeamEmail_Complete : '',
+         TeamWebsite_Complete : '',
+         TeamFundingCondition_Complete : '',
+         TeamPriorvalue_Complete : '',
+         TeamPurpose1_Complete : '',
+         TeamPurpose2_Complete : '',
+         TeamPurpose3_Complete : '',
+         TeamSector_Complete : '',
+         TeamIR_Complete : '',
+        },
+    ];
+
     function PC팀호출(구멍1, 구멍2){
         $('.TeamName_Under10').eq(구멍1).html(PrimerClub_Under10[구멍2].TeamName_Under10);
         $('.TeamInfo_Under10').eq(구멍1).html(PrimerClub_Under10[구멍2].TeamInfo_Under10);
@@ -770,6 +949,19 @@
         $('.TeamPurpose2_Over100').eq(구멍1).html(PrimerClub_Over100[구멍2].TeamPurpose2_Over100);
         $('.TeamPurpose3_Over100').eq(구멍1).html(PrimerClub_Over100[구멍2].TeamPurpose3_Over100);
         $('.TeamSector_Over100').eq(구멍1).html(PrimerClub_Over100[구멍2].TeamSector_Over100);
+
+        $('.TeamName_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamName_Complete);
+        $('.TeamInfo_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamInfo_Complete);
+        $('.TeamDate_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamDate_Complete);
+        $('.TeamCEO_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamCEO_Complete);
+        $('.TeamEmail_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamEmail_Complete);
+        $('.TeamWebsite_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamWebsite_Complete);
+        $('.TeamFundingCondition_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamFundingCondition_Complete);
+        $('.TeamPriorvalue_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamPriorvalue_Complete);
+        $('.TeamPurpose1_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamPurpose1_Complete);
+        $('.TeamPurpose2_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamPurpose2_Complete);
+        $('.TeamPurpose3_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamPurpose3_Complete);
+        $('.TeamSector_Complete').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamSector_Complete);
     };
 
     PC팀호출(0 ,0);
@@ -838,6 +1030,19 @@
         $('.TeamPurpose2_Over100_Mobile').eq(구멍1).html(PrimerClub_Over100[구멍2].TeamPurpose2_Over100);
         $('.TeamPurpose3_Over100_Mobile').eq(구멍1).html(PrimerClub_Over100[구멍2].TeamPurpose3_Over100);
         $('.TeamSector_Over100_Mobile').eq(구멍1).html(PrimerClub_Over100[구멍2].TeamSector_Over100);
+
+        $('.TeamName_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamName_Complete);
+        $('.TeamInfo_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamInfo_Complete);
+        $('.TeamDate_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamDate_Complete);
+        $('.TeamCEO_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamCEO_Complete);
+        $('.TeamEmail_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamEmail_Complete);
+        $('.TeamWebsite_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamWebsite_Complete);
+        $('.TeamFundingCondition_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamFundingCondition_Complete);
+        $('.TeamPriorvalue_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamPriorvalue_Complete);
+        $('.TeamPurpose1_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamPurpose1_Complete);
+        $('.TeamPurpose2_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamPurpose2_Complete);
+        $('.TeamPurpose3_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamPurpose3_Complete);
+        $('.TeamSector_Complete_Mobile').eq(구멍1).html(PrimerClub_Complete[구멍2].TeamSector_Complete);
     };
 
     Mobile팀호출(0 ,0);
@@ -1125,6 +1330,80 @@
       $('.black-background').hide();
       e.preventDefault();
     });
+
+
+    function 모달창열기_Complete(모달구멍) {
+        $('.black-background').css('display', 'block');
+        $('.TeamName').html(PrimerClub_Complete[모달구멍].TeamName_Complete);
+        $('.TeamInfo').html(PrimerClub_Complete[모달구멍].TeamInfo_Complete);
+        $('.TeamDate').html(PrimerClub_Complete[모달구멍].TeamDate_Complete);
+        $('.TeamCEO').html(PrimerClub_Complete[모달구멍].TeamCEO_Complete);
+        $('.TeamEmail').html(PrimerClub_Complete[모달구멍].TeamEmail_Complete);
+        $('.TeamWebsite').html(PrimerClub_Complete[모달구멍].TeamWebsite_Complete);
+        $('.TeamFundingCondition').html(PrimerClub_Complete[모달구멍].TeamFundingCondition_Complete);
+        $('.TeamPriorvalue').html(PrimerClub_Complete[모달구멍].TeamPriorvalue_Complete);
+        $('.TeamPurpose1').html(PrimerClub_Complete[모달구멍].TeamPurpose1_Complete);
+        $('.TeamPurpose2').html(PrimerClub_Complete[모달구멍].TeamPurpose2_Complete);
+        $('.TeamPurpose3').html(PrimerClub_Complete[모달구멍].TeamPurpose3_Complete);
+        $('.TeamSector').html(PrimerClub_Complete[모달구멍].TeamSector_Complete);
+    };
+
+    $('#modal-open-Complete-1').click(function(){
+        // e.preventDefault(); //안열리게하는 기능
+        모달창열기_Complete(0);
+        $('.TeamIR').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-2').click(function(){
+        모달창열기_Complete(1);
+        $('.TeamIR').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-3').click(function(){
+        모달창열기_Complete(2);
+        $('.TeamIR').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-4').click(function(){
+        모달창열기_Complete(3);
+        $('.TeamIR').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-5').click(function(){
+        모달창열기_Complete(4);
+        $('.TeamIR').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-6').click(function(){
+        모달창열기_Complete(5);
+        $('.TeamIR').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-7').click(function(){
+        모달창열기_Complete(6);
+        $('.TeamIR').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-8').click(function(){
+        모달창열기_Complete(7);
+        $('.TeamIR').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-9').click(function(){
+        모달창열기_Complete(8);
+        $('.TeamIR').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-10').click(function(){
+        모달창열기_Complete(9);
+        $('.TeamIR').attr("href", ""); //??? 자료
+    });
+    // PC Modal Open
+
+    $('#modal-close').click(function(){
+      $('.black-background').hide();
+      e.preventDefault();
+    });
     // PC Modal Close
 
 
@@ -1264,6 +1543,208 @@
 
     $('#modal-open-Under50-10-mobile').click(function(){
         Mobile모달창열기_Under50(9);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+
+    function Mobile모달창열기_Under100(모달구멍) {
+        $('.black-background-mobile').css('display', 'block');
+        $('.TeamName_Mobile').html(PrimerClub_Under100[모달구멍].TeamName_Under100);
+        $('.TeamInfo_Mobile').html(PrimerClub_Under100[모달구멍].TeamInfo_Under100);
+        $('.TeamDate_Mobile').html(PrimerClub_Under100[모달구멍].TeamDate_Under100);
+        $('.TeamCEO_Mobile').html(PrimerClub_Under100[모달구멍].TeamCEO_Under100);
+        $('.TeamEmail_Mobile').html(PrimerClub_Under100[모달구멍].TeamEmail_Under100);
+        $('.TeamWebsite_Mobile').html(PrimerClub_Under100[모달구멍].TeamWebsite_Under100);
+        $('.TeamFundingCondition_Mobile').html(PrimerClub_Under100[모달구멍].TeamFundingCondition_Under100);
+        $('.TeamPriorvalue_Mobile').html(PrimerClub_Under100[모달구멍].TeamPriorvalue_Under100);
+        $('.TeamPurpose1_Mobile').html(PrimerClub_Under100[모달구멍].TeamPurpose1_Under100);
+        $('.TeamPurpose2_Mobile').html(PrimerClub_Under100[모달구멍].TeamPurpose2_Under100);
+        $('.TeamPurpose3_Mobile').html(PrimerClub_Under100[모달구멍].TeamPurpose3_Under100);
+        $('.TeamSector_Mobile').html(PrimerClub_Under100[모달구멍].TeamSector_Under100);
+    };
+
+    $('#modal-open-Under100-1-mobile').click(function(){
+        e.preventDefault(); //안열리게하는 기능
+        Mobile모달창열기_Under100(0);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/aialice"); //슈퍼패스트브로스 자료
+    });
+
+    $('#modal-open-Under100-2-mobile').click(function(){
+        Mobile모달창열기_Under100(1);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/thecheatir"); //더치트 자료
+    });
+
+    $('#modal-open-Under100-3-mobile').click(function(){
+        Mobile모달창열기_Under100(2);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/sandbankir"); //디에이그라운드 자료
+    });
+
+    $('#modal-open-Under100-4-mobile').click(function(){
+        Mobile모달창열기_Under100(3);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/lyclecompany"); //라이클컴퍼니 자료
+    });
+
+    $('#modal-open-Under100-5-mobile').click(function(){
+        Mobile모달창열기_Under100(4);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/evetusir"); //이벤터스 자료
+    });
+
+    $('#modal-open-Under100-6-mobile').click(function(){
+        Mobile모달창열기_Under100(5);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou211215"); //아트라미 자료
+    });
+
+    $('#modal-open-Under100-7-mobile').click(function(){
+        Mobile모달창열기_Under100(6);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Under100-8-mobile').click(function(){
+        Mobile모달창열기_Under100(7);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Under100-9-mobile').click(function(){
+        Mobile모달창열기_Under100(8);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Under100-10-mobile').click(function(){
+        Mobile모달창열기_Under100(9);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+    function Mobile모달창열기_Over100(모달구멍) {
+        $('.black-background-mobile').css('display', 'block');
+        $('.TeamName_Mobile').html(PrimerClub_Over100[모달구멍].TeamName_Over100);
+        $('.TeamInfo_Mobile').html(PrimerClub_Over100[모달구멍].TeamInfo_Over100);
+        $('.TeamDate_Mobile').html(PrimerClub_Over100[모달구멍].TeamDate_Over100);
+        $('.TeamCEO_Mobile').html(PrimerClub_Over100[모달구멍].TeamCEO_Over100);
+        $('.TeamEmail_Mobile').html(PrimerClub_Over100[모달구멍].TeamEmail_Over100);
+        $('.TeamWebsite_Mobile').html(PrimerClub_Over100[모달구멍].TeamWebsite_Over100);
+        $('.TeamFundingCondition_Mobile').html(PrimerClub_Over100[모달구멍].TeamFundingCondition_Over100);
+        $('.TeamPriorvalue_Mobile').html(PrimerClub_Over100[모달구멍].TeamPriorvalue_Over100);
+        $('.TeamPurpose1_Mobile').html(PrimerClub_Over100[모달구멍].TeamPurpose1_Over100);
+        $('.TeamPurpose2_Mobile').html(PrimerClub_Over100[모달구멍].TeamPurpose2_Over100);
+        $('.TeamPurpose3_Mobile').html(PrimerClub_Over100[모달구멍].TeamPurpose3_Over100);
+        $('.TeamSector_Mobile').html(PrimerClub_Over100[모달구멍].TeamSector_Over100);
+    };
+
+    $('#modal-open-Over100-1-mobile').click(function(){
+        e.preventDefault(); //안열리게하는 기능
+        Mobile모달창열기_Over100(0);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/aialice"); //슈퍼패스트브로스 자료
+    });
+
+    $('#modal-open-Over100-2-mobile').click(function(){
+        Mobile모달창열기_Over100(1);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/thecheatir"); //더치트 자료
+    });
+
+    $('#modal-open-Over100-3-mobile').click(function(){
+        Mobile모달창열기_Over100(2);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/sandbankir"); //디에이그라운드 자료
+    });
+
+    $('#modal-open-Over100-4-mobile').click(function(){
+        Mobile모달창열기_Over100(3);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/lyclecompany"); //라이클컴퍼니 자료
+    });
+
+    $('#modal-open-Over100-5-mobile').click(function(){
+        Mobile모달창열기_Over100(4);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/evetusir"); //이벤터스 자료
+    });
+
+    $('#modal-open-Over100-6-mobile').click(function(){
+        Mobile모달창열기_Over100(5);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou211215"); //아트라미 자료
+    });
+
+    $('#modal-open-Over100-7-mobile').click(function(){
+        Mobile모달창열기_Over100(6);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Over100-8-mobile').click(function(){
+        Mobile모달창열기_Over100(7);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Over100-9-mobile').click(function(){
+        Mobile모달창열기_Over100(8);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Over100-10-mobile').click(function(){
+        Mobile모달창열기_Over100(9);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+
+    function Mobile모달창열기_Complete(모달구멍) {
+        $('.black-background-mobile').css('display', 'block');
+        $('.TeamName_Mobile').html(PrimerClub_Complete[모달구멍].TeamName_Complete);
+        $('.TeamInfo_Mobile').html(PrimerClub_Complete[모달구멍].TeamInfo_Complete);
+        $('.TeamDate_Mobile').html(PrimerClub_Complete[모달구멍].TeamDate_Complete);
+        $('.TeamCEO_Mobile').html(PrimerClub_Complete[모달구멍].TeamCEO_Complete);
+        $('.TeamEmail_Mobile').html(PrimerClub_Complete[모달구멍].TeamEmail_Complete);
+        $('.TeamWebsite_Mobile').html(PrimerClub_Complete[모달구멍].TeamWebsite_Complete);
+        $('.TeamFundingCondition_Mobile').html(PrimerClub_Complete[모달구멍].TeamFundingCondition_Complete);
+        $('.TeamPriorvalue_Mobile').html(PrimerClub_Complete[모달구멍].TeamPriorvalue_Complete);
+        $('.TeamPurpose1_Mobile').html(PrimerClub_Complete[모달구멍].TeamPurpose1_Complete);
+        $('.TeamPurpose2_Mobile').html(PrimerClub_Complete[모달구멍].TeamPurpose2_Complete);
+        $('.TeamPurpose3_Mobile').html(PrimerClub_Complete[모달구멍].TeamPurpose3_Complete);
+        $('.TeamSector_Mobile').html(PrimerClub_Complete[모달구멍].TeamSector_Complete);
+    };
+
+    $('#modal-open-Complete-1-mobile').click(function(){
+        Mobile모달창열기_Complete(0);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/aialice"); //슈퍼패스트브로스 자료
+    });
+
+    $('#modal-open-Complete-2-mobile').click(function(){
+        Mobile모달창열기_Complete(1);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/thecheatir"); //더치트 자료
+    });
+
+    $('#modal-open-Complete-3-mobile').click(function(){
+        Mobile모달창열기_Complete(2);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/sandbankir"); //디에이그라운드 자료
+    });
+
+    $('#modal-open-Complete-4-mobile').click(function(){
+        Mobile모달창열기_Complete(3);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/lyclecompany"); //라이클컴퍼니 자료
+    });
+
+    $('#modal-open-Complete-5-mobile').click(function(){
+        Mobile모달창열기_Complete(4);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/evetusir"); //이벤터스 자료
+    });
+
+    $('#modal-open-Complete-6-mobile').click(function(){
+        Mobile모달창열기_Complete(5);
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou211215"); //아트라미 자료
+    });
+
+    $('#modal-open-Complete-7-mobile').click(function(){
+        Mobile모달창열기_Complete(6);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-8-mobile').click(function(){
+        Mobile모달창열기_Complete(7);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-9-mobile').click(function(){
+        Mobile모달창열기_Complete(8);
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+    });
+
+    $('#modal-open-Complete-10-mobile').click(function(){
+        Mobile모달창열기_Complete(9);
         $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
