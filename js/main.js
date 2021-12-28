@@ -362,7 +362,7 @@
         {
          id : 0,
          TeamName_Under100 : '플랩풋볼',
-         TeamInfo_Under100 : '소셜 축구, 풋살 용병 모임',
+         TeamInfo_Under100 : '스포츠 소셜 서비스',
          TeamDate_Under100 : '2016년 8월 11일',
          TeamCEO_Under100 : '강동규',
          TeamEmail_Under100 : 'dongkyu.kang@plabfootball.com',
@@ -373,7 +373,7 @@
          TeamPurpose2_Under100 : '2023년까지 월 참가건수 22.5만건 달성',
          TeamPurpose3_Under100 : '타 종목 확장',
          TeamSector_Under100 : 'Leisure & Travel',
-         TeamIR_Under100 : '',
+         TeamIR_Under100 : 'https://tinyurl.com/plabfootball',
         },
         {
          id : 1,
@@ -1210,7 +1210,7 @@
     $('#modal-open-Under100-1').click(function(){
         // e.preventDefault(); //안열리게하는 기능
         모달창열기_Under100(0);
-        $('.TeamIR').attr("href", "https://www.plabfootball.com/"); //마이플레이컴퍼니 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/plabfootball"); //마이플레이컴퍼니 자료
     });
 
     $('#modal-open-Under100-2').click(function(){
