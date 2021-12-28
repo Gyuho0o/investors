@@ -113,19 +113,19 @@
       },
       {
         id : 7,
-        TeamName_Under10 : '',
-        TeamInfo_Under10 : '',
-        TeamDate_Under10 : '',
-        TeamCEO_Under10 : '',
-        TeamEmail_Under10 : '',
-        TeamWebsite_Under10 : '',
-        TeamFundingCondition_Under10 : '',
-        TeamPriorvalue_Under10 : '',
-        TeamPurpose1_Under10 : '',
-        TeamPurpose2_Under10 : '',
-        TeamPurpose3_Under10 : '',
-        TeamSector_Under10 : '',
-        TeamIR_Under10 : '',
+        TeamName_Under10 : '마이페어',
+        TeamInfo_Under10 : '해외 박람회 부스 간편 예약 플랫폼',
+        TeamDate_Under10 : '2018년 5월 31일',
+        TeamCEO_Under10 : '김현화',
+        TeamEmail_Under10 : 'roy@myfair.co',
+        TeamWebsite_Under10 : 'https://myfair.co/',
+        TeamFundingCondition_Under10 : '6억원(post 60억원 희망)',
+        TeamPriorvalue_Under10 : '(미팅 시 공개)',
+        TeamPurpose1_Under10 : '부스 예약 자동화 시스템 API 개발',
+        TeamPurpose2_Under10 : '부스에 필요한 서비스 마켓플레이스 개발',
+        TeamPurpose3_Under10 : '필요 인력 채용',
+        TeamSector_Under10 : 'Solution & Utility & SaaS',
+        TeamIR_Under10 : 'https://tinyurl.com/myfairir',
       },
       {
         id : 8,
@@ -277,19 +277,19 @@
       },
       {
         id : 6,
-        TeamName_Under50 : '',
-        TeamInfo_Under50 : '',
-        TeamDate_Under50 : '',
-        TeamCEO_Under50 : '',
-        TeamEmail_Under50 : '',
-        TeamWebsite_Under50 : '',
-        TeamFundingCondition_Under50 : '',
-        TeamPriorvalue_Under50 : '',
-        TeamPurpose1_Under50 : '',
-        TeamPurpose2_Under50 : '',
-        TeamPurpose3_Under50 : '',
-        TeamSector_Under50 : '',
-        TeamIR_Under50 : '',
+        TeamName_Under50 : '유모델러(트라이폴리곤)',
+        TeamInfo_Under50 : '메타버스 크리에이터를 위한 3D 모델링 서비스',
+        TeamDate_Under50 : '2018년 12월 21일',
+        TeamCEO_Under50 : '황재식',
+        TeamEmail_Under50 : 'hjs@tripolygon.com',
+        TeamWebsite_Under50 : 'https://bit.ly/3pzi337',
+        TeamFundingCondition_Under50 : '30억원(post 300억원 희망)',
+        TeamPriorvalue_Under50 : '(미팅 시 공개)',
+        TeamPurpose1_Under50 : '유니티 파트너십 고도화',
+        TeamPurpose2_Under50 : '유모델러 SaaS 국내 및 해외 출시',
+        TeamPurpose3_Under50 : '유모델러 Web(for 제페토/로블록스) 개발',
+        TeamSector_Under50 : 'Solution & Utility & SaaS',
+        TeamIR_Under50 : 'https://tinyurl.com/UModeler',
       },
       {
         id : 7,
@@ -361,18 +361,18 @@
     var PrimerClub_Under100 = [
         {
          id : 0,
-         TeamName_Under100 : 'COMING SOON',
-         TeamInfo_Under100 : 'COMING SOON',
-         TeamDate_Under100 : '',
-         TeamCEO_Under100 : '',
-         TeamEmail_Under100 : '',
-         TeamWebsite_Under100 : '',
-         TeamFundingCondition_Under100 : '',
-         TeamPriorvalue_Under100 : '',
-         TeamPurpose1_Under100 : '',
-         TeamPurpose2_Under100 : '',
-         TeamPurpose3_Under100 : '',
-         TeamSector_Under100 : '',
+         TeamName_Under100 : '플랩풋볼',
+         TeamInfo_Under100 : '소셜 축구, 풋살 용병 모임',
+         TeamDate_Under100 : '2016년 8월 11일',
+         TeamCEO_Under100 : '강동규',
+         TeamEmail_Under100 : 'dongkyu.kang@plabfootball.com',
+         TeamWebsite_Under100 : 'https://www.plabfootball.com/',
+         TeamFundingCondition_Under100 : '70억원(post 350억원)',
+         TeamPriorvalue_Under100 : '(미팅 시 공개)',
+         TeamPurpose1_Under100 : '2023년까지 월 매출 20억원 달성',
+         TeamPurpose2_Under100 : '2023년까지 월 참가건수 22.5만건 달성',
+         TeamPurpose3_Under100 : '타 종목 확장',
+         TeamSector_Under100 : 'Leisure & Travel',
          TeamIR_Under100 : '',
         },
         {
@@ -752,19 +752,19 @@
         },
         {
          id : 2,
-         TeamName_Complete : '',
-         TeamInfo_Complete : '',
-         TeamDate_Complete : '',
-         TeamCEO_Complete : '',
-         TeamEmail_Complete : '',
-         TeamWebsite_Complete : '',
-         TeamFundingCondition_Complete : '',
-         TeamPriorvalue_Complete : '',
-         TeamPurpose1_Complete : '',
-         TeamPurpose2_Complete : '',
-         TeamPurpose3_Complete : '',
-         TeamSector_Complete : '',
-         TeamIR_Complete : '',
+         TeamName_Complete : '텍스트넷(스피링크)',
+         TeamInfo_Complete : '메타버스 대응을 위한 휴먼 페르소나 설계 기업',
+         TeamDate_Complete : '2015년 4월 21일',
+         TeamCEO_Complete : '고경민',
+         TeamEmail_Complete : 'ceo@textnet.kr',
+         TeamWebsite_Complete : 'https://www.textnet.kr/',
+         TeamFundingCondition_Complete : '(펀딩 완료)',
+         TeamPriorvalue_Complete : 'post 100억원',
+         TeamPurpose1_Complete : '챗봇 시장 과반점유 및 확장을 위한 R&D',
+         TeamPurpose2_Complete : '페르소나 설계 자동화 SaaS',
+         TeamPurpose3_Complete : 'Human OS 구현을 통한 글로벌 진출',
+         TeamSector_Complete : 'Solution & Utility & SaaS',
+         TeamIR_Complete : 'https://tinyurl.com/textnetir',
         },
         {
          id : 3,
@@ -1112,7 +1112,7 @@
 
     $('#modal-open-Under10-8').click(function(){
         모달창열기_Under10(7);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
     });
 
     $('#modal-open-Under10-9').click(function(){
@@ -1173,7 +1173,7 @@
 
     $('#modal-open-Under50-7').click(function(){
         모달창열기_Under50(6);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/UModeler"); //트라이폴리곤 자료
     });
 
     $('#modal-open-Under50-8').click(function(){
@@ -1208,9 +1208,9 @@
     };
 
     $('#modal-open-Under100-1').click(function(){
-        e.preventDefault(); //안열리게하는 기능
+        // e.preventDefault(); //안열리게하는 기능
         모달창열기_Under100(0);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://www.plabfootball.com/"); //마이플레이컴퍼니 자료
     });
 
     $('#modal-open-Under100-2').click(function(){
@@ -1360,7 +1360,7 @@
 
     $('#modal-open-Complete-3').click(function(){
         모달창열기_Complete(2);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/textnetir"); //스피링크 자료
     });
 
     $('#modal-open-Complete-4').click(function(){
@@ -1464,7 +1464,7 @@
 
     $('#modal-open-Under10-8-mobile').click(function(){
         Mobile모달창열기_Under10(7);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
     });
 
     $('#modal-open-Under10-9-mobile').click(function(){
@@ -1527,7 +1527,7 @@
 
     $('#modal-open-Under50-7-mobile').click(function(){
         Mobile모달창열기_Under50(6);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/UModeler"); //트라이폴리곤 자료
     });
 
     $('#modal-open-Under50-8-mobile').click(function(){
@@ -1563,9 +1563,9 @@
     };
 
     $('#modal-open-Under100-1-mobile').click(function(){
-        e.preventDefault(); //안열리게하는 기능
+        // e.preventDefault(); //안열리게하는 기능
         Mobile모달창열기_Under100(0);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://www.plabfootball.com/"); //마이플레이컴퍼니 자료
     });
 
     $('#modal-open-Under100-2-mobile').click(function(){
