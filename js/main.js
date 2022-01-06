@@ -65,22 +65,6 @@
       },
       {
         id : 4,
-        TeamName_Under10 : '블랙서클(딜러타이어)',
-        TeamInfo_Under10 : '새로운 타이어 도매거래의 시작, 블랙서클',
-        TeamDate_Under10 : '2018년 6월 7일',
-        TeamCEO_Under10 : '이종필',
-        TeamEmail_Under10 : 'jp@dealertire.kr',
-        TeamWebsite_Under10 : 'https://www.blackcircles.co.kr/',
-        TeamFundingCondition_Under10 : '10억원(post 60억원 희망)',
-        TeamPriorvalue_Under10 : '(미팅 시 공개)',
-        TeamPurpose1_Under10 : '서비스 고도화를 위한 개발자 채용',
-        TeamPurpose2_Under10 : '물류경쟁력 확보위한 물류비 투자',
-        TeamPurpose3_Under10 : '오프라인 영업조직 확보',
-        TeamSector_Under10 : 'E-Commerce & Logistics',
-        TeamIR_Under10 : '',
-      },
-      {
-        id : 5,
         TeamName_Under10 : '컬렉터즈(에이오씨지)',
         TeamInfo_Under10 : '수집가를 위한 플랫폼',
         TeamDate_Under10 : '2020년 7월 1일',
@@ -96,7 +80,7 @@
         TeamIR_Under10 : '',
       },
       {
-        id : 6,
+        id : 5,
         TeamName_Under10 : '쿠돈',
         TeamInfo_Under10 : '모바일 중고 명품 거래 서비스',
         TeamDate_Under10 : '2018년 6월 11일',
@@ -112,7 +96,7 @@
         TeamIR_Under10 : '',
       },
       {
-        id : 7,
+        id : 6,
         TeamName_Under10 : '마이페어',
         TeamInfo_Under10 : '해외 박람회 부스 간편 예약 플랫폼',
         TeamDate_Under10 : '2018년 5월 31일',
@@ -126,6 +110,22 @@
         TeamPurpose3_Under10 : '필요 인력 채용',
         TeamSector_Under10 : 'Solution & Utility & SaaS',
         TeamIR_Under10 : 'https://tinyurl.com/myfairir',
+      },
+      {
+        id : 7,
+        TeamName_Under10 : '',
+        TeamInfo_Under10 : '',
+        TeamDate_Under10 : '',
+        TeamCEO_Under10 : '',
+        TeamEmail_Under10 : '',
+        TeamWebsite_Under10 : '',
+        TeamFundingCondition_Under10 : '',
+        TeamPriorvalue_Under10 : '',
+        TeamPurpose1_Under10 : '',
+        TeamPurpose2_Under10 : '',
+        TeamPurpose3_Under10 : '',
+        TeamSector_Under10 : '',
+        TeamIR_Under10 : '',
       },
       {
         id : 8,
@@ -768,19 +768,19 @@
         },
         {
          id : 3,
-         TeamName_Complete : '',
-         TeamInfo_Complete : '',
-         TeamDate_Complete : '',
-         TeamCEO_Complete : '',
-         TeamEmail_Complete : '',
-         TeamWebsite_Complete : '',
-         TeamFundingCondition_Complete : '',
-         TeamPriorvalue_Complete : '',
-         TeamPurpose1_Complete : '',
-         TeamPurpose2_Complete : '',
-         TeamPurpose3_Complete : '',
-         TeamSector_Complete : '',
-         TeamIR_Complete : '',
+         TeamName_Complete : '블랙서클(딜러타이어)',
+         TeamInfo_Complete : '새로운 타이어 도매거래의 시작, 블랙서클',
+         TeamDate_Complete : '2018년 6월 7일',
+         TeamCEO_Complete : '이종필',
+         TeamEmail_Complete : 'jp@dealertire.kr',
+         TeamWebsite_Complete : 'https://www.blackcircles.co.kr/',
+         TeamFundingCondition_Complete : '(펀딩 완료)',
+         TeamPriorvalue_Complete : 'post 60억원',
+         TeamPurpose1_Complete : '서비스 고도화를 위한 개발자 채용',
+         TeamPurpose2_Complete : '물류경쟁력 확보위한 물류비 투자',
+         TeamPurpose3_Complete : '오프라인 영업조직 확보',
+         TeamSector_Complete : 'E-Commerce & Logistics',
+         TeamIR_Complete : 'https://tinyurl.com/dealertire',
         },
         {
          id : 4,
@@ -1095,33 +1095,28 @@
         $('.TeamIR').attr("href", "https://tinyurl.com/dynamedic"); //다이나메딕 자료
     });
 
-    $('#modal-open-Under10-5').click(function(){
-        모달창열기_Under10(4);
-        $('.TeamIR').attr("href", "https://tinyurl.com/dealertire"); //딜러타이어 자료
-    });
-
     $('#modal-open-Under10-6').click(function(){
-        모달창열기_Under10(5);
+        모달창열기_Under10(4);
         $('.TeamIR').attr("href", "https://tinyurl.com/kollectors"); //에이오씨지 자료
     });
 
     $('#modal-open-Under10-7').click(function(){
-        모달창열기_Under10(6);
+        모달창열기_Under10(5);
         $('.TeamIR').attr("href", "https://tinyurl.com/koodon"); //쿠돈 자료
     });
 
     $('#modal-open-Under10-8').click(function(){
-        모달창열기_Under10(7);
+        모달창열기_Under10(6);
         $('.TeamIR').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
     });
 
     $('#modal-open-Under10-9').click(function(){
-        모달창열기_Under10(8);
+        모달창열기_Under10(7);
         $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-10').click(function(){
-        모달창열기_Under10(9);
+        모달창열기_Under10(8);
         $('.TeamIR').attr("href", ""); //??? 자료
     });
 
@@ -1365,7 +1360,7 @@
 
     $('#modal-open-Complete-4').click(function(){
         모달창열기_Complete(3);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/dealertire"); //딜러타이어 자료
     });
 
     $('#modal-open-Complete-5').click(function(){
@@ -1447,33 +1442,28 @@
         $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/dynamedic"); //다이나메딕 자료
     });
 
-    $('#modal-open-Under10-5-mobile').click(function(){
-        Mobile모달창열기_Under10(4);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/dealertire"); //딜러타이어 자료
-    });
-
     $('#modal-open-Under10-6-mobile').click(function(){
-        Mobile모달창열기_Under10(5);
+        Mobile모달창열기_Under10(4);
         $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/kollectors"); //에이오씨지 자료
     });
 
     $('#modal-open-Under10-7-mobile').click(function(){
-        Mobile모달창열기_Under10(6);
+        Mobile모달창열기_Under10(5);
         $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/koodon"); //쿠돈 자료
     });
 
     $('#modal-open-Under10-8-mobile').click(function(){
-        Mobile모달창열기_Under10(7);
+        Mobile모달창열기_Under10(6);
         $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
     });
 
     $('#modal-open-Under10-9-mobile').click(function(){
-        Mobile모달창열기_Under10(8);
+        Mobile모달창열기_Under10(7);
         $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-10-mobile').click(function(){
-        Mobile모달창열기_Under10(9);
+        Mobile모달창열기_Under10(8);
         $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
@@ -1565,7 +1555,7 @@
     $('#modal-open-Under100-1-mobile').click(function(){
         // e.preventDefault(); //안열리게하는 기능
         Mobile모달창열기_Under100(0);
-        $('.TeamIR_Mobile').attr("href", "https://www.plabfootball.com/"); //마이플레이컴퍼니 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/plabfootball"); //마이플레이컴퍼니 자료
     });
 
     $('#modal-open-Under100-2-mobile').click(function(){
@@ -1709,12 +1699,12 @@
 
     $('#modal-open-Complete-3-mobile').click(function(){
         Mobile모달창열기_Complete(2);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/textnetir"); //스피링크 자료
     });
 
     $('#modal-open-Complete-4-mobile').click(function(){
         Mobile모달창열기_Complete(3);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/dealertire"); //딜러타이어 자료
     });
 
     $('#modal-open-Complete-5-mobile').click(function(){
