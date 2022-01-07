@@ -1095,27 +1095,27 @@
         $('.TeamIR').attr("href", "https://tinyurl.com/dynamedic"); //다이나메딕 자료
     });
 
-    $('#modal-open-Under10-6').click(function(){
+    $('#modal-open-Under10-5').click(function(){
         모달창열기_Under10(4);
         $('.TeamIR').attr("href", "https://tinyurl.com/kollectors"); //에이오씨지 자료
     });
 
-    $('#modal-open-Under10-7').click(function(){
+    $('#modal-open-Under10-6').click(function(){
         모달창열기_Under10(5);
         $('.TeamIR').attr("href", "https://tinyurl.com/koodon"); //쿠돈 자료
     });
 
-    $('#modal-open-Under10-8').click(function(){
+    $('#modal-open-Under10-7').click(function(){
         모달창열기_Under10(6);
         $('.TeamIR').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
     });
 
-    $('#modal-open-Under10-9').click(function(){
+    $('#modal-open-Under10-8').click(function(){
         모달창열기_Under10(7);
         $('.TeamIR').attr("href", ""); //??? 자료
     });
 
-    $('#modal-open-Under10-10').click(function(){
+    $('#modal-open-Under10-9').click(function(){
         모달창열기_Under10(8);
         $('.TeamIR').attr("href", ""); //??? 자료
     });
@@ -1442,27 +1442,27 @@
         $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/dynamedic"); //다이나메딕 자료
     });
 
-    $('#modal-open-Under10-6-mobile').click(function(){
+    $('#modal-open-Under10-5-mobile').click(function(){
         Mobile모달창열기_Under10(4);
         $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/kollectors"); //에이오씨지 자료
     });
 
-    $('#modal-open-Under10-7-mobile').click(function(){
+    $('#modal-open-Under10-6-mobile').click(function(){
         Mobile모달창열기_Under10(5);
         $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/koodon"); //쿠돈 자료
     });
 
-    $('#modal-open-Under10-8-mobile').click(function(){
+    $('#modal-open-Under10-7-mobile').click(function(){
         Mobile모달창열기_Under10(6);
         $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
     });
 
-    $('#modal-open-Under10-9-mobile').click(function(){
+    $('#modal-open-Under10-8-mobile').click(function(){
         Mobile모달창열기_Under10(7);
         $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
-    $('#modal-open-Under10-10-mobile').click(function(){
+    $('#modal-open-Under10-9-mobile').click(function(){
         Mobile모달창열기_Under10(8);
         $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
