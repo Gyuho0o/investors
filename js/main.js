@@ -367,7 +367,7 @@
          TeamCEO_Under100 : '강동규',
          TeamEmail_Under100 : 'dongkyu.kang@plabfootball.com',
          TeamWebsite_Under100 : 'https://www.plabfootball.com/',
-         TeamFundingCondition_Under100 : '70억원(post 350억원)',
+         TeamFundingCondition_Under100 : '70억원(post 350억원 희망)',
          TeamPriorvalue_Under100 : '(미팅 시 공개)',
          TeamPurpose1_Under100 : '2023년까지 월 매출 20억원 달성',
          TeamPurpose2_Under100 : '2023년까지 월 참가건수 22.5만건 달성',
