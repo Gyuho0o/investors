@@ -33,19 +33,19 @@
       },
       {
         id : 2,
-        TeamName_Under10 : '쿠스(앱톤)',
-        TeamInfo_Under10 : 'B2B 화장품 기업을 위한 생산성 향상 SaaS',
-        TeamDate_Under10 : '2020년 8월 21일',
-        TeamCEO_Under10 : '김준태',
-        TeamEmail_Under10 : 'bexoss@gmail.com',
-        TeamWebsite_Under10 : 'https://coos.kr/',
-        TeamFundingCondition_Under10 : '5억원(post 35억원 희망)',
-        TeamPriorvalue_Under10 : 'post 5.5억원',
-        TeamPurpose1_Under10 : '수출 규제 국가별 고도화를 위한 채용',
-        TeamPurpose2_Under10 : '제품 고도화를 위한 개발자 2명 채용',
-        TeamPurpose3_Under10 : 'B2B 영업 인력 3~4명 채용',
-        TeamSector_Under10 : 'Fashion & Beauty',
-        TeamIR_Under10 : '',
+        TeamName_Under10 : '마이페어',
+        TeamInfo_Under10 : '해외 박람회 부스 간편 예약 플랫폼',
+        TeamDate_Under10 : '2018년 5월 31일',
+        TeamCEO_Under10 : '김현화',
+        TeamEmail_Under10 : 'roy@myfair.co',
+        TeamWebsite_Under10 : 'https://myfair.co/',
+        TeamFundingCondition_Under10 : '6억원(post 60억원 희망)',
+        TeamPriorvalue_Under10 : '(미팅 시 공개)',
+        TeamPurpose1_Under10 : '부스 예약 자동화 시스템 API 개발',
+        TeamPurpose2_Under10 : '부스에 필요한 서비스 마켓플레이스 개발',
+        TeamPurpose3_Under10 : '필요 인력 채용',
+        TeamSector_Under10 : 'Solution & Utility & SaaS',
+        TeamIR_Under10 : 'https://tinyurl.com/myfairir',
       },
       {
         id : 3,
@@ -81,35 +81,35 @@
       },
       {
         id : 5,
-        TeamName_Under10 : '쿠돈',
-        TeamInfo_Under10 : '모바일 중고 명품 거래 서비스',
-        TeamDate_Under10 : '2018년 6월 11일',
-        TeamCEO_Under10 : '이경표',
-        TeamEmail_Under10 : 'admin@koodon.com',
-        TeamWebsite_Under10 : 'https://www.koodon.com/',
-        TeamFundingCondition_Under10 : '10억원(post 60억원 희망)',
-        TeamPriorvalue_Under10 : '(미팅 시 공개)',
-        TeamPurpose1_Under10 : '9개월 베스트셀링 브랜드 상품 확보',
-        TeamPurpose2_Under10 : '상품 선 사입 활성화로 인한 마진율 개선',
-        TeamPurpose3_Under10 : 'BEP 달성 및 월거래액 15억원 달성',
-        TeamSector_Under10 : 'Fashion & Beauty',
+        TeamName_Under10 : '',
+        TeamInfo_Under10 : '',
+        TeamDate_Under10 : '',
+        TeamCEO_Under10 : '',
+        TeamEmail_Under10 : '',
+        TeamWebsite_Under10 : '',
+        TeamFundingCondition_Under10 : '',
+        TeamPriorvalue_Under10 : '',
+        TeamPurpose1_Under10 : '',
+        TeamPurpose2_Under10 : '',
+        TeamPurpose3_Under10 : '',
+        TeamSector_Under10 : '',
         TeamIR_Under10 : '',
       },
       {
         id : 6,
-        TeamName_Under10 : '마이페어',
-        TeamInfo_Under10 : '해외 박람회 부스 간편 예약 플랫폼',
-        TeamDate_Under10 : '2018년 5월 31일',
-        TeamCEO_Under10 : '김현화',
-        TeamEmail_Under10 : 'roy@myfair.co',
-        TeamWebsite_Under10 : 'https://myfair.co/',
-        TeamFundingCondition_Under10 : '6억원(post 60억원 희망)',
-        TeamPriorvalue_Under10 : '(미팅 시 공개)',
-        TeamPurpose1_Under10 : '부스 예약 자동화 시스템 API 개발',
-        TeamPurpose2_Under10 : '부스에 필요한 서비스 마켓플레이스 개발',
-        TeamPurpose3_Under10 : '필요 인력 채용',
-        TeamSector_Under10 : 'Solution & Utility & SaaS',
-        TeamIR_Under10 : 'https://tinyurl.com/myfairir',
+        TeamName_Under10 : '',
+        TeamInfo_Under10 : '',
+        TeamDate_Under10 : '',
+        TeamCEO_Under10 : '',
+        TeamEmail_Under10 : '',
+        TeamWebsite_Under10 : '',
+        TeamFundingCondition_Under10 : '',
+        TeamPriorvalue_Under10 : '',
+        TeamPurpose1_Under10 : '',
+        TeamPurpose2_Under10 : '',
+        TeamPurpose3_Under10 : '',
+        TeamSector_Under10 : '',
+        TeamIR_Under10 : '',
       },
       {
         id : 7,
@@ -283,7 +283,7 @@
         TeamCEO_Under50 : '황재식',
         TeamEmail_Under50 : 'hjs@tripolygon.com',
         TeamWebsite_Under50 : 'https://bit.ly/3pzi337',
-        TeamFundingCondition_Under50 : '30억원(post 300억원 희망)',
+        TeamFundingCondition_Under50 : '50억원(post 300억원 희망)',
         TeamPriorvalue_Under50 : '(미팅 시 공개)',
         TeamPurpose1_Under50 : '유니티 파트너십 고도화',
         TeamPurpose2_Under50 : '유모델러 SaaS 국내 및 해외 출시',
@@ -1087,7 +1087,7 @@
 
     $('#modal-open-Under10-3').click(function(){
         모달창열기_Under10(2);
-        $('.TeamIR').attr("href", "https://tinyurl.com/coosprimer"); //앱톤 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
     });
 
     $('#modal-open-Under10-4').click(function(){
@@ -1102,12 +1102,12 @@
 
     $('#modal-open-Under10-6').click(function(){
         모달창열기_Under10(5);
-        $('.TeamIR').attr("href", "https://tinyurl.com/koodon"); //쿠돈 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-7').click(function(){
         모달창열기_Under10(6);
-        $('.TeamIR').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-8').click(function(){
@@ -1168,7 +1168,7 @@
 
     $('#modal-open-Under50-7').click(function(){
         모달창열기_Under50(6);
-        $('.TeamIR').attr("href", "https://tinyurl.com/UModeler"); //트라이폴리곤 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/2p9c2c9s"); //트라이폴리곤 자료
     });
 
     $('#modal-open-Under50-8').click(function(){
@@ -1434,7 +1434,7 @@
 
     $('#modal-open-Under10-3-mobile').click(function(){
         Mobile모달창열기_Under10(2);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/coosprimer"); //앱톤 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
     });
 
     $('#modal-open-Under10-4-mobile').click(function(){
@@ -1449,12 +1449,12 @@
 
     $('#modal-open-Under10-6-mobile').click(function(){
         Mobile모달창열기_Under10(5);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/koodon"); //쿠돈 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-7-mobile').click(function(){
         Mobile모달창열기_Under10(6);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-8-mobile').click(function(){
@@ -1517,7 +1517,7 @@
 
     $('#modal-open-Under50-7-mobile').click(function(){
         Mobile모달창열기_Under50(6);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/UModeler"); //트라이폴리곤 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/2p9c2c9s"); //트라이폴리곤 자료
     });
 
     $('#modal-open-Under50-8-mobile').click(function(){
