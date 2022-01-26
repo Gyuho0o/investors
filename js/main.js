@@ -1148,7 +1148,7 @@
 
     $('#modal-open-Under50-3').click(function(){
         모달창열기_Under50(2);
-        $('.TeamIR').attr("href", "https://tinyurl.com/sandbankir"); //디에이그라운드 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/3xexuxb9"); //디에이그라운드 자료
     });
 
     $('#modal-open-Under50-4').click(function(){
@@ -1497,7 +1497,7 @@
 
     $('#modal-open-Under50-3-mobile').click(function(){
         Mobile모달창열기_Under50(2);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/sandbankir"); //디에이그라운드 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/3xexuxb9"); //디에이그라운드 자료
     });
 
     $('#modal-open-Under50-4-mobile').click(function(){
