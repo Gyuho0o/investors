@@ -15,7 +15,7 @@
         TeamPurpose2_Under10 : '컬렉션을 저장/자랑할 수 있는 기능 추가',
         TeamPurpose3_Under10 : '제휴 및 마케팅 비용',
         TeamSector_Under10 : 'E-Commerce & Logistics',
-        TeamIR_Under10 : 'https://tinyurl.com/5aes895j',
+        TeamIR_Under10 : 'https://tinyurl.com/mpbzu65j',
       },
       {
         id : 1,
@@ -1083,7 +1083,7 @@
 
     $('#modal-open-Under10-1').click(function(){
         모달창열기_Under10(0);
-        $('.TeamIR').attr("href", "https://tinyurl.com/5aes895j"); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/mpbzu65j"); //??? 자료
     });
 
 
@@ -1431,7 +1431,7 @@
 
     $('#modal-open-Under10-1-mobile').click(function(){
         Mobile모달창열기_Under10(0);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/5aes895j"); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/mpbzu65j"); //??? 자료
     });
 
     $('#modal-open-Under10-2-mobile').click(function(){
