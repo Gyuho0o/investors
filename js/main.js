@@ -1,23 +1,25 @@
-      var PrimerClub_Under10 = [
+
+    // 펀딩 중인 팀에 대한 정보 시작
+    var PrimerClub_Under10 = [
       {
         id : 0,
-        TeamName_Under10 : '빌림(레드로켓)',
-        TeamInfo_Under10 : '씬 파일러 고객 맞춤형 신용평가/대출 서비스',
-        TeamDate_Under10 : '2015년 7월 10일',
-        TeamCEO_Under10 : '박태홍',
-        TeamEmail_Under10 : 'taehong@redrocket.co.kr',
-        TeamWebsite_Under10 : 'https://campusfund.net/',
-        TeamFundingCondition_Under10 : '10억원(post 150억원 희망)',
-        TeamPriorvalue_Under10 : '(미팅 시 공개)',
-        TeamPurpose1_Under10 : '각 고객에 맞는 신용평가모델 고도화',
-        TeamPurpose2_Under10 : '5개 이상의 버티컬 금융상품 개발',
-        TeamPurpose3_Under10 : '연 1,000억원 이상 대출 집행',
-        TeamSector_Under10 : 'Fintech',
-        TeamIR_Under10 : '',
+        TeamName_Under10 : '에이오씨지(컬렉터즈)',
+        TeamInfo_Under10 : '팬심 기반 수집품 소유권 거래 플랫폼',
+        TeamDate_Under10 : '2020년 7월 1일',
+        TeamCEO_Under10 : '임미르',
+        TeamEmail_Under10 : 'comm@kollectors.app',
+        TeamWebsite_Under10 : 'https://home.kollectors.app/',
+        TeamFundingCondition_Under10 : '5억원(post 30억원 희망)',
+        TeamPriorvalue_Under10 : 'post 5.5억원',
+        TeamPurpose1_Under10 : '서비스 플랫폼 확장을 위한 채용',
+        TeamPurpose2_Under10 : '컬렉션을 저장/자랑할 수 있는 기능 추가',
+        TeamPurpose3_Under10 : '제휴 및 마케팅 비용',
+        TeamSector_Under10 : 'E-Commerce & Logistics',
+        TeamIR_Under10 : 'https://tinyurl.com/5aes895j',
       },
       {
         id : 1,
-        TeamName_Under10 : '비디오스튜(투블루)',
+        TeamName_Under10 : '투블루(비디오스튜)',
         TeamInfo_Under10 : '기획서를 고품질 동영상으로 변환해주는 제작 툴',
         TeamDate_Under10 : '2014년 6월 16일',
         TeamCEO_Under10 : '이흥현',
@@ -29,23 +31,23 @@
         TeamPurpose2_Under10 : '내년 정식버전 글로벌 론칭',
         TeamPurpose3_Under10 : '2026년 22만개 기업, 2천억원 매출 달성',
         TeamSector_Under10 : 'Solution & Utility & SaaS',
-        TeamIR_Under10 : '',
+        TeamIR_Under10 : 'https://tinyurl.com/videostew',
       },
       {
         id : 2,
-        TeamName_Under10 : '마이페어',
-        TeamInfo_Under10 : '해외 박람회 부스 간편 예약 플랫폼',
-        TeamDate_Under10 : '2018년 5월 31일',
-        TeamCEO_Under10 : '김현화',
-        TeamEmail_Under10 : 'roy@myfair.co',
-        TeamWebsite_Under10 : 'https://myfair.co/',
-        TeamFundingCondition_Under10 : '6억원(post 60억원 희망)',
+        TeamName_Under10 : '레드로켓(빌림)',
+        TeamInfo_Under10 : '씬 파일러 고객 맞춤형 신용평가/대출 서비스',
+        TeamDate_Under10 : '2015년 7월 10일',
+        TeamCEO_Under10 : '박태홍',
+        TeamEmail_Under10 : 'taehong@redrocket.co.kr',
+        TeamWebsite_Under10 : 'https://campusfund.net/',
+        TeamFundingCondition_Under10 : '10억원(post 150억원 희망)',
         TeamPriorvalue_Under10 : '(미팅 시 공개)',
-        TeamPurpose1_Under10 : '부스 예약 자동화 시스템 API 개발',
-        TeamPurpose2_Under10 : '부스에 필요한 서비스 마켓플레이스 개발',
-        TeamPurpose3_Under10 : '필요 인력 채용',
-        TeamSector_Under10 : 'Solution & Utility & SaaS',
-        TeamIR_Under10 : 'https://tinyurl.com/myfairir',
+        TeamPurpose1_Under10 : '각 고객에 맞는 신용평가모델 고도화',
+        TeamPurpose2_Under10 : '5개 이상의 버티컬 금융상품 개발',
+        TeamPurpose3_Under10 : '연 1,000억원 이상 대출 집행',
+        TeamSector_Under10 : 'Fintech',
+        TeamIR_Under10 : 'https://tinyurl.com/billim',
       },
       {
         id : 3,
@@ -61,22 +63,22 @@
         TeamPurpose2_Under10 : '전동 수술도구 및 소모품 생산 시설 구비',
         TeamPurpose3_Under10 : '재사용 라지본 파워툴 인증',
         TeamSector_Under10 : 'Hardware',
-        TeamIR_Under10 : '',
+        TeamIR_Under10 : 'https://tinyurl.com/dynamedic',
       },
       {
         id : 4,
-        TeamName_Under10 : '컬렉터즈(에이오씨지)',
-        TeamInfo_Under10 : '수집가를 위한 플랫폼',
-        TeamDate_Under10 : '2020년 7월 1일',
-        TeamCEO_Under10 : '임미르',
-        TeamEmail_Under10 : 'comm@kollectors.app',
-        TeamWebsite_Under10 : 'https://home.kollectors.app/',
-        TeamFundingCondition_Under10 : '5억원(post 30억원 희망)',
-        TeamPriorvalue_Under10 : 'post 5.5억원',
-        TeamPurpose1_Under10 : '서비스 플랫폼 확장을 위한 채용',
-        TeamPurpose2_Under10 : '컬렉션을 저장/자랑할 수 있는 기능 추가',
-        TeamPurpose3_Under10 : '제휴 및 마케팅 비용',
-        TeamSector_Under10 : 'E-Commerce & Logistics',
+        TeamName_Under10 : '',
+        TeamInfo_Under10 : '',
+        TeamDate_Under10 : '',
+        TeamCEO_Under10 : '',
+        TeamEmail_Under10 : '',
+        TeamWebsite_Under10 : '',
+        TeamFundingCondition_Under10 : '',
+        TeamPriorvalue_Under10 : '',
+        TeamPurpose1_Under10 : '',
+        TeamPurpose2_Under10 : '',
+        TeamPurpose3_Under10 : '',
+        TeamSector_Under10 : '',
         TeamIR_Under10 : '',
       },
       {
@@ -181,39 +183,39 @@
     var PrimerClub_Under50 = [
       {
         id : 0,
-        TeamName_Under50 : 'AI Alice(슈퍼패스트브로스)',
-        TeamInfo_Under50 : '프라이버시 보호 플랫폼',
-        TeamDate_Under50 : '2020년',
-        TeamCEO_Under50 : '이현승',
-        TeamEmail_Under50 : 'seth@alice-ai.io',
-        TeamWebsite_Under50 : 'https://alice-ai.io/',
-        TeamFundingCondition_Under50 : '30억원(post 330억원 희망)',
-        TeamPriorvalue_Under50 : '(미팅 시 공개)',
-        TeamPurpose1_Under50 : '검색 커버리지 확대',
-        TeamPurpose2_Under50 : '연구개발 비용 충당',
-        TeamPurpose3_Under50 : '연구개발 인력 채용',
-        TeamSector_Under50 : 'Solution & Utility & SaaS',
-        TeamIR_Under50 : '',
+        TeamName_Under50 : '원오브원',
+        TeamInfo_Under50 : '명품 그릇/가구 리세일 서비스',
+        TeamDate_Under50 : '2020년 2월 10일',
+        TeamCEO_Under50 : '이상희',
+        TeamEmail_Under50 : 'sanghee@oneofone.co.kr',
+        TeamWebsite_Under50 : 'https://www.oneofone.co.kr/',
+        TeamFundingCondition_Under50 : '20억원(post 200억원 희망)',
+        TeamPriorvalue_Under50 : 'post 40억원',
+        TeamPurpose1_Under50 : '22년 거래액 100억원 달성을 위한 상품매입비',
+        TeamPurpose2_Under50 : '마케팅 비용',
+        TeamPurpose3_Under50 : '인력 채용',
+        TeamSector_Under50 : 'E-Commerce & Logistics',
+        TeamIR_Under50 : 'https://tinyurl.com/mtaacwzu',
       },
       {
         id : 1,
-        TeamName_Under50 : '더치트',
-        TeamInfo_Under50 : '실시간 산출가능한 비금융 대안신용평가',
-        TeamDate_Under50 : '2012년 3월 14일',
-        TeamCEO_Under50 : '김화랑',
-        TeamEmail_Under50 : 'partner@thecheat.co.kr',
-        TeamWebsite_Under50 : 'https://thecheat.co.kr/',
-        TeamFundingCondition_Under50 : '30억원(post 120억원 희망)',
-        TeamPriorvalue_Under50 : '(미팅 시 공개)',
-        TeamPurpose1_Under50 : '전문개인신용평가 라이선스 자본금 확보',
-        TeamPurpose2_Under50 : '신용평가 모델링을 고도화 인력 보강',
-        TeamPurpose3_Under50 : '실시간 비금융 대안신용평가 기능 보완',
-        TeamSector_Under50 : 'Solution & Utility & SaaS',
-        TeamIR_Under50 : '',
+        TeamName_Under50 : '아트라미(뚜누)',
+        TeamInfo_Under50 : '시각예술 독립 아티스트 커머스 플랫폼',
+        TeamDate_Under50 : '2018년 5월 5일',
+        TeamCEO_Under50 : '김현태',
+        TeamEmail_Under50 : 'hyeontaekim@tounou.co.kr',
+        TeamWebsite_Under50 : 'https://www.tounou.co.kr/',
+        TeamFundingCondition_Under50 : '25억원(post 100억원 희망)',
+        TeamPriorvalue_Under50 : 'post 25억원',
+        TeamPurpose1_Under50 : '소프트웨어 개발 및 업데이트',
+        TeamPurpose2_Under50 : '브랜딩 및 마케팅',
+        TeamPurpose3_Under50 : '설비 확장',
+        TeamSector_Under50 : 'E-Commerce & Logistics',
+        TeamIR_Under50 : 'https://tinyurl.com/tounou211215',
       },
       {
         id : 2,
-        TeamName_Under50 : '샌드뱅크(디에이그라운드)',
+        TeamName_Under50 : '디에이그라운드(샌드뱅크)',
         TeamInfo_Under50 : '디지털 자산 예치/자산관리 서비스',
         TeamDate_Under50 : '2019년 8월 23일',
         TeamCEO_Under50 : '이현명',
@@ -225,11 +227,11 @@
         TeamPurpose2_Under50 : '글로벌 시장 진출을 위한 제반 비용',
         TeamPurpose3_Under50 : '규제 대응 및 금융권 수준의 인프라 구축',
         TeamSector_Under50 : 'Fintech',
-        TeamIR_Under50 : '',
+        TeamIR_Under50 : 'https://tinyurl.com/2p977wab',
       },
       {
         id : 3,
-        TeamName_Under50 : '라이클(라이클컴퍼니)',
+        TeamName_Under50 : '라이클컴퍼니(라이클)',
         TeamInfo_Under50 : '아웃도어 장비 렌탈 플랫폼',
         TeamDate_Under50 : '2018년 2월 6일',
         TeamCEO_Under50 : '정다움, 김백범',
@@ -241,7 +243,7 @@
         TeamPurpose2_Under50 : '캠핑장비 및 물류센터 확장',
         TeamPurpose3_Under50 : '퍼포먼스 마케팅 & 브랜딩',
         TeamSector_Under50 : 'Leisure & Travel',
-        TeamIR_Under50 : '',
+        TeamIR_Under50 : 'https://tinyurl.com/3aeedzfd',
       },
       {
         id : 4,
@@ -257,39 +259,39 @@
         TeamPurpose2_Under50 : '유료 호스트 추가 확보',
         TeamPurpose3_Under50 : '서비스 고도화',
         TeamSector_Under50 : 'Contents & Information',
-        TeamIR_Under50 : '',
+        TeamIR_Under50 : 'https://tinyurl.com/4fnp8z6j',
       },
       {
         id : 5,
-        TeamName_Under50 : '뚜누(아트라미)',
-        TeamInfo_Under50 : '시각예술 독립 아티스트 커머스 플랫폼',
-        TeamDate_Under50 : '2018년 5월 5일',
-        TeamCEO_Under50 : '김현태',
-        TeamEmail_Under50 : 'hyeontaekim@tounou.co.kr',
-        TeamWebsite_Under50 : 'https://www.tounou.co.kr/',
-        TeamFundingCondition_Under50 : '25억원(post 100억원 희망)',
-        TeamPriorvalue_Under50 : 'post 25억원',
-        TeamPurpose1_Under50 : '소프트웨어 개발 및 업데이트',
-        TeamPurpose2_Under50 : '브랜딩 및 마케팅',
-        TeamPurpose3_Under50 : '설비 확장',
-        TeamSector_Under50 : 'E-Commerce & Logistics',
-        TeamIR_Under50 : 'https://tinyurl.com/tounou211215',
+        TeamName_Under50 : '',
+        TeamInfo_Under50 : '',
+        TeamDate_Under50 : '',
+        TeamCEO_Under50 : '',
+        TeamEmail_Under50 : '',
+        TeamWebsite_Under50 : '',
+        TeamFundingCondition_Under50 : '',
+        TeamPriorvalue_Under50 : '',
+        TeamPurpose1_Under50 : '',
+        TeamPurpose2_Under50 : '',
+        TeamPurpose3_Under50 : '',
+        TeamSector_Under50 : '',
+        TeamIR_Under50 : '',
       },
       {
         id : 6,
-        TeamName_Under50 : '유모델러(트라이폴리곤)',
-        TeamInfo_Under50 : '메타버스 크리에이터를 위한 3D 모델링 서비스',
-        TeamDate_Under50 : '2018년 12월 21일',
-        TeamCEO_Under50 : '황재식',
-        TeamEmail_Under50 : 'hjs@tripolygon.com',
-        TeamWebsite_Under50 : 'https://bit.ly/3pzi337',
-        TeamFundingCondition_Under50 : '50억원(post 300억원 희망)',
-        TeamPriorvalue_Under50 : '(미팅 시 공개)',
-        TeamPurpose1_Under50 : '유니티 파트너십 고도화',
-        TeamPurpose2_Under50 : '유모델러 SaaS 국내 및 해외 출시',
-        TeamPurpose3_Under50 : '유모델러 Web(for 제페토/로블록스) 개발',
-        TeamSector_Under50 : 'Solution & Utility & SaaS',
-        TeamIR_Under50 : 'https://tinyurl.com/UModeler',
+        TeamName_Under50 : '',
+        TeamInfo_Under50 : '',
+        TeamDate_Under50 : '',
+        TeamCEO_Under50 : '',
+        TeamEmail_Under50 : '',
+        TeamWebsite_Under50 : '',
+        TeamFundingCondition_Under50 : '',
+        TeamPriorvalue_Under50 : '',
+        TeamPurpose1_Under50 : '',
+        TeamPurpose2_Under50 : '',
+        TeamPurpose3_Under50 : '',
+        TeamSector_Under50 : '',
+        TeamIR_Under50 : '',
       },
       {
         id : 7,
@@ -373,7 +375,7 @@
          TeamPurpose2_Under100 : '2023년까지 월 참가건수 22.5만건 달성',
          TeamPurpose3_Under100 : '타 종목 확장',
          TeamSector_Under100 : 'Leisure & Travel',
-         TeamIR_Under100 : 'https://tinyurl.com/plabfootball',
+         TeamIR_Under100 : 'https://tinyurl.com/bdcnmjk2',
         },
         {
          id : 1,
@@ -720,7 +722,7 @@
     var PrimerClub_Complete = [
         {
          id : 0,
-         TeamName_Complete : '핏코(투모런스)',
+         TeamName_Complete : '투모런스(핏코)',
          TeamInfo_Complete : '바쁜 현대인을 위한 옷 쇼핑 대행 서비스',
          TeamDate_Complete : '2018년 7월',
          TeamCEO_Complete : '최재영',
@@ -736,7 +738,7 @@
         },
         {
          id : 1,
-         TeamName_Complete : '노팅(세샤트)',
+         TeamName_Complete : '세샤트(노팅)',
          TeamInfo_Complete : '디지털로 학습하는 z세대를 위한, 교재 e-book 플랫폼',
          TeamDate_Complete : '2020년 6월 25일',
          TeamCEO_Complete : '이윤지',
@@ -752,7 +754,7 @@
         },
         {
          id : 2,
-         TeamName_Complete : '텍스트넷(스피링크)',
+         TeamName_Complete : '스피링크(텍스트넷)',
          TeamInfo_Complete : '메타버스 대응을 위한 휴먼 페르소나 설계 기업',
          TeamDate_Complete : '2015년 4월 21일',
          TeamCEO_Complete : '고경민',
@@ -764,11 +766,11 @@
          TeamPurpose2_Complete : '페르소나 설계 자동화 SaaS',
          TeamPurpose3_Complete : 'Human OS 구현을 통한 글로벌 진출',
          TeamSector_Complete : 'Solution & Utility & SaaS',
-         TeamIR_Complete : 'https://tinyurl.com/textnetir',
+         TeamIR_Complete : '',
         },
         {
          id : 3,
-         TeamName_Complete : '블랙서클(딜러타이어)',
+         TeamName_Complete : '딜러타이어(블랙서클)',
          TeamInfo_Complete : '새로운 타이어 도매거래의 시작, 블랙서클',
          TeamDate_Complete : '2018년 6월 7일',
          TeamCEO_Complete : '이종필',
@@ -780,54 +782,54 @@
          TeamPurpose2_Complete : '물류경쟁력 확보위한 물류비 투자',
          TeamPurpose3_Complete : '오프라인 영업조직 확보',
          TeamSector_Complete : 'E-Commerce & Logistics',
-         TeamIR_Complete : 'https://tinyurl.com/dealertire',
+         TeamIR_Complete : '',
         },
         {
          id : 4,
-         TeamName_Complete : '',
-         TeamInfo_Complete : '',
-         TeamDate_Complete : '',
-         TeamCEO_Complete : '',
-         TeamEmail_Complete : '',
-         TeamWebsite_Complete : '',
-         TeamFundingCondition_Complete : '',
-         TeamPriorvalue_Complete : '',
-         TeamPurpose1_Complete : '',
-         TeamPurpose2_Complete : '',
-         TeamPurpose3_Complete : '',
-         TeamSector_Complete : '',
+         TeamName_Complete : '마이페어',
+         TeamInfo_Complete : '해외 박람회 부스 간편 예약 플랫폼',
+         TeamDate_Complete : '2018년 5월 31일',
+         TeamCEO_Complete : '김현화',
+         TeamEmail_Complete : 'roy@myfair.co',
+         TeamWebsite_Complete : 'https://myfair.co/',
+         TeamFundingCondition_Complete : '(펀딩 완료)',
+         TeamPriorvalue_Complete : '비공개',
+         TeamPurpose1_Complete : '부스 예약 자동화 시스템 API 개발',
+         TeamPurpose2_Complete : '부스에 필요한 서비스 마켓플레이스 개발',
+         TeamPurpose3_Complete : '필요 인력 채용',
+         TeamSector_Complete : 'Solution & Utility & SaaS',
          TeamIR_Complete : '',
         },
         {
          id : 5,
-         TeamName_Complete : '',
-         TeamInfo_Complete : '',
-         TeamDate_Complete : '',
-         TeamCEO_Complete : '',
-         TeamEmail_Complete : '',
-         TeamWebsite_Complete : '',
-         TeamFundingCondition_Complete : '',
-         TeamPriorvalue_Complete : '',
-         TeamPurpose1_Complete : '',
-         TeamPurpose2_Complete : '',
-         TeamPurpose3_Complete : '',
-         TeamSector_Complete : '',
+         TeamName_Complete : '더치트',
+         TeamInfo_Complete : '실시간 산출가능한 비금융 대안신용평가',
+         TeamDate_Complete : '2012년 3월 14일',
+         TeamCEO_Complete : '김화랑',
+         TeamEmail_Complete : 'partner@thecheat.co.kr',
+         TeamWebsite_Complete : 'https://thecheat.co.kr/',
+         TeamFundingCondition_Complete : '30억원(post 120억원 희망)',
+         TeamPriorvalue_Complete : '(미팅 시 공개)',
+         TeamPurpose1_Complete : '전문개인신용평가 라이선스 자본금 확보',
+         TeamPurpose2_Complete : '신용평가 모델링을 고도화 인력 보강',
+         TeamPurpose3_Complete : '실시간 비금융 대안신용평가 기능 보완',
+         TeamSector_Complete : 'Solution & Utility & SaaS',
          TeamIR_Complete : '',
         },
         {
          id : 6,
-         TeamName_Complete : '',
-         TeamInfo_Complete : '',
-         TeamDate_Complete : '',
-         TeamCEO_Complete : '',
-         TeamEmail_Complete : '',
-         TeamWebsite_Complete : '',
-         TeamFundingCondition_Complete : '',
-         TeamPriorvalue_Complete : '',
-         TeamPurpose1_Complete : '',
-         TeamPurpose2_Complete : '',
-         TeamPurpose3_Complete : '',
-         TeamSector_Complete : '',
+         TeamName_Complete : '트라이폴리곤(유모델러)',
+         TeamInfo_Complete : '메타버스 크리에이터를 위한 3D 모델링 서비스',
+         TeamDate_Complete : '2018년 12월 21일',
+         TeamCEO_Complete : '황재식',
+         TeamEmail_Complete : 'hjs@tripolygon.com',
+         TeamWebsite_Complete : 'https://bit.ly/3pzi337',
+         TeamFundingCondition_Complete : '(펀딩 완료)',
+         TeamPriorvalue_Complete : '비공개',
+         TeamPurpose1_Complete : '유니티 파트너십 고도화',
+         TeamPurpose2_Complete : '유모델러 SaaS 국내 및 해외 출시',
+         TeamPurpose3_Complete : '유모델러 Web(for 제페토/로블록스) 개발',
+         TeamSector_Complete : 'Solution & Utility & SaaS',
          TeamIR_Complete : '',
         },
         {
@@ -895,6 +897,10 @@
          TeamIR_Complete : '',
         },
     ];
+
+    // 펀딩 중인 팀에 대한 정보 종료
+
+
 
     function PC팀호출(구멍1, 구멍2){
         $('.TeamName_Under10').eq(구멍1).html(PrimerClub_Under10[구멍2].TeamName_Under10);
@@ -1077,27 +1083,28 @@
 
     $('#modal-open-Under10-1').click(function(){
         모달창열기_Under10(0);
-        $('.TeamIR').attr("href", "https://tinyurl.com/billim"); //레드로켓 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/5aes895j"); //??? 자료
     });
+
 
     $('#modal-open-Under10-2').click(function(){
         모달창열기_Under10(1);
-        $('.TeamIR').attr("href", "https://tinyurl.com/videostew"); //투블루 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/videostew"); //??? 자료
     });
 
     $('#modal-open-Under10-3').click(function(){
         모달창열기_Under10(2);
-        $('.TeamIR').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/billim"); //??? 자료
     });
 
     $('#modal-open-Under10-4').click(function(){
         모달창열기_Under10(3);
-        $('.TeamIR').attr("href", "https://tinyurl.com/dynamedic"); //다이나메딕 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/dynamedic"); //??? 자료
     });
 
     $('#modal-open-Under10-5').click(function(){
         모달창열기_Under10(4);
-        $('.TeamIR').attr("href", "https://tinyurl.com/kollectors"); //에이오씨지 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-6').click(function(){
@@ -1138,37 +1145,37 @@
 
     $('#modal-open-Under50-1').click(function(){
         모달창열기_Under50(0);
-        $('.TeamIR').attr("href", "https://tinyurl.com/aialice"); //슈퍼패스트브로스 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/mtaacwzu"); //??? 자료
     });
 
     $('#modal-open-Under50-2').click(function(){
         모달창열기_Under50(1);
-        $('.TeamIR').attr("href", "https://tinyurl.com/thecheatir"); //더치트 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/tounou211215"); //??? 자료
     });
 
     $('#modal-open-Under50-3').click(function(){
         모달창열기_Under50(2);
-        $('.TeamIR').attr("href", "https://tinyurl.com/sandbankpictchdeck"); //디에이그라운드 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/2p977wab"); //??? 자료
     });
 
     $('#modal-open-Under50-4').click(function(){
         모달창열기_Under50(3);
-        $('.TeamIR').attr("href", "https://tinyurl.com/lyclecompany"); //라이클컴퍼니 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/3aeedzfd"); //??? 자료
     });
 
     $('#modal-open-Under50-5').click(function(){
         모달창열기_Under50(4);
-        $('.TeamIR').attr("href", "https://tinyurl.com/evetusir"); //이벤터스 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/4fnp8z6j"); //??? 자료
     });
 
     $('#modal-open-Under50-6').click(function(){
         모달창열기_Under50(5);
-        $('.TeamIR').attr("href", "https://tinyurl.com/tounou211215"); //아트라미 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under50-7').click(function(){
         모달창열기_Under50(6);
-        $('.TeamIR').attr("href", "https://tinyurl.com/2p9c2c9s"); //트라이폴리곤 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under50-8').click(function(){
@@ -1205,7 +1212,7 @@
     $('#modal-open-Under100-1').click(function(){
         // e.preventDefault(); //안열리게하는 기능
         모달창열기_Under100(0);
-        $('.TeamIR').attr("href", "https://tinyurl.com/plabfootball"); //마이플레이컴퍼니 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/bdcnmjk2"); //??? 자료
     });
 
     $('#modal-open-Under100-2').click(function(){
@@ -1345,22 +1352,22 @@
 
     $('#modal-open-Complete-1').click(function(){
         모달창열기_Complete(0);
-        $('.TeamIR').attr("href", "https://tinyurl.com/fitcoir"); //투모런스 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-2').click(function(){
         모달창열기_Complete(1);
-        $('.TeamIR').attr("href", "https://tinyurl.com/noteing"); //세샤트 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-3').click(function(){
         모달창열기_Complete(2);
-        $('.TeamIR').attr("href", "https://tinyurl.com/textnetir"); //스피링크 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-4').click(function(){
         모달창열기_Complete(3);
-        $('.TeamIR').attr("href", "https://tinyurl.com/dealertire"); //딜러타이어 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-5').click(function(){
@@ -1424,27 +1431,27 @@
 
     $('#modal-open-Under10-1-mobile').click(function(){
         Mobile모달창열기_Under10(0);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/billim"); //레드로켓 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/5aes895j"); //??? 자료
     });
 
     $('#modal-open-Under10-2-mobile').click(function(){
         Mobile모달창열기_Under10(1);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/videostew"); //투블루 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/videostew"); //??? 자료
     });
 
     $('#modal-open-Under10-3-mobile').click(function(){
         Mobile모달창열기_Under10(2);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/myfairir"); //마이페어 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/billim"); //??? 자료
     });
 
     $('#modal-open-Under10-4-mobile').click(function(){
         Mobile모달창열기_Under10(3);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/dynamedic"); //다이나메딕 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/dynamedic"); //??? 자료
     });
 
     $('#modal-open-Under10-5-mobile').click(function(){
         Mobile모달창열기_Under10(4);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/kollectors"); //에이오씨지 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-6-mobile').click(function(){
@@ -1487,37 +1494,37 @@
 
     $('#modal-open-Under50-1-mobile').click(function(){
         Mobile모달창열기_Under50(0);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/aialice"); //슈퍼패스트브로스 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/mtaacwzu"); //원오브원 자료
     });
 
     $('#modal-open-Under50-2-mobile').click(function(){
         Mobile모달창열기_Under50(1);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/thecheatir"); //더치트 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou211215"); //더치트 자료
     });
 
     $('#modal-open-Under50-3-mobile').click(function(){
         Mobile모달창열기_Under50(2);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/sandbankpictchdeck"); //디에이그라운드 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/2p977wab"); //디에이그라운드 자료
     });
 
     $('#modal-open-Under50-4-mobile').click(function(){
         Mobile모달창열기_Under50(3);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/lyclecompany"); //라이클컴퍼니 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/3aeedzfd"); //라이클컴퍼니 자료
     });
 
     $('#modal-open-Under50-5-mobile').click(function(){
         Mobile모달창열기_Under50(4);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/evetusir"); //이벤터스 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/4fnp8z6j"); //이벤터스 자료
     });
 
     $('#modal-open-Under50-6-mobile').click(function(){
         Mobile모달창열기_Under50(5);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou211215"); //아트라미 자료
+        $('.TeamIR_Mobile').attr("href", ""); //아트라미 자료
     });
 
     $('#modal-open-Under50-7-mobile').click(function(){
         Mobile모달창열기_Under50(6);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/2p9c2c9s"); //트라이폴리곤 자료
+        $('.TeamIR_Mobile').attr("href", ""); //트라이폴리곤 자료
     });
 
     $('#modal-open-Under50-8-mobile').click(function(){
@@ -1555,7 +1562,7 @@
     $('#modal-open-Under100-1-mobile').click(function(){
         // e.preventDefault(); //안열리게하는 기능
         Mobile모달창열기_Under100(0);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/plabfootball"); //마이플레이컴퍼니 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/bdcnmjk2"); //??? 자료
     });
 
     $('#modal-open-Under100-2-mobile').click(function(){
@@ -1689,22 +1696,22 @@
 
     $('#modal-open-Complete-1-mobile').click(function(){
         Mobile모달창열기_Complete(0);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/fitcoir"); //투모런스 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-2-mobile').click(function(){
         Mobile모달창열기_Complete(1);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/noteing"); //세샤트 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-3-mobile').click(function(){
         Mobile모달창열기_Complete(2);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/textnetir"); //스피링크 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-4-mobile').click(function(){
         Mobile모달창열기_Complete(3);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/dealertire"); //딜러타이어 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Complete-5-mobile').click(function(){
