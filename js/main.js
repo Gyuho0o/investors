@@ -290,8 +290,8 @@
         TeamPurpose1_Under50 : '비즈니스 공간 대관 시장 1등 기업 선점',
         TeamPurpose2_Under50 : '스마트 MICE B2B SaaS 플랫폼 지향',
         TeamPurpose3_Under50 : '글로벌 서비스 진출',
-        TeamSector_Under50 : 'https://tinyurl.com/4t9hhsjy',
-        TeamIR_Under50 : 'Leisure & Travel',
+        TeamSector_Under50 : 'Leisure & Travel',
+        TeamIR_Under50 : 'https://tinyurl.com/4t9hhsjy',
       },
       {
         id : 7,
