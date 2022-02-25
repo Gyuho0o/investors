@@ -249,7 +249,7 @@
         id : 4,
         TeamName_Under50 : '이벤터스',
         TeamInfo_Under50 : '온/오프라인 이벤트 플랫폼',
-        TeamDate_Under50 : '2014년 09월 5일',
+        TeamDate_Under50 : '2014년 9월 5일',
         TeamCEO_Under50 : '안영학',
         TeamEmail_Under50 : 'business@event-us.kr',
         TeamWebsite_Under50 : 'https://event-us.kr/',
@@ -263,35 +263,35 @@
       },
       {
         id : 5,
-        TeamName_Under50 : '',
-        TeamInfo_Under50 : '',
-        TeamDate_Under50 : '',
-        TeamCEO_Under50 : '',
-        TeamEmail_Under50 : '',
-        TeamWebsite_Under50 : '',
-        TeamFundingCondition_Under50 : '',
-        TeamPriorvalue_Under50 : '',
-        TeamPurpose1_Under50 : '',
-        TeamPurpose2_Under50 : '',
-        TeamPurpose3_Under50 : '',
-        TeamSector_Under50 : '',
-        TeamIR_Under50 : '',
+        TeamName_Under50 : '위시홈',
+        TeamInfo_Under50 : '리모델링 직거래 플랫폼',
+        TeamDate_Under50 : '2020년 10월 8일',
+        TeamCEO_Under50 : '권중용',
+        TeamEmail_Under50 : 'jy.kwon@wishhome.co.kr',
+        TeamWebsite_Under50 : 'https://wishhome.co.kr/',
+        TeamFundingCondition_Under50 : '15억원(post 150억원 희망)',
+        TeamPriorvalue_Under50 : '(미팅 시 공개)',
+        TeamPurpose1_Under50 : '빠른 성장을 위한 광고비 증액',
+        TeamPurpose2_Under50 : '프러덕트 고도화를 위한 인력 채용',
+        TeamPurpose3_Under50 : '월매출 10억원 달성을 위한 카테고리 확장',
+        TeamSector_Under50 : 'Home Service',
+        TeamIR_Under50 : 'https://tinyurl.com/mxtusax6',
       },
       {
         id : 6,
-        TeamName_Under50 : '',
-        TeamInfo_Under50 : '',
-        TeamDate_Under50 : '',
-        TeamCEO_Under50 : '',
-        TeamEmail_Under50 : '',
-        TeamWebsite_Under50 : '',
-        TeamFundingCondition_Under50 : '',
-        TeamPriorvalue_Under50 : '',
-        TeamPurpose1_Under50 : '',
-        TeamPurpose2_Under50 : '',
-        TeamPurpose3_Under50 : '',
-        TeamSector_Under50 : '',
-        TeamIR_Under50 : '',
+        TeamName_Under50 : '루북',
+        TeamInfo_Under50 : '국내 최초 호텔 연회장 예약 플랫폼',
+        TeamDate_Under50 : '2019년 3월 11일',
+        TeamCEO_Under50 : '김한결',
+        TeamEmail_Under50 : 'kyle@roovook.com',
+        TeamWebsite_Under50 : 'https://www.roovook.com',
+        TeamFundingCondition_Under50 : '30억원',
+        TeamPriorvalue_Under50 : 'post 30억원',
+        TeamPurpose1_Under50 : '비즈니스 공간 대관 시장 1등 기업 선점',
+        TeamPurpose2_Under50 : '스마트 MICE B2B SaaS 플랫폼 지향',
+        TeamPurpose3_Under50 : '글로벌 서비스 진출',
+        TeamSector_Under50 : 'https://tinyurl.com/4t9hhsjy',
+        TeamIR_Under50 : 'Leisure & Travel',
       },
       {
         id : 7,
@@ -915,7 +915,6 @@
         $('.TeamPurpose2_Under10').eq(구멍1).html(PrimerClub_Under10[구멍2].TeamPurpose2_Under10);
         $('.TeamPurpose3_Under10').eq(구멍1).html(PrimerClub_Under10[구멍2].TeamPurpose3_Under10);
         $('.TeamSector_Under10').eq(구멍1).html(PrimerClub_Under10[구멍2].TeamSector_Under10);
-        $('.TeamIR_Under10').eq(구멍1).attr("href", PrimerClub_Under10[구멍2].TeamIR_Under10);
 
         $('.TeamName_Under50').eq(구멍1).html(PrimerClub_Under50[구멍2].TeamName_Under50);
         $('.TeamInfo_Under50').eq(구멍1).html(PrimerClub_Under50[구멍2].TeamInfo_Under50);
@@ -1170,12 +1169,12 @@
 
     $('#modal-open-Under50-6').click(function(){
         모달창열기_Under50(5);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/mxtusax6"); //??? 자료
     });
 
     $('#modal-open-Under50-7').click(function(){
         모달창열기_Under50(6);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/4t9hhsjy"); //??? 자료
     });
 
     $('#modal-open-Under50-8').click(function(){
@@ -1494,37 +1493,37 @@
 
     $('#modal-open-Under50-1-mobile').click(function(){
         Mobile모달창열기_Under50(0);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/mtaacwzu"); //원오브원 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/mtaacwzu"); //??? 자료
     });
 
     $('#modal-open-Under50-2-mobile').click(function(){
         Mobile모달창열기_Under50(1);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou211215"); //더치트 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/tounou211215"); //??? 자료
     });
 
     $('#modal-open-Under50-3-mobile').click(function(){
         Mobile모달창열기_Under50(2);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/2p977wab"); //디에이그라운드 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/2p977wab"); //??? 자료
     });
 
     $('#modal-open-Under50-4-mobile').click(function(){
         Mobile모달창열기_Under50(3);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/3aeedzfd"); //라이클컴퍼니 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/3aeedzfd"); //??? 자료
     });
 
     $('#modal-open-Under50-5-mobile').click(function(){
         Mobile모달창열기_Under50(4);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/4fnp8z6j"); //이벤터스 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/4fnp8z6j"); //??? 자료
     });
 
     $('#modal-open-Under50-6-mobile').click(function(){
         Mobile모달창열기_Under50(5);
-        $('.TeamIR_Mobile').attr("href", ""); //아트라미 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/mxtusax6"); //??? 자료
     });
 
     $('#modal-open-Under50-7-mobile').click(function(){
         Mobile모달창열기_Under50(6);
-        $('.TeamIR_Mobile').attr("href", ""); //트라이폴리곤 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/4t9hhsjy"); //??? 자료
     });
 
     $('#modal-open-Under50-8-mobile').click(function(){
