@@ -275,7 +275,7 @@
         TeamPurpose2_Under50 : '프러덕트 고도화를 위한 인력 채용',
         TeamPurpose3_Under50 : '월매출 10억원 달성을 위한 카테고리 확장',
         TeamSector_Under50 : 'Home Service',
-        TeamIR_Under50 : 'https://tinyurl.com/mxtusax6',
+        TeamIR_Under50 : 'https://tinyurl.com/y5ekvvds',
       },
       {
         id : 6,
@@ -379,19 +379,19 @@
         },
         {
          id : 1,
-         TeamName_Under100 : '',
-         TeamInfo_Under100 : '',
-         TeamDate_Under100 : '',
-         TeamCEO_Under100 : '',
-         TeamEmail_Under100 : '',
-         TeamWebsite_Under100 : '',
-         TeamFundingCondition_Under100 : '',
-         TeamPriorvalue_Under100 : '',
-         TeamPurpose1_Under100 : '',
-         TeamPurpose2_Under100 : '',
-         TeamPurpose3_Under100 : '',
-         TeamSector_Under100 : '',
-         TeamIR_Under100 : '',
+         TeamName_Under100 : '플코스킨',
+         TeamInfo_Under100 : '조직재생 및 첨단재생치료를 위한 인체삽입형 의료소재',
+         TeamDate_Under100 : '2017년 2월',
+         TeamCEO_Under100 : '백우열',
+         TeamEmail_Under100 : 'wbaek@plcoskin.com',
+         TeamWebsite_Under100 : 'https://www.plcoskin.com/',
+         TeamFundingCondition_Under100 : '80~100억원(post 500억원 희망)',
+         TeamPriorvalue_Under100 : 'post 150억원',
+         TeamPurpose1_Under100 : '국내 허가 제품 적응증 확대를 위한 임상연구',
+         TeamPurpose2_Under100 : 'FDA 허가 완료를 위한 추가 실험',
+         TeamPurpose3_Under100 : '비임상실험 및 해외 IP 추가 확보',
+         TeamSector_Under100 : 'Healthcare',
+         TeamIR_Under100 : 'https://tinyurl.com/3vz9hfad',
         },
         {
          id : 2,
@@ -1169,7 +1169,7 @@
 
     $('#modal-open-Under50-6').click(function(){
         모달창열기_Under50(5);
-        $('.TeamIR').attr("href", "https://tinyurl.com/mxtusax6"); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/y5ekvvds"); //??? 자료
     });
 
     $('#modal-open-Under50-7').click(function(){
@@ -1216,7 +1216,7 @@
 
     $('#modal-open-Under100-2').click(function(){
         모달창열기_Under100(1);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/3vz9hfad"); //??? 자료
     });
 
     $('#modal-open-Under100-3').click(function(){
@@ -1518,7 +1518,7 @@
 
     $('#modal-open-Under50-6-mobile').click(function(){
         Mobile모달창열기_Under50(5);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/mxtusax6"); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/y5ekvvds"); //??? 자료
     });
 
     $('#modal-open-Under50-7-mobile').click(function(){
@@ -1566,7 +1566,7 @@
 
     $('#modal-open-Under100-2-mobile').click(function(){
         Mobile모달창열기_Under100(1);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/3vz9hfad"); //??? 자료
     });
 
     $('#modal-open-Under100-3-mobile').click(function(){
