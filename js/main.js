@@ -380,7 +380,7 @@
         {
          id : 1,
          TeamName_Under100 : '플코스킨',
-         TeamInfo_Under100 : '조직재생 및 첨단재생치료를 위한 인체삽입형 의료소재',
+         TeamInfo_Under100 : '조직재생/첨단재생치료를 위한 인체삽입형 의료소재',
          TeamDate_Under100 : '2017년 2월',
          TeamCEO_Under100 : '백우열',
          TeamEmail_Under100 : 'wbaek@plcoskin.com',
