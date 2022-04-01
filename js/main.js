@@ -3,22 +3,6 @@
     var PrimerClub_Under10 = [
       {
         id : 0,
-        TeamName_Under10 : '에이오씨지(컬렉터즈)',
-        TeamInfo_Under10 : '팬심 기반 수집품 소유권 거래 플랫폼',
-        TeamDate_Under10 : '2020년 7월 1일',
-        TeamCEO_Under10 : '임미르',
-        TeamEmail_Under10 : 'comm@kollectors.app',
-        TeamWebsite_Under10 : 'https://home.kollectors.app/',
-        TeamFundingCondition_Under10 : '5억원(post 30억원 희망)',
-        TeamPriorvalue_Under10 : 'post 5.5억원',
-        TeamPurpose1_Under10 : '서비스 플랫폼 확장을 위한 채용',
-        TeamPurpose2_Under10 : '컬렉션을 저장/자랑할 수 있는 기능 추가',
-        TeamPurpose3_Under10 : '제휴 및 마케팅 비용',
-        TeamSector_Under10 : 'E-Commerce & Logistics',
-        TeamIR_Under10 : 'https://tinyurl.com/mpbzu65j',
-      },
-      {
-        id : 1,
         TeamName_Under10 : '투블루(비디오스튜)',
         TeamInfo_Under10 : '기획서를 고품질 동영상으로 변환해주는 제작 툴',
         TeamDate_Under10 : '2014년 6월 16일',
@@ -34,7 +18,7 @@
         TeamIR_Under10 : 'https://tinyurl.com/videostew',
       },
       {
-        id : 2,
+        id : 1,
         TeamName_Under10 : '레드로켓(빌림)',
         TeamInfo_Under10 : '씬 파일러 고객 맞춤형 신용평가/대출 서비스',
         TeamDate_Under10 : '2015년 7월 10일',
@@ -50,20 +34,36 @@
         TeamIR_Under10 : 'https://tinyurl.com/billim',
       },
       {
+        id : 2,
+        TeamName_Under10 : '',
+        TeamInfo_Under10 : '',
+        TeamDate_Under10 : '',
+        TeamCEO_Under10 : '',
+        TeamEmail_Under10 : '',
+        TeamWebsite_Under10 : '',
+        TeamFundingCondition_Under10 : '',
+        TeamPriorvalue_Under10 : '',
+        TeamPurpose1_Under10 : '',
+        TeamPurpose2_Under10 : '',
+        TeamPurpose3_Under10 : '',
+        TeamSector_Under10 : '',
+        TeamIR_Under10 : '',
+      },
+      {
         id : 3,
-        TeamName_Under10 : '다이나메딕',
-        TeamInfo_Under10 : '의료용 전동 핸드피스 전문기업',
-        TeamDate_Under10 : '2018년 10월 4일',
-        TeamCEO_Under10 : '최형섭',
-        TeamEmail_Under10 : 'isidore@dynamedic.co.kr',
-        TeamWebsite_Under10 : 'http://www.dynamedic.co.kr/',
-        TeamFundingCondition_Under10 : '5억원(post 50억원 희망)',
-        TeamPriorvalue_Under10 : '(미팅 시 공개)',
-        TeamPurpose1_Under10 : '원자재 구입',
-        TeamPurpose2_Under10 : '전동 수술도구 및 소모품 생산 시설 구비',
-        TeamPurpose3_Under10 : '재사용 라지본 파워툴 인증',
-        TeamSector_Under10 : 'Hardware',
-        TeamIR_Under10 : 'https://tinyurl.com/dynamedic',
+        TeamName_Under10 : '',
+        TeamInfo_Under10 : '',
+        TeamDate_Under10 : '',
+        TeamCEO_Under10 : '',
+        TeamEmail_Under10 : '',
+        TeamWebsite_Under10 : '',
+        TeamFundingCondition_Under10 : '',
+        TeamPriorvalue_Under10 : '',
+        TeamPurpose1_Under10 : '',
+        TeamPurpose2_Under10 : '',
+        TeamPurpose3_Under10 : '',
+        TeamSector_Under10 : '',
+        TeamIR_Under10 : '',
       },
       {
         id : 4,
@@ -1082,23 +1082,23 @@
 
     $('#modal-open-Under10-1').click(function(){
         모달창열기_Under10(0);
-        $('.TeamIR').attr("href", "https://tinyurl.com/mpbzu65j"); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/videostew"); //??? 자료
     });
 
 
     $('#modal-open-Under10-2').click(function(){
         모달창열기_Under10(1);
-        $('.TeamIR').attr("href", "https://tinyurl.com/videostew"); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/billim"); //??? 자료
     });
 
     $('#modal-open-Under10-3').click(function(){
         모달창열기_Under10(2);
-        $('.TeamIR').attr("href", "https://tinyurl.com/billim"); //??? 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-4').click(function(){
         모달창열기_Under10(3);
-        $('.TeamIR').attr("href", "https://tinyurl.com/dynamedic"); //??? 자료
+        $('.TeamIR').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-5').click(function(){
@@ -1430,22 +1430,22 @@
 
     $('#modal-open-Under10-1-mobile').click(function(){
         Mobile모달창열기_Under10(0);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/mpbzu65j"); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/videostew"); //??? 자료
     });
 
     $('#modal-open-Under10-2-mobile').click(function(){
         Mobile모달창열기_Under10(1);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/videostew"); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/billim"); //??? 자료
     });
 
     $('#modal-open-Under10-3-mobile').click(function(){
         Mobile모달창열기_Under10(2);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/billim"); //??? 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-4-mobile').click(function(){
         Mobile모달창열기_Under10(3);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/dynamedic"); //??? 자료
+        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
     });
 
     $('#modal-open-Under10-5-mobile').click(function(){
