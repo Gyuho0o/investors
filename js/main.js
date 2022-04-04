@@ -35,35 +35,35 @@
       },
       {
         id : 2,
-        TeamName_Under10 : '',
-        TeamInfo_Under10 : '',
-        TeamDate_Under10 : '',
-        TeamCEO_Under10 : '',
-        TeamEmail_Under10 : '',
-        TeamWebsite_Under10 : '',
-        TeamFundingCondition_Under10 : '',
-        TeamPriorvalue_Under10 : '',
-        TeamPurpose1_Under10 : '',
-        TeamPurpose2_Under10 : '',
-        TeamPurpose3_Under10 : '',
-        TeamSector_Under10 : '',
-        TeamIR_Under10 : '',
+        TeamName_Under10 : '랑데뷰(파밀리)',
+        TeamInfo_Under10 : '컴퓨터비전 기반 스마트팜 자동화 로봇',
+        TeamDate_Under10 : '2019년 7월 30일',
+        TeamCEO_Under10 : '박주홍',
+        TeamEmail_Under10 : 'juhong.park@farmily.ai',
+        TeamWebsite_Under10 : 'https://www.farmily.ai/',
+        TeamFundingCondition_Under10 : '5억원(post 55억원 희망)',
+        TeamPriorvalue_Under10 : 'post 13억원',
+        TeamPurpose1_Under10 : '프로토타입 로봇 제작 및 협력사 적용',
+        TeamPurpose2_Under10 : '인재 채용 및 운영비',
+        TeamPurpose3_Under10 : '개발비/국비과제 민간부담금 30% 마련',
+        TeamSector_Under10 : 'ardware',
+        TeamIR_Under10 : 'https://tinyurl.com/3xysz5hr',
       },
       {
         id : 3,
-        TeamName_Under10 : '',
-        TeamInfo_Under10 : '',
-        TeamDate_Under10 : '',
-        TeamCEO_Under10 : '',
-        TeamEmail_Under10 : '',
-        TeamWebsite_Under10 : '',
-        TeamFundingCondition_Under10 : '',
-        TeamPriorvalue_Under10 : '',
-        TeamPurpose1_Under10 : '',
-        TeamPurpose2_Under10 : '',
-        TeamPurpose3_Under10 : '',
-        TeamSector_Under10 : '',
-        TeamIR_Under10 : '',
+        TeamName_Under10 : '다이나메딕',
+        TeamInfo_Under10 : '의료용 전동 핸드피스 전문기업',
+        TeamDate_Under10 : '2018년 10월 12일',
+        TeamCEO_Under10 : '최형섭',
+        TeamEmail_Under10 : 'isidore@dynamedic.co.kr',
+        TeamWebsite_Under10 : 'https://www.dynamedic.co.kr',
+        TeamFundingCondition_Under10 : '5억원(post 53억원 희망)',
+        TeamPriorvalue_Under10 : 'post 25억원',
+        TeamPurpose1_Under10 : '양산 준비를 위한 원자재 구입',
+        TeamPurpose2_Under10 : '생산시설 투자금 마련',
+        TeamPurpose3_Under10 : '영업활동을 위한 인재 충원',
+        TeamSector_Under10 : 'Healthcare',
+        TeamIR_Under10 : 'https://tinyurl.com/yckhjmzx',
       },
       {
         id : 4,
@@ -295,19 +295,19 @@
       },
       {
         id : 7,
-        TeamName_Under50 : '',
-        TeamInfo_Under50 : '',
-        TeamDate_Under50 : '',
-        TeamCEO_Under50 : '',
-        TeamEmail_Under50 : '',
-        TeamWebsite_Under50 : '',
-        TeamFundingCondition_Under50 : '',
-        TeamPriorvalue_Under50 : '',
-        TeamPurpose1_Under50 : '',
-        TeamPurpose2_Under50 : '',
-        TeamPurpose3_Under50 : '',
-        TeamSector_Under50 : '',
-        TeamIR_Under50 : '',
+        TeamName_Under50 : '크라우드픽',
+        TeamInfo_Under50 : '이미지(스톡사진, AI학습용 이미지) 거래 플랫폼',
+        TeamDate_Under50 : '2017년 5월 18일',
+        TeamCEO_Under50 : '심상우',
+        TeamEmail_Under50 : 'swsim@crowdpic.net',
+        TeamWebsite_Under50 : 'https://www.crowdpic.net/',
+        TeamFundingCondition_Under50 : '20억원(post 100억원 희망)',
+        TeamPriorvalue_Under50 : 'post 30억원',
+        TeamPurpose1_Under50 : '점유율 올리기, 해외진출 준비, 서비스 고도화',
+        TeamPurpose2_Under50 : '콘텐츠 확장(웹템플릿, PPT템플릿, 영상, 음원)',
+        TeamPurpose3_Under50 : '모바일 앱 개발, API 상품 개발 및 고객사 확대',
+        TeamSector_Under50 : 'Contents & Information',
+        TeamIR_Under50 : 'https://tinyurl.com/29meyjps',
       },
       {
         id : 8,
@@ -543,19 +543,19 @@
     var PrimerClub_Over100 = [
         {
          id : 0,
-         TeamName_Over100 : 'COMING SOON',
-         TeamInfo_Over100 : 'COMING SOON',
-         TeamDate_Over100 : '',
-         TeamCEO_Over100 : '',
-         TeamEmail_Over100 : '',
-         TeamWebsite_Over100 : '',
-         TeamFundingCondition_Over100 : '',
-         TeamPriorvalue_Over100 : '',
-         TeamPurpose1_Over100 : '',
-         TeamPurpose2_Over100 : '',
-         TeamPurpose3_Over100 : '',
-         TeamSector_Over100 : '',
-         TeamIR_Over100 : '',
+         TeamName_Over100 : '모두의클래스(클래스유)',
+         TeamInfo_Over100 : '배움을 위한 온라인 콘텐츠 플랫폼',
+         TeamDate_Over100 : '2016년 8월 1일',
+         TeamCEO_Over100 : '김대형',
+         TeamEmail_Over100 : 'jacob@enfit.net',
+         TeamWebsite_Over100 : 'https://www.classu.co.kr/new',
+         TeamFundingCondition_Over100 : '200억원(post 1,500억원 희망)',
+         TeamPriorvalue_Over100 : 'post 100억원',
+         TeamPurpose1_Over100 : '적극적인 시장확대를 통한 인력 충원 ',
+         TeamPurpose2_Over100 : 'IT 플랫폼 고도화 인력',
+         TeamPurpose3_Over100 : '콘텐츠 생성 장비 및 마케팅 테스트',
+         TeamSector_Over100 : 'Education',
+         TeamIR_Over100 : 'https://tinyurl.com/32rws3dd',
         },
         {
          id : 1,
@@ -734,7 +734,7 @@
          TeamPurpose2_Complete : '거래량 증가 후 브랜드 정식 입점',
          TeamPurpose3_Complete : '거래량 증가로 인한 판매 수수료 인상',
          TeamSector_Complete : 'Fashion & Beauty',
-         TeamIR_Complete : '',
+         TeamIR_Complete : 'https://tinyurl.com/y8echb5b',
         },
         {
          id : 1,
@@ -750,7 +750,7 @@
          TeamPurpose2_Complete : '필기 품질 충족, 필기 공유 기능 개발 고도화',
          TeamPurpose3_Complete : '출판사 영업 확대, 온라인 마케팅',
          TeamSector_Complete : 'Education',
-         TeamIR_Complete : '',
+         TeamIR_Complete : 'https://tinyurl.com/4f2ke243',
         },
         {
          id : 2,
@@ -766,7 +766,7 @@
          TeamPurpose2_Complete : '페르소나 설계 자동화 SaaS',
          TeamPurpose3_Complete : 'Human OS 구현을 통한 글로벌 진출',
          TeamSector_Complete : 'Solution & Utility & SaaS',
-         TeamIR_Complete : '',
+         TeamIR_Complete : 'https://tinyurl.com/bdesa75b',
         },
         {
          id : 3,
@@ -782,7 +782,7 @@
          TeamPurpose2_Complete : '물류경쟁력 확보위한 물류비 투자',
          TeamPurpose3_Complete : '오프라인 영업조직 확보',
          TeamSector_Complete : 'E-Commerce & Logistics',
-         TeamIR_Complete : '',
+         TeamIR_Complete : 'https://tinyurl.com/2cjf9zu6',
         },
         {
          id : 4,
@@ -798,7 +798,7 @@
          TeamPurpose2_Complete : '부스에 필요한 서비스 마켓플레이스 개발',
          TeamPurpose3_Complete : '필요 인력 채용',
          TeamSector_Complete : 'Solution & Utility & SaaS',
-         TeamIR_Complete : '',
+         TeamIR_Complete : 'https://tinyurl.com/3drtnzsp',
         },
         {
          id : 5,
@@ -814,7 +814,7 @@
          TeamPurpose2_Complete : '신용평가 모델링을 고도화 인력 보강',
          TeamPurpose3_Complete : '실시간 비금융 대안신용평가 기능 보완',
          TeamSector_Complete : 'Solution & Utility & SaaS',
-         TeamIR_Complete : '',
+         TeamIR_Complete : 'https://tinyurl.com/yc56jtc6',
         },
         {
          id : 6,
@@ -830,7 +830,7 @@
          TeamPurpose2_Complete : '유모델러 SaaS 국내 및 해외 출시',
          TeamPurpose3_Complete : '유모델러 Web(for 제페토/로블록스) 개발',
          TeamSector_Complete : 'Solution & Utility & SaaS',
-         TeamIR_Complete : '',
+         TeamIR_Complete : 'https://tinyurl.com/fu3ajp6s',
         },
         {
          id : 7,
@@ -1093,12 +1093,12 @@
 
     $('#modal-open-Under10-3').click(function(){
         모달창열기_Under10(2);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/3xysz5hr"); //??? 자료
     });
 
     $('#modal-open-Under10-4').click(function(){
         모달창열기_Under10(3);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/yckhjmzx"); //??? 자료
     });
 
     $('#modal-open-Under10-5').click(function(){
@@ -1179,7 +1179,7 @@
 
     $('#modal-open-Under50-8').click(function(){
         모달창열기_Under50(7);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/29meyjps"); //??? 자료
     });
 
     $('#modal-open-Under50-9').click(function(){
@@ -1276,9 +1276,9 @@
     };
 
     $('#modal-open-Over100-1').click(function(){
-        e.preventDefault(); //안열리게하는 기능
+        // e.preventDefault(); //안열리게하는 기능
         모달창열기_Over100(0);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/32rws3dd"); //??? 자료
     });
 
     $('#modal-open-Over100-2').click(function(){
@@ -1351,37 +1351,37 @@
 
     $('#modal-open-Complete-1').click(function(){
         모달창열기_Complete(0);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/y8echb5b"); //??? 자료
     });
 
     $('#modal-open-Complete-2').click(function(){
         모달창열기_Complete(1);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/4f2ke243"); //??? 자료
     });
 
     $('#modal-open-Complete-3').click(function(){
         모달창열기_Complete(2);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/bdesa75b"); //??? 자료
     });
 
     $('#modal-open-Complete-4').click(function(){
         모달창열기_Complete(3);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/2cjf9zu6"); //??? 자료
     });
 
     $('#modal-open-Complete-5').click(function(){
         모달창열기_Complete(4);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/3drtnzsp"); //??? 자료
     });
 
     $('#modal-open-Complete-6').click(function(){
         모달창열기_Complete(5);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/yc56jtc6"); //??? 자료
     });
 
     $('#modal-open-Complete-7').click(function(){
         모달창열기_Complete(6);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/fu3ajp6s"); //??? 자료
     });
 
     $('#modal-open-Complete-8').click(function(){
@@ -1440,7 +1440,7 @@
 
     $('#modal-open-Under10-3-mobile').click(function(){
         Mobile모달창열기_Under10(2);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/yckhjmzx"); //??? 자료
     });
 
     $('#modal-open-Under10-4-mobile').click(function(){
@@ -1528,7 +1528,7 @@
 
     $('#modal-open-Under50-8-mobile').click(function(){
         Mobile모달창열기_Under50(7);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/29meyjps"); //??? 자료
     });
 
     $('#modal-open-Under50-9-mobile').click(function(){
@@ -1626,9 +1626,9 @@
     };
 
     $('#modal-open-Over100-1-mobile').click(function(){
-        e.preventDefault(); //안열리게하는 기능
+        // e.preventDefault(); //안열리게하는 기능
         Mobile모달창열기_Over100(0);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/32rws3dd"); //??? 자료
     });
 
     $('#modal-open-Over100-2-mobile').click(function(){
@@ -1695,37 +1695,37 @@
 
     $('#modal-open-Complete-1-mobile').click(function(){
         Mobile모달창열기_Complete(0);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/y8echb5b"); //??? 자료
     });
 
     $('#modal-open-Complete-2-mobile').click(function(){
         Mobile모달창열기_Complete(1);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/4f2ke243"); //??? 자료
     });
 
     $('#modal-open-Complete-3-mobile').click(function(){
         Mobile모달창열기_Complete(2);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/bdesa75b"); //??? 자료
     });
 
     $('#modal-open-Complete-4-mobile').click(function(){
         Mobile모달창열기_Complete(3);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/2cjf9zu6"); //??? 자료
     });
 
     $('#modal-open-Complete-5-mobile').click(function(){
         Mobile모달창열기_Complete(4);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/3drtnzsp"); //??? 자료
     });
 
     $('#modal-open-Complete-6-mobile').click(function(){
         Mobile모달창열기_Complete(5);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/yc56jtc6"); //??? 자료
     });
 
     $('#modal-open-Complete-7-mobile').click(function(){
         Mobile모달창열기_Complete(6);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/fu3ajp6s"); //??? 자료
     });
 
     $('#modal-open-Complete-8-mobile').click(function(){
