@@ -1440,12 +1440,12 @@
 
     $('#modal-open-Under10-3-mobile').click(function(){
         Mobile모달창열기_Under10(2);
-        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/yckhjmzx"); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/3xysz5hr"); //??? 자료
     });
 
     $('#modal-open-Under10-4-mobile').click(function(){
         Mobile모달창열기_Under10(3);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/yckhjmzx"); //??? 자료
     });
 
     $('#modal-open-Under10-5-mobile').click(function(){
