@@ -311,35 +311,35 @@
       },
       {
         id : 8,
-        TeamName_Under50 : '',
-        TeamInfo_Under50 : '',
-        TeamDate_Under50 : '',
-        TeamCEO_Under50 : '',
-        TeamEmail_Under50 : '',
-        TeamWebsite_Under50 : '',
-        TeamFundingCondition_Under50 : '',
-        TeamPriorvalue_Under50 : '',
-        TeamPurpose1_Under50 : '',
-        TeamPurpose2_Under50 : '',
-        TeamPurpose3_Under50 : '',
-        TeamSector_Under50 : '',
-        TeamIR_Under50 : '',
+        TeamName_Under50 : '세븐픽쳐스(넷플연가)',
+        TeamInfo_Under50 : 'OTT 기반 오프라인 커뮤니티 콘텐츠 플랫폼 ',
+        TeamDate_Under50 : '2016년 4월 5일',
+        TeamCEO_Under50 : '전희재',
+        TeamEmail_Under50 : 'hjjeon@7pictures.co.kr',
+        TeamWebsite_Under50 : 'https://netflix-salon.com/apply',
+        TeamFundingCondition_Under50 : '15억원(post 100억원 희망)',
+        TeamPriorvalue_Under50 : '(미팅 시 공개)',
+        TeamPurpose1_Under50 : '포스트 코로나 이후의 시장 선점 및 타이밍',
+        TeamPurpose2_Under50 : '넷플연가 프로덕트의 빠른 성장',
+        TeamPurpose3_Under50 : 'Majority에 다가가는 제품 개발 및 채용',
+        TeamSector_Under50 : 'Leisure & Travel',
+        TeamIR_Under50 : 'https://tinyurl.com/bdend2nb',
       },
       {
         id : 9,
-        TeamName_Under50 : '',
-        TeamInfo_Under50 : '',
-        TeamDate_Under50 : '',
-        TeamCEO_Under50 : '',
-        TeamEmail_Under50 : '',
-        TeamWebsite_Under50 : '',
-        TeamFundingCondition_Under50 : '',
-        TeamPriorvalue_Under50 : '',
-        TeamPurpose1_Under50 : '',
-        TeamPurpose2_Under50 : '',
-        TeamPurpose3_Under50 : '',
-        TeamSector_Under50 : '',
-        TeamIR_Under50 : '',
+        TeamName_Under50 : '커넥트핏(기그)',
+        TeamInfo_Under50 : '긱워커, 초단기 매칭 플랫폼',
+        TeamDate_Under50 : '2020년 4월 3일',
+        TeamCEO_Under50 : '김태민',
+        TeamEmail_Under50 : 'tmkim@connectfit.co.kr',
+        TeamWebsite_Under50 : 'https://connectfit.co.kr/worker_home',
+        TeamFundingCondition_Under50 : '50억원',
+        TeamPriorvalue_Under50 : 'post 40억원',
+        TeamPurpose1_Under50 : 'MAU 증가(유저확보)',
+        TeamPurpose2_Under50 : '매출 증대',
+        TeamPurpose3_Under50 : 'Right-person 영입',
+        TeamSector_Under50 : 'Contents & Information',
+        TeamIR_Under50 : 'https://tinyurl.com/connectfit',
       },
       {
         id : 10,
@@ -1184,12 +1184,12 @@
 
     $('#modal-open-Under50-9').click(function(){
         모달창열기_Under50(8);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/bdend2nb"); //??? 자료
     });
 
     $('#modal-open-Under50-10').click(function(){
         모달창열기_Under50(9);
-        $('.TeamIR').attr("href", ""); //??? 자료
+        $('.TeamIR').attr("href", "https://tinyurl.com/connectfit"); //??? 자료
     });
 
     function 모달창열기_Under100(모달구멍) {
@@ -1533,12 +1533,12 @@
 
     $('#modal-open-Under50-9-mobile').click(function(){
         Mobile모달창열기_Under50(8);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/bdend2nb"); //??? 자료
     });
 
     $('#modal-open-Under50-10-mobile').click(function(){
         Mobile모달창열기_Under50(9);
-        $('.TeamIR_Mobile').attr("href", ""); //??? 자료
+        $('.TeamIR_Mobile').attr("href", "https://tinyurl.com/connectfit"); //??? 자료
     });
 
 
