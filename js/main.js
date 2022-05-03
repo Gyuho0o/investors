@@ -1674,11 +1674,11 @@
         Mobile모달창열기_Under50(10);
       });
 
-      $('#modal-open-Under50-11-mobile').click(function(){
+      $('#modal-open-Under50-12-mobile').click(function(){
         Mobile모달창열기_Under50(11);
       });
 
-      $('#modal-open-Under50-11-mobile').click(function(){
+      $('#modal-open-Under50-13-mobile').click(function(){
         Mobile모달창열기_Under50(12);
       });
 
