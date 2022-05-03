@@ -88,7 +88,7 @@
           TeamDate_Under10 : '2017년 1월 19일',
           TeamCEO_Under10 : '김진성',
           TeamEmail_Under10 : 'jskim@insutil.com',
-          TeamWebsite_Under10 : "<a href='http://www.deepreview.co.kr/' targer='_blank'>http://www.deepreview.co.kr/</a>",
+          TeamWebsite_Under10 : "<a href='http://www.deepreview.co.kr/' target='_blank'>http://www.deepreview.co.kr/</a>",
           TeamFundingCondition_Under10 : '20억원(post 70억원)',
           TeamPriorvalue_Under10 : '(미팅 시 공개)',
           TeamPurpose1_Under10 : '마케팅/개발 인력 보강',
