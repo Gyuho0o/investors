@@ -24,7 +24,7 @@
           TeamDate_Under10 : '2021년 12월 16일',
           TeamCEO_Under10 : '김장영',
           TeamEmail_Under10 : 'dkel03@bidi-ai.com',
-          TeamWebsite_Under10 : "<a href='https://www.instagram.com/bidi_ai/' target='_blank'>인스타그램</a>",
+          TeamWebsite_Under10 : "<a href='https://tinyurl.com/3swehd4c' target='_blank'>Apple App Store</a> / <a href='https://tinyurl.com/526vcua8' target='_blank'>Google Play Store</a>",
           TeamFundingCondition_Under10 : '5억원(post 50억원 희망)',
           TeamPriorvalue_Under10 : 'post 7.7억원',
           TeamPurpose1_Under10 : 'Generative AI 개발/연구 팀원 영입',
