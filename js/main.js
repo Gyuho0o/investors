@@ -31,7 +31,7 @@
           TeamPurpose2_Under10 : '콘텐츠 기획/마케팅 팀원 영입',
           TeamPurpose3_Under10 : '실험용 GPU 확보',
           TeamSector_Under10 : 'Contents & Information',
-          TeamIR_Under10 : 'https://tinyurl.com/2rbb5su5',
+          TeamIR_Under10 : 'https://tinyurl.com/3uh98tsw',
         },
         {
           id : 2,
@@ -79,7 +79,7 @@
           TeamPurpose2_Under10 : '시스템 백업인력 및 운영인력 충원',
           TeamPurpose3_Under10 : '마케팅 비용',
           TeamSector_Under10 : 'Fashion & Beauty',
-          TeamIR_Under10 : 'https://tinyurl.com/2uyrapur',
+          TeamIR_Under10 : 'https://tinyurl.com/4hcamjjt',
         },
         {
           id : 5,
@@ -99,7 +99,7 @@
         },
         {
           id : 6,
-          TeamName_Under10 : '⑧ 아트라미(뚜누)',
+          TeamName_Under10 : '⑦ 아트라미(뚜누)',
           TeamInfo_Under10 : '시각예술 독립 아티스트 커머스 플랫폼',
           TeamDate_Under10 : '2018년 5월 5일',
           TeamCEO_Under10 : '김현태',
