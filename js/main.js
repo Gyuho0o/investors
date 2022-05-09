@@ -295,19 +295,19 @@
         },
         {
           id : 5,
-          TeamName_Under50 : '⑥ 루북',
-          TeamInfo_Under50 : '국내 최초 호텔 연회장 예약 플랫폼',
-          TeamDate_Under50 : '2019년 3월 11일',
-          TeamCEO_Under50 : '김한결',
-          TeamEmail_Under50 : 'kyle@roovook.com',
-          TeamWebsite_Under50 : "<a href='https://www.roovook.com' target='_blank'>https://www.roovook.com</a>",
-          TeamFundingCondition_Under50 : '30억원(post 협상 희망)',
-          TeamPriorvalue_Under50 : 'post 30억원',
-          TeamPurpose1_Under50 : '비즈니스 공간 대관 시장 1등 기업 선점',
-          TeamPurpose2_Under50 : '스마트 MICE B2B SaaS 플랫폼 지향',
-          TeamPurpose3_Under50 : '글로벌 서비스 진출',
-          TeamSector_Under50 : 'Leisure & Travel',
-          TeamIR_Under50 : 'https://tinyurl.com/4t9hhsjy',
+          TeamName_Under50 : '⑥ 말랑하니',
+          TeamInfo_Under50 : '육아를 도와주는 유아용품 전문브랜드',
+          TeamDate_Under50 : '2018년 3월 1일',
+          TeamCEO_Under50 : '박성준',
+          TeamEmail_Under50 : 'sj.park@malanghoney.com',
+          TeamWebsite_Under50 : "<a href='https://www.malanghoney.com/' target'_blank'>https://www.malanghoney.com/</a>",
+          TeamFundingCondition_Under50 : '30억원(post 230억원 희망)',
+          TeamPriorvalue_Under50 : 'post 120억원',
+          TeamPurpose1_Under50 : '유아용품 제품 개발',
+          TeamPurpose2_Under50 : '오프라인 로드샵 런칭',
+          TeamPurpose3_Under50 : '유아용품 전문 온라인몰 런칭',
+          TeamSector_Under50 : 'E-Commerce & Logistics',
+          TeamIR_Under50 : 'https://tinyurl.com/39e9y2hz',
         },
         {
           id : 6,
@@ -375,19 +375,19 @@
         },
         {
           id : 10,
-          TeamName_Under50 : '⑪ 말랑하니',
-            TeamInfo_Under50 : '육아를 도와주는 유아용품 전문브랜드',
-            TeamDate_Under50 : '2018년 3월 1일',
-            TeamCEO_Under50 : '박성준',
-            TeamEmail_Under50 : 'sj.park@malanghoney.com',
-            TeamWebsite_Under50 : "<a href='https://www.malanghoney.com/' target'_blank'>https://www.malanghoney.com/</a>",
-            TeamFundingCondition_Under50 : '30억원(post 230억원 희망)',
-            TeamPriorvalue_Under50 : 'post 120억원',
-            TeamPurpose1_Under50 : '유아용품 제품 개발',
-            TeamPurpose2_Under50 : '오프라인 로드샵 런칭',
-            TeamPurpose3_Under50 : '유아용품 전문 온라인몰 런칭',
-            TeamSector_Under50 : 'E-Commerce & Logistics',
-            TeamIR_Under50 : 'https://tinyurl.com/39e9y2hz',
+          TeamName_Under50 : '',
+            TeamInfo_Under50 : '',
+            TeamDate_Under50 : '',
+            TeamCEO_Under50 : '',
+            TeamEmail_Under50 : '',
+            TeamWebsite_Under50 : "",
+            TeamFundingCondition_Under50 : '',
+            TeamPriorvalue_Under50 : '',
+            TeamPurpose1_Under50 : '',
+            TeamPurpose2_Under50 : '',
+            TeamPurpose3_Under50 : '',
+            TeamSector_Under50 : '',
+            TeamIR_Under50 : '',
         },
         {
             id : 11,
@@ -994,19 +994,19 @@
           },
           {
            id : 9,
-           TeamName_Complete : '',
-           TeamInfo_Complete : '',
-           TeamDate_Complete : '',
-           TeamCEO_Complete : '',
-           TeamEmail_Complete : '',
-           TeamWebsite_Complete : '',
-           TeamFundingCondition_Complete : '',
-           TeamPriorvalue_Complete : '',
-           TeamPurpose1_Complete : '',
-           TeamPurpose2_Complete : '',
-           TeamPurpose3_Complete : '',
-           TeamSector_Complete : '',
-           TeamIR_Complete : '',
+           TeamName_Complete : '⑩ 루북',
+           TeamInfo_Complete : '국내 최초 호텔 연회장 예약 플랫폼',
+           TeamDate_Complete : '2019년 3월 11일',
+           TeamCEO_Complete : '김한결',
+           TeamEmail_Complete : 'kyle@roovook.com',
+           TeamWebsite_Complete : "<a href='https://www.roovook.com' target='_blank'>https://www.roovook.com</a>",
+           TeamFundingCondition_Complete : '(펀딩 완료)',
+           TeamPriorvalue_Complete : '비공개',
+           TeamPurpose1_Complete : '비즈니스 공간 대관 시장 1등 기업 선점',
+           TeamPurpose2_Complete : '스마트 MICE B2B SaaS 플랫폼 지향',
+           TeamPurpose3_Complete : '글로벌 서비스 진출',
+           TeamSector_Complete : 'Leisure & Travel',
+           TeamIR_Complete : 'https://tinyurl.com/4t9hhsjy',
           },
           {
            id : 10,
@@ -1350,6 +1350,10 @@
         모달창열기_Under50(11);
      });
 
+     $('#modal-open-Under50-13').click(function(){
+        모달창열기_Under50(12);
+     });
+
       function 모달창열기_Under100(모달구멍) {
           $('.black-background').css('display', 'block');
           $('.TeamName').html(PrimerClub_Under100[모달구멍].TeamName_Under100);
@@ -1406,6 +1410,10 @@
 
       $('#modal-open-Under100-10').click(function(){
           모달창열기_Under100(9);
+      });
+
+      $('#modal-open-Under100-11').click(function(){
+        모달창열기_Under100(10);
       });
 
       function 모달창열기_Over100(모달구멍) {
@@ -1529,6 +1537,14 @@
       $('#modal-open-Complete-10').click(function(){
           모달창열기_Complete(9);
       });
+
+      $('#modal-open-Complete-11').click(function(){
+        모달창열기_Complete(10);
+      });
+
+      $('#modal-open-Complete-12').click(function(){
+        모달창열기_Complete(11);
+      });
       // PC Modal Open
 
       $('#modal-close').click(function(){
@@ -1596,19 +1612,19 @@
           Mobile모달창열기_Under10(8);
       });
 
-      $('#modal-open-Under10-9-mobile').click(function(){
+      $('#modal-open-Under10-10-mobile').click(function(){
         Mobile모달창열기_Under10(9);
       });
 
-      $('#modal-open-Under10-9-mobile').click(function(){
+      $('#modal-open-Under10-11-mobile').click(function(){
         Mobile모달창열기_Under10(10);
       });
 
-      $('#modal-open-Under10-9-mobile').click(function(){
+      $('#modal-open-Under10-12-mobile').click(function(){
         Mobile모달창열기_Under10(11);
       });
 
-      $('#modal-open-Under10-9-mobile').click(function(){
+      $('#modal-open-Under10-13-mobile').click(function(){
         Mobile모달창열기_Under10(12);
       });
 
@@ -1741,15 +1757,15 @@
           Mobile모달창열기_Under100(9);
       });
 
-      $('#modal-open-Under100-10-mobile').click(function(){
+      $('#modal-open-Under100-11-mobile').click(function(){
         Mobile모달창열기_Under100(10);
       });
 
-      $('#modal-open-Under100-10-mobile').click(function(){
+      $('#modal-open-Under100-12-mobile').click(function(){
         Mobile모달창열기_Under100(11);
       });
 
-      $('#modal-open-Under100-10-mobile').click(function(){
+      $('#modal-open-Under100-13-mobile').click(function(){
         Mobile모달창열기_Under100(12);
       });
 
@@ -1811,15 +1827,15 @@
           Mobile모달창열기_Over100(9);
       });
 
-      $('#modal-open-Over100-10-mobile').click(function(){
+      $('#modal-open-Over100-11-mobile').click(function(){
         Mobile모달창열기_Over100(10);
       });
 
-      $('#modal-open-Over100-10-mobile').click(function(){
+      $('#modal-open-Over100-12-mobile').click(function(){
         Mobile모달창열기_Over100(11);
       });
 
-      $('#modal-open-Over100-10-mobile').click(function(){
+      $('#modal-open-Over100-13-mobile').click(function(){
         Mobile모달창열기_Over100(12);
       });
 
@@ -1881,16 +1897,12 @@
           Mobile모달창열기_Complete(9);
       });
 
-      $('#modal-open-Complete-10-mobile').click(function(){
+      $('#modal-open-Complete-11-mobile').click(function(){
         Mobile모달창열기_Complete(10);
       });
 
-      $('#modal-open-Complete-10-mobile').click(function(){
+      $('#modal-open-Complete-12-mobile').click(function(){
         Mobile모달창열기_Complete(11);
-      });
-
-      $('#modal-open-Complete-10-mobile').click(function(){
-        Mobile모달창열기_Complete(12);
       });
 
       // Mobile Modal Open
