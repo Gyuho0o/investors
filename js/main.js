@@ -47,7 +47,7 @@
           TeamPurpose2_Under10 : '브랜딩 및 마케팅',
           TeamPurpose3_Under10 : '설비 확장',
           TeamSector_Under10 : 'E-Commerce & Logistics',
-          TeamIR_Under10 : 'https://tinyurl.com/mup9fn9c',
+          TeamIR_Under10 : 'https://tinyurl.com/2p8dhzn3',
         },
         {
           id : 3,
