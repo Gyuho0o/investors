@@ -52,6 +52,7 @@
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 700;
+  vertical-align: bottom;
 }
 
 .roboto-medium-mine-shaft-10px {
@@ -75,6 +76,7 @@
   font-size: var(--font-size-m);
   font-style: normal;
   font-weight: 700;
+  vertical-align: bottom;
 }
 
 .mulish-normal-rolling-stone-12px {
