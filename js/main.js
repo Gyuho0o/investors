@@ -221,7 +221,7 @@
           TeamCEO_Under50 : '이상희',
           TeamEmail_Under50 : "<a href='mailto:sanghee@oneofone.co.kr' style='text-decoration: none;'>sanghee@oneofone.co.kr</a>",
           TeamWebsite_Under50 : "<a href='https://www.oneofone.co.kr/' style='text-decoration: none;' target='_blank'>https://www.oneofone.co.kr/</a>",
-          TeamFundingCondition_Under50 : '20억원(post 220억원 희망)',
+          TeamFundingCondition_Under50 : '20억원(post 협상 희망)',
           TeamPriorvalue_Under50 : 'post 40억원',
           TeamPurpose1_Under50 : '22년 거래액 100억원 달성을 위한 상품매입비',
           TeamPurpose2_Under50 : '마케팅 비용',
@@ -1970,3 +1970,4 @@
         document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
       };
       // ScrollTop btn 종료
+
