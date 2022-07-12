@@ -83,7 +83,7 @@
       },
       {
         id : 5,
-        TeamName_Under10 : '⑥ 위시홈',
+        TeamName_Under10 : '⑥ 위시홈(테크홈)',
         TeamInfo_Under10 : '인테리어 업체를 위한 시공 플랫폼',
         TeamDate_Under10 : '2020년 10월 8일',
         TeamCEO_Under10 : '권중용',
@@ -95,7 +95,7 @@
         TeamPurpose2_Under10 : '마케팅 비용 증액을 통한 신규 고객 확보',
         TeamPurpose3_Under10 : '개발팀 인력 충원을 통한 서비스 고도화',
         TeamSector_Under10 : 'Home Service',
-        TeamIR_Under10 : 'https://drive.google.com/file/d/1ccnmbK_6Yb8RFbzINXaAmuUT0Ghcbjt-/view?usp=sharing',
+        TeamIR_Under10 : 'https://drive.google.com/file/d/1MQsBTg94H_8RthERlsUWyCqMzYxTachy/view?usp=sharing',
       },
       {
         id : 6,
