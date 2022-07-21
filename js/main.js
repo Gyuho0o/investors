@@ -215,19 +215,19 @@
     var PrimerClub_Under50 = [
       {
         id : 0,
-        TeamName_Under50 : '① 원오브원',
-        TeamInfo_Under50 : '명품 그릇/가구 리세일 서비스',
-        TeamDate_Under50 : '2020년 2월 10일',
-        TeamCEO_Under50 : '이상희',
-        TeamEmail_Under50 : "<a href='mailto:sanghee@oneofone.co.kr' style='text-decoration: none;'>sanghee@oneofone.co.kr</a>",
-        TeamWebsite_Under50 : "<a href='https://www.oneofone.co.kr/' style='text-decoration: none;' target='_blank'>https://www.oneofone.co.kr/</a>",
-        TeamFundingCondition_Under50 : '20억원(post 협상 희망)',
-        TeamPriorvalue_Under50 : 'post 40억원',
-        TeamPurpose1_Under50 : '22년 거래액 100억원 달성을 위한 상품매입비',
-        TeamPurpose2_Under50 : '마케팅 비용',
-        TeamPurpose3_Under50 : '인력 채용',
-        TeamSector_Under50 : 'E-Commerce & Logistics',
-        TeamIR_Under50 : 'https://tinyurl.com/mtaacwzu',
+        TeamName_Under50 : '① 팀엘리시움',
+        TeamInfo_Under50 : '근골격계 질환 진단/관리 전문기업',
+        TeamDate_Under50 : '2017년 5월 16일',
+        TeamCEO_Under50 : '김원진, 박은식',
+        TeamEmail_Under50 : "<a href='mailto:wjkim@teamelysium.kr' style='text-decoration: none;'>wjkim@teamelysium.kr</a>",
+        TeamWebsite_Under50 : "<a href='http://teamelysium.kr/' style='text-decoration: none;' target='_blank'>http://teamelysium.kr/</a>",
+        TeamFundingCondition_Under50 : '40억원(post 250억원 희망)',
+        TeamPriorvalue_Under50 : '(미팅 시 공개)',
+        TeamPurpose1_Under50 : '의료기기 라인업 확대 및 시장점유율 개선',
+        TeamPurpose2_Under50 : '건강 관리 서비스 개발 및 운영 인력 채용',
+        TeamPurpose3_Under50 : '온오프라인 마케팅 비용',
+        TeamSector_Under50 : 'Healthcare',
+        TeamIR_Under50 : 'https://drive.google.com/file/d/1h9ijyYCg9QkZ6Ke1Dye6YcuXgGV6q86N/view?usp=sharing',
       },
       {
         id : 1,
@@ -359,19 +359,19 @@
       },
       {
         id : 9,
-        TeamName_Under50 : '⑩ 팀엘리시움',
-        TeamInfo_Under50 : '근골격계 질환 진단/관리 전문기업',
-        TeamDate_Under50 : '2017년 5월 16일',
-        TeamCEO_Under50 : '김원진, 박은식',
-        TeamEmail_Under50 : "<a href='mailto:wjkim@teamelysium.kr' style='text-decoration: none;'>wjkim@teamelysium.kr</a>",
-        TeamWebsite_Under50 : "<a href='http://teamelysium.kr/' style='text-decoration: none;' target='_blank'>http://teamelysium.kr/</a>",
-        TeamFundingCondition_Under50 : '40억원(post 250억원 희망)',
-        TeamPriorvalue_Under50 : '(미팅 시 공개)',
-        TeamPurpose1_Under50 : '의료기기 라인업 확대 및 시장점유율 개선',
-        TeamPurpose2_Under50 : '건강 관리 서비스 개발 및 운영 인력 채용',
-        TeamPurpose3_Under50 : '온오프라인 마케팅 비용',
-        TeamSector_Under50 : 'Healthcare',
-        TeamIR_Under50 : 'https://drive.google.com/file/d/1h9ijyYCg9QkZ6Ke1Dye6YcuXgGV6q86N/view?usp=sharing',
+        TeamName_Under50 : '',
+          TeamInfo_Under50 : '',
+          TeamDate_Under50 : '',
+          TeamCEO_Under50 : '',
+          TeamEmail_Under50 : '',
+          TeamWebsite_Under50 : "",
+          TeamFundingCondition_Under50 : '',
+          TeamPriorvalue_Under50 : '',
+          TeamPurpose1_Under50 : '',
+          TeamPurpose2_Under50 : '',
+          TeamPurpose3_Under50 : '',
+          TeamSector_Under50 : '',
+          TeamIR_Under50 : '',
       },
       {
         id : 10,
@@ -1043,6 +1043,22 @@
          },
          {
           id : 12,
+          TeamName_Complete : '⑬ 원오브원',
+        TeamInfo_Complete : '명품 그릇/가구 리세일 서비스',
+        TeamDate_Complete : '2020년 2월 10일',
+        TeamCEO_Complete : '이상희',
+        TeamEmail_Complete : "<a href='mailto:sanghee@oneofone.co.kr' style='text-decoration: none;'>sanghee@oneofone.co.kr</a>",
+        TeamWebsite_Complete : "<a href='https://www.oneofone.co.kr/' style='text-decoration: none;' target='_blank'>https://www.oneofone.co.kr/</a>",
+        TeamFundingCondition_Complete : '20억원(post 협상 희망)',
+        TeamPriorvalue_Complete : 'post 40억원',
+        TeamPurpose1_Complete : '22년 거래액 100억원 달성을 위한 상품매입비',
+        TeamPurpose2_Complete : '마케팅 비용',
+        TeamPurpose3_Complete : '인력 채용',
+        TeamSector_Complete : 'E-Commerce & Logistics',
+        TeamIR_Complete : 'https://tinyurl.com/mtaacwzu',
+         },
+         {
+          id : 13,
           TeamName_Complete : '',
           TeamInfo_Complete : '',
           TeamDate_Complete : '',
@@ -1546,6 +1562,14 @@
     $('#modal-open-Complete-12').click(function(){
       모달창열기_Complete(11);
     });
+
+    $('#modal-open-Complete-13').click(function(){
+      모달창열기_Complete(12);
+    });
+
+    $('#modal-open-Complete-14').click(function(){
+      모달창열기_Complete(13);
+    });
     // PC Modal Open
 
     $('#modal-close').click(function(){
@@ -1904,6 +1928,14 @@
 
     $('#modal-open-Complete-12-mobile').click(function(){
       Mobile모달창열기_Complete(11);
+    });
+
+    $('#modal-open-Complete-13-mobile').click(function(){
+      Mobile모달창열기_Complete(12);
+    });
+
+    $('#modal-open-Complete-14-mobile').click(function(){
+      Mobile모달창열기_Complete(13);
     });
 
     // Mobile Modal Open
