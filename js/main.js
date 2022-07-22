@@ -95,7 +95,7 @@
         TeamPurpose2_Under10 : '마케팅 비용 증액을 통한 신규 고객 확보',
         TeamPurpose3_Under10 : '개발팀 인력 충원을 통한 서비스 고도화',
         TeamSector_Under10 : 'Home Service',
-        TeamIR_Under10 : 'https://drive.google.com/file/d/1MQsBTg94H_8RthERlsUWyCqMzYxTachy/view?usp=sharing',
+        TeamIR_Under10 : 'https://drive.google.com/file/d/14Q-uNllJ6XRX2LVf8RSPu9uvpdGbBsSL/view?usp=sharing',
       },
       {
         id : 6,
