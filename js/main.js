@@ -63,7 +63,7 @@
         TeamPurpose2_Under10 : '엔지니어 충원',
         TeamPurpose3_Under10 : '서비스 고도화 및 비즈니스 영역 확대',
         TeamSector_Under10 : 'Home Service',
-        TeamIR_Under10 : 'https://tinyurl.com/32rz8uk6',
+        TeamIR_Under10 : 'https://drive.google.com/file/d/1f5s9wh68xg-anD0uWWjuWu1BVA0mwhrX/view?usp=sharing',
       },
       {
         id : 4,
@@ -89,7 +89,7 @@
         TeamCEO_Under10 : '권중용',
         TeamEmail_Under10 : "<a href='mailto:jy.kwon@wishhome.co.kr' style='text-decoration: none;'>jy.kwon@wishhome.co.kr</a>",
         TeamWebsite_Under10 : "<a href='https://techhome.co.kr/signin' style='text-decoration: none;' target='_blank'>https://techhome.co.kr/signin</a>",
-        TeamFundingCondition_Under10 : '12억원(post 80억원 희망)',
+        TeamFundingCondition_Under10 : '8억원(post 80억원 희망)',
         TeamPriorvalue_Under10 : '(미팅 시 공개)',
         TeamPurpose1_Under10 : '운용 인력 채용을 통한 카테고리 확장',
         TeamPurpose2_Under10 : '인테리어 업체 수 증가',
@@ -115,67 +115,67 @@
       },
       {
         id : 7,
-        TeamName_Under10 : '',
-        TeamInfo_Under10 : '',
-        TeamDate_Under10 : '',
-        TeamCEO_Under10 : '',
-        TeamEmail_Under10 : '',
-        TeamWebsite_Under10 : '',
-        TeamFundingCondition_Under10 : '',
-        TeamPriorvalue_Under10 : '',
-        TeamPurpose1_Under10 : '',
-        TeamPurpose2_Under10 : '',
-        TeamPurpose3_Under10 : '',
-        TeamSector_Under10 : '',
-        TeamIR_Under10 : '',
+        TeamName_Under10 : '⑧ 인스유틸(딥리뷰)',
+        TeamInfo_Under10 : '딥러닝 활용 고객경험관리 서비스',
+        TeamDate_Under10 : '2017년 1월 19일',
+        TeamCEO_Under10 : '김진성',
+        TeamEmail_Under10 : "<a href='mailto:jskim@insutil.com' style='text-decoration: none;'>jskim@insutil.com</a>",
+        TeamWebsite_Under10 : "<a href='http://www.deepreview.co.kr/' style='text-decoration: none;' target='_blank'>http://www.deepreview.co.kr/</a>",
+        TeamFundingCondition_Under10 : '10억원(post 50억원 희망)',
+        TeamPriorvalue_Under10 : '(미팅 시 공개)',
+        TeamPurpose1_Under10 : '마케팅/개발 인력 보강',
+        TeamPurpose2_Under10 : '고객경험관리 서비스 자동화',
+        TeamPurpose3_Under10 : 'AI 서버 팜 구성(서비스 비용 절감)',
+        TeamSector_Under10 : 'Solution & Utility & SaaS',
+        TeamIR_Under10 : 'https://drive.google.com/file/d/19IMyI8CudXh9k_k4j7Y-q2C9iF5F9Zke/view?usp=sharing',
       },
       {
         id : 8,
-        TeamName_Under10 : '',
-        TeamInfo_Under10 : '',
-        TeamDate_Under10 : '',
-        TeamCEO_Under10 : '',
-        TeamEmail_Under10 : '',
-        TeamWebsite_Under10 : '',
-        TeamFundingCondition_Under10 : '',
-        TeamPriorvalue_Under10 : '',
-        TeamPurpose1_Under10 : '',
-        TeamPurpose2_Under10 : '',
-        TeamPurpose3_Under10 : '',
-        TeamSector_Under10 : '',
-        TeamIR_Under10 : '',
+        TeamName_Under10 : '⑨ 퍼퓸그라피',
+        TeamInfo_Under10 : '국내 향수 시장을 선도하는 마켓 1등 큐레이팅 전문몰',
+        TeamDate_Under10 : '2015년 8월 6일',
+        TeamCEO_Under10 : '홍윤표',
+        TeamEmail_Under10 : "<a href='mailto:yoonpyo@perfumegraphy.com' style='text-decoration: none;'>yoonpyo@perfumegraphy.com</a>",
+        TeamWebsite_Under10 : "<a href='https://perfumegraphy.com/' style='text-decoration: none;' target='_blank'>https://perfumegraphy.com/</a>",
+        TeamFundingCondition_Under10 : '10억원(post 160억원 희망)',
+        TeamPriorvalue_Under10 : 'post 110억원',
+        TeamPurpose1_Under10 : '연매출 150억원 달성 및 PB 런칭',
+        TeamPurpose2_Under10 : '23년 2~3분기 시리즈B 투자 연계 목표',
+        TeamPurpose3_Under10 : '국내 향수/향기 시장에 대한 마켓 리더',
+        TeamSector_Under10 : 'E-Commerce & Logistics',
+        TeamIR_Under10 : 'https://drive.google.com/file/d/1vcWCiXWR8wCuIq4mPr5clO9Y6JUOAec8/view?usp=sharing',
       },
       {
         id : 9,
-        TeamName_Under10 : '',
-        TeamInfo_Under10 : '',
-        TeamDate_Under10 : '',
-        TeamCEO_Under10 : '',
-        TeamEmail_Under10 : '',
-        TeamWebsite_Under10 : '',
-        TeamFundingCondition_Under10 : '',
-        TeamPriorvalue_Under10 : '',
-        TeamPurpose1_Under10 : '',
-        TeamPurpose2_Under10 : '',
-        TeamPurpose3_Under10 : '',
-        TeamSector_Under10 : '',
-        TeamIR_Under10 : '',
+        TeamName_Under10 : '⑩ 마보',
+        TeamInfo_Under10 : '하루 10분 마인드 트레이너, 마음챙김 명상앱 마보',
+        TeamDate_Under10 : '2018년 3월 29일',
+        TeamCEO_Under10 : '유정은',
+        TeamEmail_Under10 : "<a href='mailto:jungeun.rue@mabopractice.com' style='text-decoration: none;'>jungeun.rue@mabopractice.com</a>",
+        TeamWebsite_Under10 : "<a href='http://mabopractice.com' style='text-decoration: none;' target='_blank'>http://mabopractice.com</a>",
+        TeamFundingCondition_Under10 : '7~10억원(post 77~100억원 희망)',
+        TeamPriorvalue_Under10 : 'post 20억원',
+        TeamPurpose1_Under10 : '기존 프로덕트 개선을 위한 마케팅툴 도입',
+        TeamPurpose2_Under10 : '웹 클래스 제작을 위한 비용 유치',
+        TeamPurpose3_Under10 : '신규 채용',
+        TeamSector_Under10 : 'Healthcare',
+        TeamIR_Under10 : 'https://drive.google.com/file/d/1TMrGFeC8H0ZxeXo0oODThLTULZ6TsGwV/view?usp=sharing',
       },
       {
         id : 10,
-        TeamName_Under10 : '',
-        TeamInfo_Under10 : '',
-        TeamDate_Under10 : '',
-        TeamCEO_Under10 : '',
-        TeamEmail_Under10 : '',
-        TeamWebsite_Under10 : '',
-        TeamFundingCondition_Under10 : '',
-        TeamPriorvalue_Under10 : '',
-        TeamPurpose1_Under10 : '',
-        TeamPurpose2_Under10 : '',
-        TeamPurpose3_Under10 : '',
-        TeamSector_Under10 : '',
-        TeamIR_Under10 : '',
+        TeamName_Under10 : '⑪ 투모런스(핏코)',
+        TeamInfo_Under10 : '바쁜 직장인 여성을 위한 브랜드 옷 구독 서비스',
+        TeamDate_Under10 : '2018년 7월 24일',
+        TeamCEO_Under10 : '최재영',
+        TeamEmail_Under10 : "<a href='mailto:tim@fitco.style' style='text-decoration: none;'>tim@fitco.style</a>",
+        TeamWebsite_Under10 : "<a href='https://fitco.style' style='text-decoration: none;' target='_blank'>https://fitco.style</a>",
+        TeamFundingCondition_Under10 : '5억원(post 50억원 희망)',
+        TeamPriorvalue_Under10 : 'post 25억원',
+        TeamPurpose1_Under10 : '매출 성장을 위한 배송공간 확장',
+        TeamPurpose2_Under10 : '상품 공급을 위한 자금 확보',
+        TeamPurpose3_Under10 : '브랜드 본사가 요구하는 거래액 달성(마케팅)',
+        TeamSector_Under10 : 'Fashion & Beauty',
+        TeamIR_Under10 : 'https://drive.google.com/file/d/1_erB5Eizb62Nk0h8Mep9x5vOmp7PpOVt/view?usp=sharing',
       },
       {
           id : 11,
@@ -215,35 +215,35 @@
     var PrimerClub_Under50 = [
       {
         id : 0,
-        TeamName_Under50 : '① 팀엘리시움',
-        TeamInfo_Under50 : '근골격계 질환 진단/관리 전문기업',
-        TeamDate_Under50 : '2017년 5월 16일',
-        TeamCEO_Under50 : '김원진, 박은식',
-        TeamEmail_Under50 : "<a href='mailto:wjkim@teamelysium.kr' style='text-decoration: none;'>wjkim@teamelysium.kr</a>",
-        TeamWebsite_Under50 : "<a href='http://teamelysium.kr/' style='text-decoration: none;' target='_blank'>http://teamelysium.kr/</a>",
-        TeamFundingCondition_Under50 : '40억원(post 250억원 희망)',
-        TeamPriorvalue_Under50 : '(미팅 시 공개)',
-        TeamPurpose1_Under50 : '의료기기 라인업 확대 및 시장점유율 개선',
-        TeamPurpose2_Under50 : '건강 관리 서비스 개발 및 운영 인력 채용',
-        TeamPurpose3_Under50 : '온오프라인 마케팅 비용',
-        TeamSector_Under50 : 'Healthcare',
-        TeamIR_Under50 : 'https://drive.google.com/file/d/1h9ijyYCg9QkZ6Ke1Dye6YcuXgGV6q86N/view?usp=sharing',
+        TeamName_Under50 : '① 메뉴잇',
+          TeamInfo_Under50 : '음식점용 태블릿메뉴판(음식점 생산성 향상)',
+          TeamDate_Under50 : '2016년 2월',
+          TeamCEO_Under50 : '김동훈',
+          TeamEmail_Under50 : "<a href='mailto:kdh@menuit.io' style='text-decoration: none;'>kdh@menuit.io</a>",
+          TeamWebsite_Under50 : "<a href='https://www.menuit.io/' style='text-decoration: none;' target='_blank'>https://www.menuit.io/</a>",
+          TeamFundingCondition_Under50 : '25억원(post 275억원 희망)',
+          TeamPriorvalue_Under50 : 'post 60억원',
+          TeamPurpose1_Under50 : '연매출 492억원 달성을 위한 투자유치',
+          TeamPurpose2_Under50 : '개발자 채용을 통한 개발력 확대',
+          TeamPurpose3_Under50 : '마케팅 확대',
+          TeamSector_Under50 : 'Solution & Utility & SaaS',
+          TeamIR_Under50 : 'https://drive.google.com/file/d/1xACJjsV4rynOgOuitwUhtI-sP0IyOH5L/view?usp=sharing',
       },
       {
         id : 1,
-        TeamName_Under50 : '② 인스유틸(딥리뷰)',
-        TeamInfo_Under50 : '딥러닝 활용 고객경험관리 서비스',
-        TeamDate_Under50 : '2017년 1월 19일',
-        TeamCEO_Under50 : '김진성',
-        TeamEmail_Under50 : "<a href='mailto:jskim@insutil.com' style='text-decoration: none;'>jskim@insutil.com</a>",
-        TeamWebsite_Under50 : "<a href='http://www.deepreview.co.kr/' style='text-decoration: none;' target='_blank'>http://www.deepreview.co.kr/</a>",
-        TeamFundingCondition_Under50 : '20억원(post 70억원 희망)',
-        TeamPriorvalue_Under50 : '(미팅 시 공개)',
-        TeamPurpose1_Under50 : '마케팅/개발 인력 보강',
-        TeamPurpose2_Under50 : '고객경험관리 서비스 자동화',
-        TeamPurpose3_Under50 : 'AI 서버 팜 구성(서비스 비용 절감)',
-        TeamSector_Under50 : 'Solution & Utility & SaaS',
-        TeamIR_Under50 : 'https://drive.google.com/file/d/1rL5wrSfwCvn_Sqx1FB1xIlyln-XlhV2l/view?usp=sharing',
+          TeamName_Under50 : '② 딜러타이어(블랙서클)',
+          TeamInfo_Under50 : '온라인 타이어 유통서비스 블랙서클',
+          TeamDate_Under50 : '2018년 6월 7일',
+          TeamCEO_Under50 : '이종필',
+          TeamEmail_Under50 : "<a href='mailto:jp@dealertire.kr' style='text-decoration: none;'>jp@dealertire.kr</a>",
+          TeamWebsite_Under50 : "<a href='https://blackcircles.co.kr/' style='text-decoration: none;' target='_blank'>https://blackcircles.co.kr/</a>",
+          TeamFundingCondition_Under50 : '20억원(post 170억원 희망)',
+          TeamPriorvalue_Under50 : 'post 50억원',
+          TeamPurpose1_Under50 : 'B2B 마케팅 자금확보',
+          TeamPurpose2_Under50 : '개발 및 마케팅 인력 채용',
+          TeamPurpose3_Under50 : '서비스 운영위한 운영자금 확보',
+          TeamSector_Under50 : 'Mobility',
+          TeamIR_Under50 : 'https://drive.google.com/file/d/1zrsHOYIPlVn5w4mM7EBa9_uV33TWW3oI/view?usp=sharing',
       },
       {
         id : 2,
@@ -391,59 +391,75 @@
       },
       {
         id : 11,
-        TeamName_Under50 : '⑫ 라이클컴퍼니(라이클)',
-        TeamInfo_Under50 : '아웃도어 장비 버티컬 플랫폼',
-        TeamDate_Under50 : '2018년 2월 6일',
-        TeamCEO_Under50 : '정다움, 김백범',
-        TeamEmail_Under50 : "<a href='mailto:jdu520@lycle.co.kr' style='text-decoration: none;'>jdu520@lycle.co.kr</a>",
-        TeamWebsite_Under50 : "<a href='https://www.lycle.kr/' style='text-decoration: none;' target='_blank'>https://www.lycle.kr/</a>",
-        TeamFundingCondition_Under50 : '15억원(post 215억원 희망)',
-        TeamPriorvalue_Under50 : 'post 103억원',
-        TeamPurpose1_Under50 : '전국 단위 영업조직 팀 빌딩',
-        TeamPurpose2_Under50 : '아웃도어 카테고리 확장(캠핑 및 캠핑카 등)',
-        TeamPurpose3_Under50 : '마케팅 채널 다양화(페이스북, 유튜브 등)',
-        TeamSector_Under50 : 'Leisure & Travel',
-        TeamIR_Under50 : 'https://drive.google.com/file/d/1l3WjgnMVOA1fVXLlv2Y6k0qvRLZIMqjG/view?usp=sharing',
+         TeamName_Under50 : '⑫ 라이클컴퍼니(라이클)',
+         TeamInfo_Under50 : '아웃도어 장비 버티컬 플랫폼',
+         TeamDate_Under50 : '2018년 2월 6일',
+         TeamCEO_Under50 : '정다움, 김백범',
+         TeamEmail_Under50 : "<a href='mailto:jdu520@lycle.co.kr' style='text-decoration: none;'>jdu520@lycle.co.kr</a>",
+         TeamWebsite_Under50 : "<a href='https://www.lycle.kr/' style='text-decoration: none;' target='_blank'>https://www.lycle.kr/</a>",
+         TeamFundingCondition_Under50 : '15억원(post 215억원 희망)',
+         TeamPriorvalue_Under50 : 'post 103억원',
+         TeamPurpose1_Under50 : '전국 단위 영업조직 팀 빌딩',
+         TeamPurpose2_Under50 : '아웃도어 카테고리 확장(캠핑 및 캠핑카 등)',
+         TeamPurpose3_Under50 : '마케팅 채널 다양화(페이스북, 유튜브 등)',
+         TeamSector_Under50 : 'Leisure & Travel',
+         TeamIR_Under50 : 'https://drive.google.com/file/d/1l3WjgnMVOA1fVXLlv2Y6k0qvRLZIMqjG/view?usp=sharing',
         },
         {
-          id : 12,
-          TeamName_Under50 : '⑬ 딜러타이어(블랙서클)',
-          TeamInfo_Under50 : '온라인 타이어 유통서비스 블랙서클',
-          TeamDate_Under50 : '2018년 6월 7일',
-          TeamCEO_Under50 : '이종필',
-          TeamEmail_Under50 : "<a href='mailto:jp@dealertire.kr' style='text-decoration: none;'>jp@dealertire.kr</a>",
-          TeamWebsite_Under50 : "<a href='https://blackcircles.co.kr/' style='text-decoration: none;' target='_blank'>https://blackcircles.co.kr/</a>",
-          TeamFundingCondition_Under50 : '20억원(post 170억원 희망)',
-          TeamPriorvalue_Under50 : 'post 50억원',
-          TeamPurpose1_Under50 : 'B2B 마케팅 자금확보',
-          TeamPurpose2_Under50 : '개발 및 마케팅 인력 채용',
-          TeamPurpose3_Under50 : '서비스 운영위한 운영자금 확보',
-          TeamSector_Under50 : 'Mobility',
-          TeamIR_Under50 : 'https://drive.google.com/file/d/1zrsHOYIPlVn5w4mM7EBa9_uV33TWW3oI/view?usp=sharing',
+        id : 12,
+          TeamName_Under50 : '⑬ 페이플',
+          TeamInfo_Under50 : '온라인 결제',
+          TeamDate_Under50 : '2018년 3월 5일',
+          TeamCEO_Under50 : '김현철',
+          TeamEmail_Under50 : "<a href='mailto:hc.kim@payple.kr' style='text-decoration: none;'>hc.kim@payple.kr</a>",
+          TeamWebsite_Under50 : "<a href='https://www.payple.kr/' style='text-decoration: none;' target='_blank'>https://www.payple.kr/</a>",
+          TeamFundingCondition_Under50 : '50억원(post 250억원 희망)',
+          TeamPriorvalue_Under50 : 'post 70억원',
+          TeamPurpose1_Under50 : '선불전자지급수단 라이선스(20억원)',
+          TeamPurpose2_Under50 : '스케일업, 서비스 고도화를 위한 인력 채용',
+          TeamPurpose3_Under50 : '-',
+          TeamSector_Under50 : 'Fintech',
+          TeamIR_Under50 : 'https://drive.google.com/file/d/1uCmyQcVqtceeSvGI1lB9uyfQ9pLYwgqm/view?usp=sharing',
         },
         {
           id : 13,
-          TeamName_Under50 : '',
-          TeamInfo_Under50 : '',
-          TeamDate_Under50 : '',
-          TeamCEO_Under50 : '',
-          TeamEmail_Under50 : '',
-          TeamWebsite_Under50 : "",
-          TeamFundingCondition_Under50 : '',
-          TeamPriorvalue_Under50 : '',
-          TeamPurpose1_Under50 : '',
-          TeamPurpose2_Under50 : '',
-          TeamPurpose3_Under50 : '',
-          TeamSector_Under50 : '',
-          TeamIR_Under50 : '',
+          TeamName_Under50 : '⑭ 팀엘리시움',
+        TeamInfo_Under50 : '근골격계 질환 진단/관리 전문기업',
+        TeamDate_Under50 : '2017년 5월 16일',
+        TeamCEO_Under50 : '김원진, 박은식',
+        TeamEmail_Under50 : "<a href='mailto:wjkim@teamelysium.kr' style='text-decoration: none;'>wjkim@teamelysium.kr</a>",
+        TeamWebsite_Under50 : "<a href='http://teamelysium.kr/' style='text-decoration: none;' target='_blank'>http://teamelysium.kr/</a>",
+        TeamFundingCondition_Under50 : '40억원(post 250억원 희망)',
+        TeamPriorvalue_Under50 : '(미팅 시 공개)',
+        TeamPurpose1_Under50 : '의료기기 라인업 확대 및 시장점유율 개선',
+        TeamPurpose2_Under50 : '건강 관리 서비스 개발 및 운영 인력 채용',
+        TeamPurpose3_Under50 : '온오프라인 마케팅 비용',
+        TeamSector_Under50 : 'Healthcare',
+        TeamIR_Under50 : 'https://drive.google.com/file/d/1h9ijyYCg9QkZ6Ke1Dye6YcuXgGV6q86N/view?usp=sharing'
         },
         {
-          id : 14,
+        id : 14,
+        TeamName_Under50 : '',
+        TeamInfo_Under50 : '',
+        TeamDate_Under50 : '',
+        TeamCEO_Under50 : '',
+        TeamEmail_Under50 : "",
+        TeamWebsite_Under50 : "",
+        TeamFundingCondition_Under50 : '',
+        TeamPriorvalue_Under50 : '',
+        TeamPurpose1_Under50 : '',
+        TeamPurpose2_Under50 : '',
+        TeamPurpose3_Under50 : '',
+        TeamSector_Under50 : '',
+        TeamIR_Under50 : '',
+        },
+        {
+          id : 15,
           TeamName_Under50 : '',
           TeamInfo_Under50 : '',
           TeamDate_Under50 : '',
           TeamCEO_Under50 : '',
-          TeamEmail_Under50 : '',
+          TeamEmail_Under50 : "",
           TeamWebsite_Under50 : "",
           TeamFundingCondition_Under50 : '',
           TeamPriorvalue_Under50 : '',
@@ -452,7 +468,23 @@
           TeamPurpose3_Under50 : '',
           TeamSector_Under50 : '',
           TeamIR_Under50 : '',
-        },
+          },
+        {
+        id : 16,
+        TeamName_Under50 : '',
+        TeamInfo_Under50 : '',
+        TeamDate_Under50 : '',
+        TeamCEO_Under50 : '',
+        TeamEmail_Under50 : "",
+        TeamWebsite_Under50 : "",
+        TeamFundingCondition_Under50 : '',
+        TeamPriorvalue_Under50 : '',
+        TeamPurpose1_Under50 : '',
+        TeamPurpose2_Under50 : '',
+        TeamPurpose3_Under50 : '',
+        TeamSector_Under50 : '',
+        TeamIR_Under50 : '',
+        },  
     ];
 
 
@@ -883,19 +915,19 @@
     var PrimerClub_Complete = [
         {
          id : 0,
-         TeamName_Complete : '① 투모런스(핏코)',
-         TeamInfo_Complete : '바쁜 현대인을 위한 옷 쇼핑 대행 서비스',
-         TeamDate_Complete : '2018년 7월',
-         TeamCEO_Complete : '최재영',
-         TeamEmail_Complete : "<a href='mailto:tim@fitco.style' style='text-decoration: none;'>tim@fitco.style</a>",
-         TeamWebsite_Complete : "<a href='https://fitco.style/home' style='text-decoration: none;'target='_blank'>https://fitco.style/home</a>",
+         TeamName_Complete : '① 루북',
+         TeamInfo_Complete : '국내 최초 호텔 연회장 예약 플랫폼',
+         TeamDate_Complete : '2019년 3월 11일',
+         TeamCEO_Complete : '김한결',
+         TeamEmail_Complete : "<a href='mailto:kyle@roovook.com' style='text-decoration: none;'>kyle@roovook.com</a>",
+         TeamWebsite_Complete : "<a href='https://www.roovook.com' style='text-decoration: none;' target='_blank'>https://www.roovook.com</a>",
          TeamFundingCondition_Complete : '(펀딩 완료)',
-         TeamPriorvalue_Complete : 'post 100억원',
-         TeamPurpose1_Complete : '브랜드 정식 입점을 위한 거래량 증가',
-         TeamPurpose2_Complete : '거래량 증가 후 브랜드 정식 입점',
-         TeamPurpose3_Complete : '거래량 증가로 인한 판매 수수료 인상',
-         TeamSector_Complete : 'Fashion & Beauty',
-         TeamIR_Complete : 'https://tinyurl.com/y8echb5b',
+         TeamPriorvalue_Complete : '비공개',
+         TeamPurpose1_Complete : '비즈니스 공간 대관 시장 1등 기업 선점',
+         TeamPurpose2_Complete : '스마트 MICE B2B SaaS 플랫폼 지향',
+         TeamPurpose3_Complete : '글로벌 서비스 진출',
+         TeamSector_Complete : 'Leisure & Travel',
+         TeamIR_Complete : 'https://tinyurl.com/4t9hhsjy',
         },
         {
          id : 1,
@@ -1027,19 +1059,19 @@
         },
         {
          id : 9,
-         TeamName_Complete : '⑩ 루북',
-         TeamInfo_Complete : '국내 최초 호텔 연회장 예약 플랫폼',
-         TeamDate_Complete : '2019년 3월 11일',
-         TeamCEO_Complete : '김한결',
-         TeamEmail_Complete : "<a href='mailto:kyle@roovook.com' style='text-decoration: none;'>kyle@roovook.com</a>",
-         TeamWebsite_Complete : "<a href='https://www.roovook.com' style='text-decoration: none;' target='_blank'>https://www.roovook.com</a>",
-         TeamFundingCondition_Complete : '(펀딩 완료)',
-         TeamPriorvalue_Complete : '비공개',
-         TeamPurpose1_Complete : '비즈니스 공간 대관 시장 1등 기업 선점',
-         TeamPurpose2_Complete : '스마트 MICE B2B SaaS 플랫폼 지향',
-         TeamPurpose3_Complete : '글로벌 서비스 진출',
-         TeamSector_Complete : 'Leisure & Travel',
-         TeamIR_Complete : 'https://tinyurl.com/4t9hhsjy',
+         TeamName_Complete : '',
+          TeamInfo_Complete : '',
+          TeamDate_Complete : '',
+          TeamCEO_Complete : '',
+          TeamEmail_Complete : '',
+          TeamWebsite_Complete : '',
+          TeamFundingCondition_Complete : '',
+          TeamPriorvalue_Complete : '',
+          TeamPurpose1_Complete : '',
+          TeamPurpose2_Complete : '',
+          TeamPurpose3_Complete : '',
+          TeamSector_Complete : '',
+          TeamIR_Complete : '',
         },
         {
          id : 10,
@@ -1192,7 +1224,7 @@
     PC팀호출(10, 10);
     PC팀호출(11, 11);
     PC팀호출(12, 12);
-  //   'PC팀호출'이라는 이름의 함수를 호출하는 것. 괄호 속 숫자는 파라미터다. 여기선 팀명, 팀소개를 바꿈.
+  //   'PC팀호출'이라는 이름의 함수를 호출하는 것. 괄호 속 숫자는 파라미터다. 여기선 팀명, 팀소개를 바꿈. 왜 12개까지밖에 안 되지??
 
 
 
@@ -1334,6 +1366,18 @@
         모달창열기_Under10(8);
     });
 
+    $('#modal-open-Under10-10').click(function(){
+      모달창열기_Under10(9);
+    });
+
+    $('#modal-open-Under10-11').click(function(){
+      모달창열기_Under10(10);
+    });
+
+    $('#modal-open-Under10-12').click(function(){
+      모달창열기_Under10(11);
+    });
+
     function 모달창열기_Under50(모달구멍) {
         $('.black-background').css('display', 'block');
         $('.TeamName').html(PrimerClub_Under50[모달구멍].TeamName_Under50);
@@ -1403,6 +1447,16 @@
       모달창열기_Under50(12);
    });
 
+   $('#modal-open-Under50-14').click(function(){
+      모달창열기_Under50(13);
+   });
+
+   $('#modal-open-Under50-15').click(function(){
+    모달창열기_Under50(14);
+   });
+
+
+
     function 모달창열기_Under100(모달구멍) {
         $('.black-background').css('display', 'block');
         $('.TeamName').html(PrimerClub_Under100[모달구멍].TeamName_Under100);
@@ -1464,6 +1518,8 @@
     $('#modal-open-Under100-11').click(function(){
       모달창열기_Under100(10);
     });
+
+
 
     function 모달창열기_Over100(모달구멍) {
         $('.black-background').css('display', 'block');
@@ -1528,6 +1584,8 @@
       $('.black-background').hide();
       e.preventDefault();
     });
+
+
 
 
     function 모달창열기_Complete(모달구멍) {
@@ -1753,6 +1811,10 @@
 
     $('#modal-open-Under50-13-mobile').click(function(){
       Mobile모달창열기_Under50(12);
+    });
+
+    $('#modal-open-Under50-14-mobile').click(function(){
+      Mobile모달창열기_Under50(13);
     });
 
 
