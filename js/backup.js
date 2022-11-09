@@ -31,6 +31,22 @@ var PrimerClub_Under10 = [
         TeamSector_Under10 : 'Contents & Information',
         TeamIR_Under10 : 'https://tinyurl.com/3uh98tsw',
     },
+    {
+        id : 2,
+        TeamName_Under10 : '⑧ 인스유틸(딥리뷰)',
+        TeamInfo_Under10 : '딥러닝 활용 고객경험관리 서비스',
+        TeamDate_Under10 : '2017년 1월 19일',
+        TeamCEO_Under10 : '김진성',
+        TeamEmail_Under10 : "<a href='mailto:jskim@insutil.com' style='text-decoration: none;'>jskim@insutil.com</a>",
+        TeamWebsite_Under10 : "<a href='http://www.deepreview.co.kr/' style='text-decoration: none;' target='_blank'>http://www.deepreview.co.kr/</a>",
+        TeamFundingCondition_Under10 : '10억원(post 50억원 희망)',
+        TeamPriorvalue_Under10 : '(미팅 시 공개)',
+        TeamPurpose1_Under10 : '마케팅/개발 인력 보강',
+        TeamPurpose2_Under10 : '고객경험관리 서비스 자동화',
+        TeamPurpose3_Under10 : 'AI 서버 팜 구성(서비스 비용 절감)',
+        TeamSector_Under10 : 'Solution & Utility & SaaS',
+        TeamIR_Under10 : 'https://drive.google.com/file/d/19IMyI8CudXh9k_k4j7Y-q2C9iF5F9Zke/view?usp=sharing',
+      },
 ]
 
 
