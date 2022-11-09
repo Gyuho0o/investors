@@ -32,7 +32,8 @@
 
 .mulish-light-masala-14px {
   color: var(--masala);
-  font-family: var(--font-family-mulish);
+  /* font-family: var(--font-family-mulish); */
+  font-family: Pretendard;
   font-size: var(--font-size-xs);
   font-style: normal;
   font-weight: 300;
@@ -81,7 +82,8 @@
 
 .mulish-normal-rolling-stone-12px {
   color: var(--rolling-stone);
-  font-family: var(--font-family-mulish);
+  /* font-family: var(--font-family-mulish); */
+  font-family: Pretendard;
   font-size: var(--font-size-xxs);
   font-style: normal;
   font-weight: 400;
@@ -89,7 +91,8 @@
 
 .mulish-semi-bold-royal-blue-35px {
   color: var(--royal-blue);
-  font-family: var(--font-family-mulish);
+  /* font-family: var(--font-family-mulish); */
+  font-family: Pretendard;
   font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 600;
@@ -97,7 +100,8 @@
 
 .mulish-semi-bold-cape-cod-35px {
   color: var(--cape-cod);
-  font-family: var(--font-family-mulish);
+  /* font-family: var(--font-family-mulish); */
+  font-family: Pretendard;
   font-size: var(--font-size-xl);
   font-style: normal;
   font-weight: 600;
