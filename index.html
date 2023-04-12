@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <!-- Head -->
   <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="og:type" content="website" />
@@ -15,28 +13,37 @@
     <meta name="Keywords" content="프라이머, primer, Primer, 펀딩, 스타트업, 펀딩 중인 스타트업, Primer Club" />
     <meta name="robots" content="noindex, nofollow" />
     <meta name="Date" content="2021-12-05T07:45:37+09:00" />
+    <!-- //Required meta tags -->
 
-    <!-- jQuery and Bootstrap Bundle -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/main.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <!-- //Custom CSS Bundle-->
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+    <!-- jQuery and Bootstrap Bundle -->
 
-    <!-- Favicons -->
-    <link rel="shortcut icon" type="image/png" href="./assets/img/favicon/favicon.png" />
-    <link rel="apple-touch-icon" sizes="57x57" href="./assets/img/favicon/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="./assets/img/favicon/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="./assets/img/favicon/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/favicon/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="./assets/img/favicon/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="./assets/img/favicon/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="./assets/img/favicon/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="./assets/img/favicon/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="./assets/img/favicon/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="./assets/img/favicon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="./assets/img/favicon/favicon-16x16.png">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <!-- Vue.js cdn -->
 
-    <!-- Web Fonts -->
+    <link rel="shortcut icon" type="image/png" href="./img/favicon/favicon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="./img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="./img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="./img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="./img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="./img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="./img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="./img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="./img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="./img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="./img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="./img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon/favicon-16x16.png">
+    <!-- //Favicons -->
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
@@ -46,337 +53,1058 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap"
-    rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
+    <!-- //Web Fonts -->
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap" rel="stylesheet">
-
-    <!-- Title -->
-    <title>Primer Club Info</title>
-
-    <!-- Vendor CSS Files -->
-    <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
+    <title>Primer page for investors</title>
+    <!-- //Title -->
   </head>
 
-  <!-- Body -->
   <body>
 
-    <!-- ======= Top Bar ======= -->
-    <section id="topbar" class="d-flex align-items-center" style="color: #333333;">
-      <div class="container d-flex justify-content-center justify-content-md-between">
-        <div class="contact-info d-flex align-items-center">
-          <i class="bi bi-envelope d-flex align-items-center" style="color: #d6d6d6;"><a href="mailto:lgh@primer.kr">lgh@primer.kr</a></i>
-          <i class="bi bi-telephone d-flex align-items-center ms-4" style="color: #d6d6d6;"><span>070-8667-0708</span></i>
+    <!-- 로그인 모달 -->
+    <div class="black-background-firstpage" id="black-background-firstpage">
+      <div class="white-background-firstpage ">
+          <img class="firstpage" src="./img/Firstpage.png" />
+          <div class="passwordbox1">
+            <input class="textbox" type="password" placeholder="비밀번호를 입력하세요" autofocus required></input>
+          </div>
+          <div class="passwordbox2">
+            <input id="modal-close-firstpage" class="_Actions1-fistpage" type="submit" value="입장하기"></input>
+          </div>
+      </div>
+    </div>
+    <!-- //로그인 모달 -->
+
+
+    <!-- PC Modal -->
+    <div class="black-background">
+      <div class="white-background">
+        <div class="Business-marginbottom">
+          <span class="Business">비즈니스 분야</span>
+          <span class="Business-type TeamSector">Leisure & Travel</span>
         </div>
-        <div class="social-links d-none d-md-flex align-items-center">
-          <a href="https://www.facebook.com/primerkr" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
-          <a href="https://www.youtube.com/channel/UCA9FWfDU9_SnNl1MCQ-n7zQ" class="youtube" target="_blank"><i class="bi bi-youtube"></i></a>
-          <a href="https://blog.naver.com/primerblog" class="youtube" target="_blank"><i class="bi bi-book-fill"></i></a>
+        <div class="Business-marginbottom">
+          <span class="Compnay-name TeamName">라이클(라이클컴퍼니)</span>
+        </div>
+        <div class="Business-marginbottom1">
+          <span class="Company-info TeamInfo">아웃도어 장비 렌탈 플랫폼</span>
+        </div>
+        <div class="Business-marginbottom2">
+          <span class="Business-start">설립일</span>
+          <span class="Business-start-cont TeamDate">2018년 1월 29일</span>
+        </div>
+        <div class="Business-marginbottom2">
+          <span class="Business-start">대표자</span>
+          <span class="Business-start-cont TeamCEO">정다움, 김백범</span>
+        </div>
+        <div class="Business-marginbottom2">
+          <span class="Business-start">이메일</span>
+          <span class="Business-start-cont TeamEmail">jdu520@lycle.co.kr</span>
+        </div>
+        <div class="Business-marginbottom2">
+          <span class="Business-start">웹사이트</span>
+          <span class="Business-start-cont1 TeamWebsite">https://www.lycle.kr/</span>
+        </div>
+        <div class="Business-marginbottom2">
+          <span class="Business-start">펀딩조건</span>
+          <span class="Business-start-cont2 TeamFundingCondition">20억원(post 150억원 희망)</span>
+        </div>
+        <div class="Business-marginbottom2">
+          <span class="Business-start">직전밸류</span>
+          <span class="Business-start-cont1 TeamPriorvalue">post 70억원</span>
+        </div>
+        <div class="Business-marginbottom3">
+          <span class="Business-start">투자유치목적</span>
+          <span class="Business-start-cont3 TeamPurpose1">영업 및 마케팅 인재채용(3억원)</span>
+        </div>
+        <div class="Business-marginbottom3">
+          <span class="Business-start" style="opacity: 0;">투자유치목적</span>
+          <span class="Business-start-cont3 TeamPurpose2">캠핑장비 및 물류센터 확장(5억원)</span>
+        </div>
+        <div class="Business-marginbottom3">
+          <span class="Business-start" style="opacity: 0;">투자유치목적</span>
+          <span class="Business-start-cont3 TeamPurpose3">퍼포먼스 마케팅 & 브랜딩(10억원)</span>
+        </div>
+        <div>
+          <a href="#" class="TeamIR" style="text-decoration: none;" target="_blank"><div class="_Actions"><span class="-Action">IR 자료</span></div></a>
+        </div>
+        <div>
+          <div id="modal-close" class="_Actions1"><span class="-Action1">닫기</span></div>
         </div>
       </div>
-    </section>
+    </div>
+    <!-- //PC Modal -->
 
-    <!-- ======= Header ======= -->
-    <header id="header" class="d-flex align-items-center">
-      <div class="container d-flex justify-content-between align-items-center">
-        <div class="logo">
-          <h1><a href="index.html"><img src="./assets/img/logo_primer.png" class="logo_primer"></a></h1>
+
+    <!-- Mobile Modal -->
+    <div class="black-background-mobile">
+      <div class="white-background-mobile">
+        <div class="Business-marginbottom-mobile">
+          <span class="Business-mobile">비즈니스 &nbsp; 분야</span>
+          <span class="Business-type-moblie TeamSector_Mobile">Leisure & Travel</span>
         </div>
-        <nav id="navbar" class="navbar">
-          <ul>
-            <li><a class="active" href="index.html">Home</a></li>
-            <li class="dropdown"><a href="./primerclub.html"><span>Primer Club</span> <i class="bi bi-chevron-down"></i></a>
-              <ul>
-                <li><a href="batch19.html">Batch 19</a></li>
-                <li><a href="batch20.html">Batch 20</a></li>
-                <li><a href="batch21.html">Batch 21</a></li>
-                <li><a href="batch22.html">Batch 22</a></li>
-                <li><a href="batch23.html">Batch 23</a></li>
-                <li><a href="batch24.html">Batch 24</a></li>
-                <!-- <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                  <ul>
-                    <li><a href="#">Deep Drop Down 1</a></li>
-                    <li><a href="#">Deep Drop Down 2</a></li>
-                    <li><a href="#">Deep Drop Down 3</a></li>
-                    <li><a href="#">Deep Drop Down 4</a></li>
-                    <li><a href="#">Deep Drop Down 5</a></li>
-                  </ul>
-                </li> -->
-                <!-- <li><a href="#">Drop Down 3</a></li>
-                <li><a href="#">Drop Down 4</a></li> -->
-              </ul>
-            </li>
-            <li><a href="team.html">Team</a></li>
-            <li><a href="contact.html">Contact</a></li>
-          </ul>
-          <i class="bi bi-list mobile-nav-toggle"></i>
-        </nav><!-- .navbar -->
-
-      </div>
-    </header><!-- End Header -->
-
-    <!-- ======= Hero Section ======= -->
-    <section id="hero">
-      <div class="hero-container">
-        <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
-          <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
-          <div class="carousel-inner" role="listbox">
-
-            <!-- Slide 1 -->
-            <div class="carousel-item active" style="background: url(assets/img/slide/slide-01.jpg)">
-              <div class="carousel-container">
-                <div class="carousel-content">
-                  <h2 class="animate__animated animate__fadeInDown main_title">Welcome to 👋<span><br>Primer Club Info</span></h2>
-                  <!-- <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p> -->
-                  <a href="./primerclub.html" class="btn-get-started animate__animated animate__fadeInUp Gothic_A">더 알아보기</a>
-                </div>
-              </div>
-            </div>
-
-            <!-- Slide 2 -->
-            <div class="carousel-item" style="background: url(assets/img/slide/slide-02.jpg)">
-              <div class="carousel-container">
-                <div class="carousel-content">
-                  <h2 class="animate__animated animate__fadeInDown main_title">Info of 🏃‍♂️🏃‍♀️<span><br>Team Primer</span></h2>
-                  <!-- <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p> -->
-                  <a href="./team.html" class="btn-get-started animate__animated animate__fadeInUp Gothic_A">더 알아보기</a>
-                </div>
-              </div>
-            </div>
-
-            <!-- Slide 3 -->
-            <div class="carousel-item" style="background: url(assets/img/slide/slide-03.jpg)">
-              <div class="carousel-container">
-                <div class="carousel-content">
-                  <h2 class="animate__animated animate__fadeInDown main_title">Contact 👀<span><br>Primer</span></h2>
-                  <!-- <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p> -->
-                  <a href="./contact.html" class="btn-get-started animate__animated animate__fadeInUp Gothic_A">더 알아보기</a>
-                </div>
-              </div>
-            </div>
-
-          </div>
-
-          <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
-          </a>
-          <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
-            <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
-          </a>
-
+        <div class="Business-marginbottom-mobile1">
+          <span class="Compnay-name-mobile TeamName_Mobile">라이클(라이클컴퍼니)</span>
+        </div>
+        <div class="Business-marginbottom-mobile2">
+          <span class="Company-info-mobile TeamInfo_Mobile">아웃도어 장비 렌탈 플랫폼</span>
+        </div>
+        <div class="Business-marginbottom-mobile3">
+          <span class="Business-start-mobile">설립일</span>
+          <span class="Business-start-cont-mobile TeamDate_Mobile">2018년 1월 29일</span>
+        </div>
+        <div class="Business-marginbottom-mobile3">
+          <span class="Business-start-mobile">대표자</span>
+          <span class="Business-start-cont-mobile TeamCEO_Mobile">정다움, 김백범</span>
+        </div>
+        <div class="Business-marginbottom-mobile3">
+          <span class="Business-start-mobile">이메일</span>
+          <span class="Business-start-cont-mobile TeamEmail_Mobile">jdu520@lycle.co.kr</span>
+        </div>
+        <div class="Business-marginbottom-mobile3">
+          <span class="Business-start-mobile1">웹사이트</span>
+          <span class="Business-start-cont-mobile TeamWebsite_Mobile">https://www.lycle.kr/</span>
+        </div>
+        <div class="Business-marginbottom-mobile3">
+          <span class="Business-start-mobile1">펀딩조건</span>
+          <span class="Business-start-cont-mobile88 TeamFundingCondition_Mobile">20억원(post 150억원 희망)</span>
+        </div>
+        <div class="Business-marginbottom-mobile3">
+          <span class="Business-start-mobile1">직전밸류</span>
+          <span class="Business-start-cont-mobile TeamPriorvalue_Mobile">post 70억원</span>
+        </div>
+        <div class="Business-marginbottom-mobile4">
+          <span class="Business-start-mobile2">투자유치목적</span>
+          <span class="Business-start-cont-mobile3 TeamPurpose1_Mobile">영업 및 마케팅 인재채용(3억원)</span>
+        </div class="Business-marginbottom-mobile3">
+        <div class="Business-marginbottom-mobile4">
+          <span class="Business-start-mobile2" style="opacity: 0;">투자유치목적</span>
+          <span class="Business-start-cont-mobile3 TeamPurpose2_Mobile">영업 및 마케팅 인재채용(3억원)</span>
+        </div>
+        <div class="Business-marginbottom-mobile4">
+          <span class="Business-start-mobile2" style="opacity: 0;">투자유치목적</span>
+          <span class="Business-start-cont-mobile3 TeamPurpose3_Mobile">영업 및 마케팅 인재채용(3억원)</span>
+        </div>
+        <div>
+          <a href="#" class="TeamIR_Mobile" style="text-decoration: none;" target="_blank"><div class="_Actions-mobile"><span class="-Action-mobile">IR 자료</span></div></a>
+        </div>
+        <div>
+          <div id="modal-close-mobile" class="_Actions1-mobile"><span class="-Action1-mobile">닫기</span></div>
         </div>
       </div>
-    </section><!-- End Hero -->
+    </div>
+    <!-- //Mobile Modal -->
 
-    <main id="main">
 
-      <!-- ======= Featured Section ======= -->
-      <section id="featured" class="featured">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-4">
-              <div class="icon-box hovereffect">
-                <i class="bi bi-card-checklist"></i>
-                <h3 class="batch_name"><a href="">연 2회 배치 모집/선발</a></h3>
-                <p>'창업의 시작', 프라이머로부터 시드 투자를 유치할 팀을 연 2회 모집/선발합니다. 프라이머는 TIPS 및 Seed TIPS 운영사로 TIPS 투자가 가능한 팀의 TIPS 투자 연계를 지원합니다.</p>
+    <!-- PC Screen -->
+    <input type="hidden" id="anPageName" name="page" value="02" />
+    <div class="container-center-horizontal">
+      <div class="x01 screen">
+        <div class="nav">
+          <a href="#"><img class="logo" src="img/logo@2x.png" /></a>
+          <div class="menu">
+            <a href="http://main.primer.kr/about" target="_blank"><div class="text-4 valign-text-middle">ABOUT</div></a>
+            <div class="text-5 valign-text-middle scrolldown">CONTACT</div>
+          </div>
+        </div>
+        <div class="header">
+          <div class="header-contents">
+            <div class="text-6 valign-text-middle">Meet Primer Club</div>
+            <h1 class="text-7 valign-text-middle">
+              <span
+                ><span class="span mulish-semi-bold-royal-blue-35px">펀딩</span
+                ><span class="span mulish-semi-bold-cape-cod-35px"> 중인 스타트업을 <br /></span
+                ><span class="span mulish-semi-bold-royal-blue-35px">지금</span
+                ><span class="span mulish-semi-bold-cape-cod-35px"> 만나보세요</span>
+              </span>
+            </h1>
+            <p class="text-8 mulish-normal-rolling-stone-12px">
+              <span class="mulish-normal-rolling-stone-12px"
+                >빠르게 성장 중인 프라이머 클럽 팀을 만나보세요 <br />팀에 대한 자세한 정보는 ‘</span
+              ><span class="span1">플러스(+)</span
+              ><span class="mulish-normal-rolling-stone-12px">’ 버튼을 클릭해 보세요</span>
+            </p>
+          </div>
+          <div class="honers">
+            <div class="honer">
+              <a href="https://www.styleshare.kr/" target="_blank"><div class="styleshare hovereffect"><img class="logo-styleshare" src="img/logo-styleshare@2x.png" /></div></a>
+              <a href="https://www.myrealtrip.com/" target="_blank"><div class="my-real-trip hovereffect"><img class="image-2" src="img/image-2@2x.png" /></div></a>
+              <a href="https://www.dailyhotel.com/" target="_blank"><div class="daily hovereffect"><img class="image-1" src="img/image-1@2x.png" /></div></a>
+              <a href="https://www.idus.com/" target="_blank"><div class="idus hovereffect"><img class="image-3" src="img/image-3@2x.png" /></div></a>
+            </div>
+            <div class="honer">
+              <a href="https://www.getrael.co.kr/" target="_blank"><div class="rael hovereffect"><img class="image-5" src="img/image-5@2x.png" /></div></a>
+              <a href="https://soomgo.com/" target="_blank"><div class="soomgo hovereffect"><img class="image-6" src="img/image-6@2x.png" /></div></a>
+              <a href="https://hogangnono.com/" target="_blank"><div class="hogangnono hovereffect"><img class="image-4" src="img/image-4@2x.png" /></div></a>
+              <a href="https://www.upstage.ai/" target="_blank"><div class="upstage hovereffect"><img class="image-7" src="img/image-7@2x.png" /></div></a>
+            </div>
+          </div>
+        </div>
+        <div class="main">
+          <div class="team-under-1">
+            <div class="text01 valign-text-middle roboto-bold-white-18px">
+              <span
+                ><span class="roboto-bold-black-18px">펀딩 금액 </span
+                ><span class="roboto-bold-royal-blue-18px">10</span
+                ><span class="roboto-bold-black-18px">억원 이하 💡</span>
+              </span>
+            </div>
+            <div class="teams">
+              <div id="modal-open-Under10-1" class="team-row1">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under10-2" class="team">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under10-3" class="team">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under10-4" class="team">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under10-5" class="team">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under10-6" class="team">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under10-7" class="team">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <!-- <div id="modal-open-Under10-8" class="team">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div> -->
+              <!-- <div id="modal-open-Under10-9" class="team">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div> -->
+              <!-- <div id="modal-open-Under10-10" class="team">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div> -->
+              <!-- <div id="modal-open-Under10-11" class="team">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div> -->
+              <!-- <div id="modal-open-Under10-12" class="team">
+                <div class="TeamName_Under10 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under10 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div> -->
+            </div>
+          </div>
+          <div class="team-under">
+            <div class="text01 valign-text-middle roboto-bold-white-18px">
+              <span
+                ><span class="roboto-bold-black-18px">펀딩 금액 </span
+                ><span class="roboto-bold-royal-blue-18px">50</span
+                ><span class="roboto-bold-black-18px">억원 이하 🔑</span>
+              </span>
+            </div>
+            <div class="teams">
+              <div id="modal-open-Under50-1" class="team-row1">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under50-2" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under50-3" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under50-4" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under50-5" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under50-6" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under50-7" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under50-8" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under50-9" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under50-10" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <div id="modal-open-Under50-11" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+              <!-- <div id="modal-open-Under50-12" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div> -->
+              <!-- <div id="modal-open-Under50-13" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div> -->
+              <!-- <div id="modal-open-Under50-14" class="team">
+                <div class="TeamName_Under50 text valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                <div class="TeamInfo_Under50 text-1 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div> -->
+              
+
+
+            </div>
+          </div>
+          <div class="team-under">
+            <div class="text01-1 valign-text-middle roboto-bold-white-18px">
+              <span
+                ><span class="roboto-bold-black-18px">펀딩 금액 </span
+                ><span class="roboto-bold-royal-blue-18px">100</span
+                ><span class="roboto-bold-black-18px">억원 이하 💎</span>
+              </span>
+            </div>
+            <div id="modal-open-Under100-1" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Under100 text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Under100 text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
               </div>
             </div>
-            <div class="col-lg-4 mt-4 mt-lg-0">
-              <div class="icon-box hovereffect">
-                <i class="bi bi-person-check"></i>
-                <h3 class="batch_name"><a href="">파트너 1:1 멘토링</a></h3>
-                <p>프라이머 파트너가 팀별 전담 멘토가 되어 격주/월 정기적인 멘토링을 통해 사업 방향을 논의합니다. 마케팅 최적화, KPI 설정 및 관리, 세미나(개발, 세무, 특허, SEO) 참여 등을 통해 사업을 돕습니다.</p>
+            <div id="modal-open-Under100-2" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Under100 text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Under100 text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
               </div>
             </div>
-            <div class="col-lg-4 mt-4 mt-lg-0">
-              <div class="icon-box hovereffect">
-                <i class="bi bi-graph-up-arrow"></i>
-                <h3 class="batch_name"><a href="">후속투자 지원</a></h3>
-                <p>프라이머의 국내·외 엔젤, 벤처캐피털 투자자 네트워크를 통해 후속투자를 유치할 수 있도록 돕습니다. 프라이머 파트너의 해외 사업 네트워크를 통해 해외 시장 진출을 지원합니다.</p>
+            <div id="modal-open-Under100-3" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Under100 text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Under100 text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
               </div>
             </div>
-          </div>
+            <div id="modal-open-Under100-4" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Under100 text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Under100 text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <!-- <div id="modal-open-Under100-5" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Under100 text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Under100 text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div> -->
+            <!-- <div id="modal-open-Under100-6" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Under100 text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Under100 text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div> -->
+            <!-- <div id="modal-open-Under100-7" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Under100 text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Under100 text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div> -->
 
+
+          </div>
+          <div class="team-under">
+            <div class="text01-2 valign-text-middle roboto-bold-white-18px">
+              <span
+                ><span class="roboto-bold-black-18px">펀딩 금액 </span
+                ><span class="roboto-bold-royal-blue-18px">100</span
+                ><span class="roboto-bold-black-18px">억원 초과 🚀</span>
+              </span>
+            </div>
+            <div id="modal-open-Over100-1" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Over100 text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Over100 text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Over100-2" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Over100 text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Over100 text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <!-- <div id="modal-open-Over100-3" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Over100 text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Over100 text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div> -->
+
+
+          </div>
+          <div class="team-under">
+            <div class="text01-2 valign-text-middle roboto-bold-white-18px">
+              <span
+                ><span class="roboto-bold-black-18px">펀딩 </span
+                ><span class="roboto-bold-royal-blue-18px" style="color: rgb(146, 13, 235);">완료</span
+                ><span class="roboto-bold-black-18px"> 👑</span>
+              </span>
+            </div>
+            <div id="modal-open-Complete-1" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-2" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-3" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-4" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-5" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-6" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-7" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-8" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-9" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-10" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-11" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-12" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-13" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <!-- <div id="modal-open-Complete-14" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div>
+            <div id="modal-open-Complete-15" class="teams">
+              <div class="team-row1">
+                <div class="TeamName_Complete text valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                <div class="TeamInfo_Complete text-1 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+                <div class="text-2 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+              </div>
+            </div> -->
+
+          </div>
         </div>
-      </section><!-- End Featured Section -->
-
-      <!-- ======= Clients Section ======= -->
-      <section id="clients" class="clients">
-        <div class="container">
-
-          <div class="section-title">
-            <h2>Partners</h2>
-            <p class="Gothic_A1">프라이머의 파트너는 실무 경험에서 얻은 통찰과 노하우를 후배 창업가들에게 아낌없이 제공합니다. </p>
+        <div class="footer">
+          <div class="contnets roboto-medium-mine-shaft-10px">
+            <div class="text-9 valign-text-middle">주식회사 프라이머시즌5</div>
+            <div class="text-3 valign-text-middle">대표이사 권도균</div>
+            <p class="text-3 valign-text-middle">서울 마포구 마포대로 122, 프론트원 16층</p>
+            <div class="text-3 valign-text-middle">사업자등록번호&nbsp;&nbsp;277-87-00708</div>
+            <div class="text-3 valign-text-middle">이메일&nbsp;&nbsp;lgh@primer.kr</div>
           </div>
-
-          <div class="clients-slider swiper">
-            <div class="swiper-wrapper align-items-center">
-              <div class="swiper-slide"><a href="https://www.primer.kr/" target="_blank"><img src="assets/img/partners/partner-001.png" class="img-fluid" alt=""></a><p class="patners_name">권도균<br><span>프라이머 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://www.primer.kr/" target="_blank"><img src="assets/img/partners/partner-002.png" class="img-fluid" alt=""></a><p class="patners_name">이기하<br><span>프라이머 이사</span></p></div>
-              <div class="swiper-slide"><a href="http://kr.strongvc.com/" target="_blank"><img src="assets/img/partners/partner-003.png" class="img-fluid" alt=""></a><p class="patners_name">배기홍<br><span>스트롱벤처스 대표</span></p></div>
-              <div class="swiper-slide"><a href="#" target="_blank"><img src="assets/img/partners/partner-020.png" class="img-fluid" alt=""></a><p class="patners_name">노태준<br><span>모두의캠퍼스 전 대표</span></p></div>
-              <div class="swiper-slide"><a href="http://www.spigen.co.kr/" target="_blank"><img src="assets/img/partners/partner-004.png" class="img-fluid" alt=""></a><p class="patners_name">김대영<br><span>슈피겐코리아 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://www.woowahan.com/" target="_blank"><img src="assets/img/partners/partner-005.png" class="img-fluid" alt=""></a><p class="patners_name">김상헌<br><span>우아한형제들 부회장</span></p></div>
-              <div class="swiper-slide"><a href="http://www.daewoongholdings.com/daewoongholdings/main/main.web" target="_blank"><img src="assets/img/partners/partner-006.png" class="img-fluid" alt=""></a><p class="patners_name">윤재승<br><span>대웅홀딩스 회장</span></p></div>
-              <div class="swiper-slide"><a href="https://www.jiran.com/" target="_blank"><img src="assets/img/partners/partner-007.png" class="img-fluid" alt=""></a><p class="patners_name">오치영<br><span>지란지교 CDO</span></p></div>
-              <div class="swiper-slide"><a href="https://www.daangn.com/" target="_blank"><img src="assets/img/partners/partner-008.png" class="img-fluid" alt=""></a><p class="patners_name">김재현<br><span>당근마켓 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://www.zinus.co.kr/" target="_blank"><img src="assets/img/partners/partner-009.png" class="img-fluid" alt=""></a><p class="patners_name">이윤재<br><span>지누스 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://www.upstage.ai/" target="_blank"><img src="assets/img/partners/partner-010.png" class="img-fluid" alt=""></a><p class="patners_name">김성훈<br><span>업스테이지 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://www.pillyze.com/" target="_blank"><img src="assets/img/partners/partner-011.png" class="img-fluid" alt=""></a><p class="patners_name">신인식<br><span>필라이즈 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://cafenono.com/" target="_blank"><img src="assets/img/partners/partner-012.png" class="img-fluid" alt=""></a><p class="patners_name">심상민<br><span>카페노노 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://cafenono.com/" target="_blank"><img src="assets/img/partners/partner-013.png" class="img-fluid" alt=""></a><p class="patners_name">조목련<br><span>카페노노 이사</span></p></div>
-              <div class="swiper-slide"><a href="https://cafenono.com/" target="_blank"><img src="assets/img/partners/partner-014.png" class="img-fluid" alt=""></a><p class="patners_name">김준기<br><span>카페노노 이사</span></p></div>
-              <div class="swiper-slide"><a href="https://laftel.net/" target="_blank"><img src="assets/img/partners/partner-015.png" class="img-fluid" alt=""></a><p class="patners_name">김범준<br><span>라프텔 전 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://laftel.net/" target="_blank"><img src="assets/img/partners/partner-016.png" class="img-fluid" alt=""></a><p class="patners_name">김남희<br><span>라프텔 전 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://www.styleshare.kr/" target="_blank"><img src="assets/img/partners/partner-017.png" class="img-fluid" alt=""></a><p class="patners_name">윤자영<br><span>스타일쉐어 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://plustv.io/" target="_blank"><img src="assets/img/partners/partner-018.png" class="img-fluid" alt=""></a><p class="patners_name">조재화<br><span>플러스티브이 전 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://dsaone.co.kr/" target="_blank"><img src="assets/img/partners/partner-019.png" class="img-fluid" alt=""></a><p class="patners_name">김신한<br><span>에이원 대표</span></p></div>
-              <div class="swiper-slide"><a href="https://ridibooks.com/" target="_blank"><img src="assets/img/partners/partner-021.png" class="img-fluid" alt=""></a><p class="patners_name">배기식<br><span>리디 대표</span></p></div>
-            </div>
-            <div class="swiper-pagination"></div>
-          </div>
-
-        </div>
-      </section><!-- End Clients Section -->
-
-      <!-- ======= Services Section ======= -->
-      <section id="services" class="services">
-        <div class="container">
-          <div class="section-title">
-            <h2>Primer Club</h2>
-            <p class="Gothic_A1">프라이머 클럽은 빠르게 성장하며 시장을 주도하고 있습니다.</p>
-          </div>
-
-          <div class="row">
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-              <a href="batch19.html">
-                <div class="icon-box team_box hovereffect">
-                  <div class="icon"><i class="bx bx-file"></i></div>
-                  <h4 class="batch_name"><a href="batch19.html">배치 19기</a></h4>
-                  <p>총 9개 팀 / 2021년 상반기 투자</p>
-                </div>
-              </a>
-            </div>
-
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-              <a href="batch20.html">
-                <div class="icon-box team_box hovereffect">
-                  <div class="icon"><i class="bx bx-file"></i></div>
-                  <h4 class="batch_name"><a href="batch20.html">배치 20기</a></h4>
-                  <p>총 9개 팀 / 2021년 하반기 투자</p>
-                </div>
-              </a>
-            </div>
-
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
-              <a href="batch21.html">
-                <div class="icon-box team_box hovereffect">
-                  <div class="icon"><i class="bx bx-file"></i></div>
-                  <h4 class="batch_name"><a href="batch21.html">배치 21기</a></h4>
-                  <p>총 12개 팀 / 2022년 상반기 투자</p>
-                </div>
-              </a>
-            </div>
-
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-              <a href="batch22.html">
-                <div class="icon-box team_box hovereffect">
-                  <div class="icon"><i class="bx bx-file"></i></div>
-                  <h4 class="batch_name"><a href="">배치 22기</a></h4>
-                  <p>총 17개 팀 / 2023년 상반기 투자</p>
-                </div>
-              </a>
-            </div>
-
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-              <a href="batch23.html">
-                <div class="icon-box team_box hovereffect">
-                  <div class="icon"><i class="bi bi-lock-fill"></i></div>
-                  <h4 class="batch_name"><a href="">배치 23기</a></h4>
-                  <p>총 0개 팀 / 2023년 하반기 투자 예정</p>
-                </div>
-              </a>
-            </div>
-
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
-              <a href="batch24.html">
-                <div class="icon-box team_box hovereffect">
-                  <div class="icon"><i class="bi bi-lock-fill"></i></div>
-                  <h4 class="batch_name"><a href="">배치 24기</a></h4>
-                  <p>총 0개 팀 / 2024년 상반기 투자 예정</p>
-                </div>
-              </a>
-            </div>
-          </div>
-
-        </div>
-      </section><!-- End Services Section -->
-
-      
-
-    </main><!-- End #main -->
-
-    <!-- ======= Footer ======= -->
-    <footer id="footer">
-
-      <div class="footer-newsletter">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-6">
-              <h4>Primer Newsletter</h4>
-              <p>등록하신 이메일 주소로 배치 모집 시작일, 데모데이 개최일 등 프라이머의 소식을 알려 드려요.</p>
-            </div>
-            <div class="col-lg-6">
-              <a href="https://apply.primer.kr/campaigns/0" target="_blank">
-                <form action="" method="post" onsubmit="event.preventDefault();">
-                  <input type="email" name="email"><input type="submit" value="Subscribe">
-                </form>
-              </a>
-            </div>
-          </div>
+          <div class="scoll-top"><img class="arrow" src="img/arrow@2x.svg" onclick="topFunction()" id="myBtn1"/></div>
+          <div><p style="opacity: 0;">0</p></div>
         </div>
       </div>
+    </div>
+    <!-- //PC Screen -->
 
-      <div class="container">
-        <div class="copyright">
-          &copy; Copyright <strong><span>Primer season 5, CO., LTD</span></strong>. All Rights Reserved
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Mobile Screen -->
+    <div class="container-center-horizontal">
+      <div class="x02 screen">
+        <div class="nav-1">
+          <a href="#"><img class="logo-1" src="img/logo@2x.png" /></a>
+          <div class="hamburger">
+            <img class="line-1" src="img/line-1@2x.svg" />
+            <img id="nav-sub-button" class="line" src="img/line-1@2x.svg" />
+            <img class="line" src="img/line-1@2x.svg" />
+          </div>
         </div>
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/ -->
-          Created by <a href="mailto:lgh@primer.kr" style="color: white; font-weight: bold;">@Gyuho Lee</a>
+
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item"><a style="color: #403e3eb2;" href="http://main.primer.kr/about" target="_blank">ABOUT</a></li>
+          <li class="list-group-item scrolldown2">CONTACT</li>
+        </ul>
+
+        <div class="header-1">
+          <div class="header-contents-1">
+            <div class="text-14 valign-text-middle">Meet Primer Club</div>
+            <div class="text-15 valign-text-middle">
+              <span
+                ><span class="span-2 mulish-semi-bold-royal-blue-35px">펀딩</span
+                ><span class="span-2 mulish-semi-bold-cape-cod-35px"> 중인 스타트업을 <br /></span
+                ><span class="span-2 mulish-semi-bold-royal-blue-35px">지금</span
+                ><span class="span-2 mulish-semi-bold-cape-cod-35px"> 만나보세요</span>
+              </span>
+            </div>
+            <p class="text-16 mulish-normal-rolling-stone-12px">
+              <span class="mulish-normal-rolling-stone-12px"
+                >빠르게 성장 중인 프라이머 클럽 팀을 만나보세요 <br />팀에 대한 자세한 정보는 ‘</span
+              ><span class="span1-1">플러스(+)</span
+              ><span class="mulish-normal-rolling-stone-12px">’ 버튼을 클릭해 보세요</span>
+            </p>
+          </div>
+          <div class="honers-1">
+            <div class="honer-1">
+              <a href="https://www.styleshare.kr/" target="_blank"><div class="styleshare-1 hovereffect"><img class="logo-styleshare-1" src="img/logo-styleshare@2x.png" /></div></a>
+              <a href="https://www.myrealtrip.com/" target="_blank"><div class="my-real-trip-1 hovereffect"><img class="image-2-1" src="img/image-2@2x.png" /></div></a>
+              <a href="https://www.dailyhotel.com/" target="_blank"><div class="daily-1 hovereffect"><img class="image-1-1" src="img/image-1@2x.png" /></div></a>
+              <a href="https://www.idus.com/" target="_blank"><div class="idus-1 hovereffect"><img class="image-3-1" src="img/image-3@2x.png" /></div></a>
+            </div>
+            <div class="honer-1">
+              <a href="https://www.getrael.co.kr/" target="_blank"><div class="rael-1 hovereffect"><img class="image-5-1" src="img/image-5@2x.png" /></div></a>
+              <a href="https://soomgo.com/" target="_blank"><div class="soomgo-1 hovereffect"><img class="image-6-1" src="img/image-6@2x.png" /></div></a>
+              <a href="https://hogangnono.com/" target="_blank"><div class="hogangnono-1 hovereffect"><img class="image-4-1" src="img/image-4@2x.png" /></div></a>
+              <a href="https://www.upstage.ai/" target="_blank"><div class="upstage-1 hovereffect"><img class="image-7-1" src="img/image-7@2x.png" /></div></a>
+            </div>
+          </div>
+        </div>
+        <div class="main-1">
+          <div class="team-under-3">
+            <div class="text01-3 valign-text-middle roboto-bold-white-18px">
+              <span
+                ><span class="roboto-bold-black-18px">펀딩 금액 </span
+                ><span class="roboto-bold-royal-blue-18px">10</span
+                ><span class="roboto-bold-black-18px">억원 이하 💡</span>
+              </span>
+            </div>
+            <div class="teams-1">
+              <div id="modal-open-Under10-1-mobile" class="team-row1-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under10_Mobile text-10 valign-text-middle roboto-bold-masala-15px ">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under10_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under10-2-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under10_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under10_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under10-3-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under10_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under10_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under10-4-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under10_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under10_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under10-5-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under10_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under10_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under10-6-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under10_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under10_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under10-7-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under10_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under10_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <!-- <div id="modal-open-Under10-8-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under10_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under10_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div> -->
+              <!-- <div id="modal-open-Under10-9-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under10_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under10_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div> -->
+              <!-- <div id="modal-open-Under10-10-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under10_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under10_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div> -->
+              <!-- <div id="modal-open-Under10-11-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under10_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under10_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div> -->
+            </div>
+          </div>
+          <div class="team-under-2">
+            <div class="text01-3 valign-text-middle roboto-bold-white-18px">
+              <span
+                ><span class="roboto-bold-black-18px">펀딩 금액 </span
+                ><span class="roboto-bold-royal-blue-18px">50</span
+                ><span class="roboto-bold-black-18px">억원 이하 🔑</span>
+              </span>
+            </div>
+            <div class="teams-1">
+              <div id="modal-open-Under50-1-mobile" class="team-row1-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under50-2-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under50-3-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under50-4-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under50-5-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under50-6-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under50-7-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under50-8-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under50-9-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under50-10-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <div id="modal-open-Under50-11-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div>
+              <!-- <div id="modal-open-Under50-12-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div> -->
+              <!-- <div id="modal-open-Under50-13-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div> -->
+              <!-- <div id="modal-open-Under50-14-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div> -->
+              <!-- <div id="modal-open-Under50-15-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under50_Mobile text-10 valign-text-middle roboto-bold-masala-15px">회사명(서비스명)</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under50_Mobile text-12 valign-text-middle mulish-light-masala-14px">1줄 소개(25자 미만)</div>
+              </div> -->
+            </div>
+          </div>
+          <div class="team-under-2">
+            <div class="text01-3 valign-text-middle roboto-bold-white-18px">
+              <span
+                ><span class="roboto-bold-black-18px">펀딩 금액 </span
+                ><span class="roboto-bold-royal-blue-18px">100</span
+                ><span class="roboto-bold-black-18px">억원 이하 💎</span>
+              </span>
+            </div>
+            <div class="teams-1">
+              <div id="modal-open-Under100-1-mobile" class="team-row1-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under100_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under100_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+            </div>
+            <div class="teams-1">
+              <div id="modal-open-Under100-2-mobile" class="team-row1-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under100_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under100_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+            </div>
+            <div class="teams-1">
+              <div id="modal-open-Under100-3-mobile" class="team-row1-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under100_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under100_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+            </div>
+            <div class="teams-1">
+              <div id="modal-open-Under100-4-mobile" class="team-row1-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under100_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under100_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+            </div>
+            <!-- <div class="teams-1">
+              <div id="modal-open-Under100-5-mobile" class="team-row1-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under100_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under100_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+            </div> -->
+            <!-- <div class="teams-1">
+              <div id="modal-open-Under100-6-mobile" class="team-row1-1">
+                <div class="frame-2">
+                  <div class="TeamName_Under100_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Under100_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+            </div> -->
+
+          </div>
+          <div class="team-under-2">
+            <div class="text01-3 valign-text-middle roboto-bold-white-18px">
+              <span
+                ><span class="roboto-bold-black-18px">펀딩 금액 </span
+                ><span class="roboto-bold-royal-blue-18px">100</span
+                ><span class="roboto-bold-black-18px">억원 초과 🚀</span>
+              </span>
+            </div>
+            <div class="teams-1">
+              <div id="modal-open-Over100-1-mobile" class="team-row1-1">
+                <div class="frame-2">
+                  <div class="TeamName_Over100_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Over100_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+            </div>
+            <div class="teams-1">
+              <div id="modal-open-Over100-2-mobile" class="team-row1-1">
+                <div class="frame-2">
+                  <div class="TeamName_Over100_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Over100_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+            </div> 
+              
+          </div>
+          <div class="team-under-2">
+            <div class="text01-3 valign-text-middle roboto-bold-white-18px">
+              <span
+                ><span class="roboto-bold-black-18px">펀딩 </span
+                ><span class="roboto-bold-royal-blue-18px" style="color: rgb(146, 13, 235);">완료</span
+                ><span class="roboto-bold-black-18px"> 👑</span>
+              </span>
+            </div>
+            <div class="teams-1">
+              <div id="modal-open-Complete-1-mobile" class="team-row1-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div class="team-1">
+                <div id="modal-open-Complete-2-mobile" class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div id="modal-open-Complete-3-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div id="modal-open-Complete-4-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div id="modal-open-Complete-5-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div id="modal-open-Complete-6-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div id="modal-open-Complete-7-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div id="modal-open-Complete-8-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div id="modal-open-Complete-9-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div id="modal-open-Complete-10-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div id="modal-open-Complete-11-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div id="modal-open-Complete-12-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <div id="modal-open-Complete-13-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div>
+              <!-- <div id="modal-open-Complete-14-mobile" class="team-1">
+                <div class="frame-2">
+                  <div class="TeamName_Complete_Mobile text-10 valign-text-middle roboto-bold-masala-15px">COMING SOON</div>
+                  <div class="text-11 valign-text-middle fontawesome5free-solid-normal-nobel-20px"></div>
+                </div>
+                <div class="TeamInfo_Complete_Mobile text-12 valign-text-middle mulish-light-masala-14px">COMING SOON</div>
+              </div> -->
+
+            </div>
+          </div>
+        </div>
+        <div class="footer-1">
+          <div class="contnets-1 roboto-medium-mine-shaft-10px">
+            <div class="text-17 valign-text-middle">주식회사 프라이머시즌5</div>
+            <div class="text-13 valign-text-middle">대표이사 권도균</div>
+            <p class="text-13 valign-text-middle">서울 마포구 마포대로 122, 프론트원 16층</p>
+            <div class="text-13 valign-text-middle">사업자등록번호&nbsp;&nbsp;277-87-00708</div>
+            <div class="text-13 valign-text-middle">이메일&nbsp;&nbsp;lgh@primer.kr</div>
+          </div>
+          <div class="scoll-top-1"><img class="arrow-1" src="img/arrow@2x.svg" onclick="topFunction()" id="myBtn2"/></div>
+          <div><p style="opacity: 0;">0</p></div>
+
         </div>
       </div>
-    </footer><!-- End Footer -->
+    </div>
+    <!-- //Mobile Screen -->
 
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-    <!-- Vendor JS Files -->
-    <script src="assets/vendor/purecounter/purecounter.js"></script>
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
-
-    <!-- Template Main JS File -->
-    <script src="assets/js/main.js"></script>
-
+    <script src="./js/main.js"></script>
   </body>
-
 </html>
